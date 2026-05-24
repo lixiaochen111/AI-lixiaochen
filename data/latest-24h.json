@@ -1,0 +1,3024 @@
+{
+  "generated_at": "2026-05-24T04:11:32.333456Z",
+  "window_hours": 24,
+  "total_items": 32,
+  "total_items_ai_raw": 32,
+  "total_items_raw": 3287,
+  "total_items_all_mode": 3126,
+  "topic_filter": "ai_relevance_scoring_v0_4",
+  "ai_relevance_threshold": 0.65,
+  "ai_filter_stats": {
+    "total": 32,
+    "tier_0": 0,
+    "tier_1": 32,
+    "tier_2": 0,
+    "blacklisted": 0,
+    "items_before_filter": 3287,
+    "items_after_filter": 32,
+    "filter_pass_rate": "1.0%"
+  },
+  "archive_total": 4138,
+  "site_count": 14,
+  "source_count": 4,
+  "site_stats": [
+    {
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "count": 28,
+      "raw_count": 2195
+    },
+    {
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "count": 3,
+      "raw_count": 157
+    },
+    {
+      "site_id": "buzzing",
+      "site_name": "Buzzing",
+      "count": 1,
+      "raw_count": 447
+    },
+    {
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "count": 0,
+      "raw_count": 146
+    },
+    {
+      "site_id": "bestblogs",
+      "site_name": "BestBlogs",
+      "count": 0,
+      "raw_count": 1
+    },
+    {
+      "site_id": "iris",
+      "site_name": "Info Flow",
+      "count": 0,
+      "raw_count": 251
+    },
+    {
+      "site_id": "zeli",
+      "site_name": "Zeli",
+      "count": 0,
+      "raw_count": 50
+    },
+    {
+      "site_id": "aihubtoday",
+      "site_name": "AI HubToday",
+      "count": 0,
+      "raw_count": 10
+    },
+    {
+      "site_id": "aihot",
+      "site_name": "AI HOT",
+      "count": 0,
+      "raw_count": 6
+    },
+    {
+      "site_id": "followbuilders",
+      "site_name": "Follow Builders",
+      "count": 0,
+      "raw_count": 4
+    },
+    {
+      "site_id": "aibase",
+      "site_name": "AIbase",
+      "count": 0,
+      "raw_count": 20
+    },
+    {
+      "site_id": "official_ai",
+      "site_name": "Official AI Updates",
+      "count": 0,
+      "raw_count": 0
+    },
+    {
+      "site_id": "aibreakfast",
+      "site_name": "AI Breakfast",
+      "count": 0,
+      "raw_count": 0
+    },
+    {
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "count": 0,
+      "raw_count": 0
+    }
+  ],
+  "items": [
+    {
+      "id": "a3558d26b7f5e80425ff69bfd4319d3df3176fe6",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "AI没法直出UI？GPT+Figma这样搭才管用！",
+      "url": "https://www.uisdc.com/ai-design-flow-3",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.9,
+      "ai_quality_score": 8,
+      "ai_categories": [
+        "UI设计",
+        "AI工具",
+        "设计工作流"
+      ],
+      "ai_target_audience": "正在探索AI辅助设计、希望提高效率的UI/UX设计师",
+      "ai_key_insights": "AI尚不能直接生成完整可用的UI界面，但将GPT用于文案生成、设计规范整理，并与Figma插件协作，可以显著缩短从创意到界面的工作流，减少机械重复劳动。",
+      "ai_recommendation": "结合GPT与Figma的实操方法，直击当前AI不能直出UI的痛点，实用性强，推荐阅读。",
+      "title_original": "AI没法直出UI？GPT+Figma这样搭才管用！",
+      "title_en": null,
+      "title_zh": "AI没法直出UI？GPT+Figma这样搭才管用！",
+      "title_bilingual": "AI没法直出UI？GPT+Figma这样搭才管用！"
+    },
+    {
+      "id": "cfe8910b8316d99245c7faba07c23c7c944a4001",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "如何从零开始写好一个Skill？保姆级教程+实战案例来了！",
+      "url": "https://www.uisdc.com/master-ai-skills",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.7,
+      "ai_quality_score": 6,
+      "ai_categories": [
+        "AI设计",
+        "交互设计",
+        "设计教程"
+      ],
+      "ai_target_audience": "希望学习AI技能开发的设计师和产品初学者",
+      "ai_key_insights": "从设计角度解析如何构建一个完整Skill，融合交互逻辑、用户体验与实战案例，降低非技术设计师的入门门槛。",
+      "ai_recommendation": "以设计师视角拆解AI技能构建全流程，实操性强，适合想要拓展AI产品能力的设计师快速上手。",
+      "title_original": "如何从零开始写好一个Skill？保姆级教程+实战案例来了！",
+      "title_en": null,
+      "title_zh": "如何从零开始写好一个Skill？保姆级教程+实战案例来了！",
+      "title_bilingual": "如何从零开始写好一个Skill？保姆级教程+实战案例来了！"
+    },
+    {
+      "id": "d49b1254ccdf311483e553f2bf2b95fe83f7411a",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "资讯/神器/素材全都有！2026年5月设计素材周刊第一波",
+      "url": "https://www.uisdc.com/design-source-material-38",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.9,
+      "ai_quality_score": 7,
+      "ai_categories": [
+        "设计资讯",
+        "设计工具",
+        "素材资源"
+      ],
+      "ai_target_audience": "UI/UX设计师、视觉设计师、设计爱好者，尤其关注行业动态与效率工具的设计从业者",
+      "ai_key_insights": "以周刊形式梳理最新设计资讯、实用工具与高质量素材，帮助设计师快速获取灵感、提升效率，覆盖工具提效、风格趋势与资源下载等多维需求。",
+      "ai_recommendation": "一站式设计速递，集合最新资讯、提效神器和优质素材，适合繁忙的设计师快速同步行业脉动。",
+      "title_original": "资讯/神器/素材全都有！2026年5月设计素材周刊第一波",
+      "title_en": null,
+      "title_zh": "资讯/神器/素材全都有！2026年5月设计素材周刊第一波",
+      "title_bilingual": "资讯/神器/素材全都有！2026年5月设计素材周刊第一波"
+    },
+    {
+      "id": "cff2ce1d10c8ca6a9a55f13bbea01ed96f6f32f9",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "想给UI界面加上动效？试试这个超实用的工作流！",
+      "url": "https://www.uisdc.com/ui-design-29",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.9,
+      "ai_quality_score": 8,
+      "ai_categories": [
+        "UI设计",
+        "交互动效",
+        "设计工具/工作流"
+      ],
+      "ai_target_audience": "希望提升界面动效能力、优化设计流程的UI/UX设计师",
+      "ai_key_insights": "提供可直接落地的工作流方法，可能涵盖从构思、设计到开发交付的动效实现步骤，强调效率与实用技巧。",
+      "ai_recommendation": "讲解从创意到落地的完整动效工作流，实战性极强，能有效解决设计师做动效没思路、低效的痛点。",
+      "title_original": "想给UI界面加上动效？试试这个超实用的工作流！",
+      "title_en": null,
+      "title_zh": "想给UI界面加上动效？试试这个超实用的工作流！",
+      "title_bilingual": "想给UI界面加上动效？试试这个超实用的工作流！"
+    },
+    {
+      "id": "218c904525dddf5a77be4b8c620dd4d138d3d584",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "观察了三年，我把所有人用AI的水平分成了10个等级",
+      "url": "https://www.uisdc.com/the-ai-divide",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.8,
+      "ai_quality_score": 7,
+      "ai_categories": [
+        "AI与设计",
+        "技能成长",
+        "职业发展"
+      ],
+      "ai_target_audience": "对AI工具感兴趣的UI/UX设计师、产品设计师，以及希望提升AI协作能力的创意工作者",
+      "ai_key_insights": "通过三年观察总结的水平分级，帮助设计师定位自身AI应用能力阶段，理解从基础操作到策略性创造的全路径，提供可对照的成长框架，避免盲目追逐工具",
+      "ai_recommendation": "这篇分级体系为设计师提供了清晰的AI能力演进地图，帮助你在日常工作中更有针对性地提升AI协作深度与效率。",
+      "title_original": "观察了三年，我把所有人用AI的水平分成了10个等级",
+      "title_en": null,
+      "title_zh": "观察了三年，我把所有人用AI的水平分成了10个等级",
+      "title_bilingual": "观察了三年，我把所有人用AI的水平分成了10个等级"
+    },
+    {
+      "id": "b4755074d4542d5e3a66cb45b92a1b0606510bbe",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "压进我十年设计经验的 PPT Skills，迎来大波更新！",
+      "url": "https://www.uisdc.com/ppt-skill-2",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.8,
+      "ai_quality_score": 9,
+      "ai_categories": [
+        "演示设计",
+        "设计经验分享",
+        "UI/UX设计工具"
+      ],
+      "ai_target_audience": "需要提升演示表达能力的设计师、职场人士，尤其是希望将设计思维融入PPT制作的UI/UX设计师",
+      "ai_key_insights": "文章将作者十年设计经验浓缩为可复用的PPT技巧，并进行了大幅更新，强调设计思维在演示文稿中的落地，兼具深度与可操作性，帮助设计师在汇报、提案中更好地传递专业价值。",
+      "ai_recommendation": "十年设计经验沉淀的PPT技能干货更新，是设计师提升演示专业度的必读参考。",
+      "title_original": "压进我十年设计经验的 PPT Skills，迎来大波更新！",
+      "title_en": null,
+      "title_zh": "压进我十年设计经验的 PPT Skills，迎来大波更新！",
+      "title_bilingual": "压进我十年设计经验的 PPT Skills，迎来大波更新！"
+    },
+    {
+      "id": "6781323e3d221f644db7c6847bbdc73b006933fe",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "GPT Image 2 玩法大全！20套即学即用的提示词使用技巧",
+      "url": "https://www.uisdc.com/gpt-image-2-11",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.8,
+      "ai_quality_score": 8,
+      "ai_categories": [
+        "AI设计工具",
+        "提示词技巧",
+        "创意灵感"
+      ],
+      "ai_target_audience": "需要快速获取视觉素材和灵感的UI/UX设计师、产品设计师及创意从业者",
+      "ai_key_insights": "系统化梳理了GPT Image 2的提示词方法，将抽象的图像生成需求转化为可复用的结构化指令，能显著提升设计前期素材收集与概念探索的效率。",
+      "ai_recommendation": "20套即学即用的AI图像提示词，直接帮设计师省去试错时间，快速产出高质量视觉素材。",
+      "title_original": "GPT Image 2 玩法大全！20套即学即用的提示词使用技巧",
+      "title_en": null,
+      "title_zh": "GPT Image 2 玩法大全！20套即学即用的提示词使用技巧",
+      "title_bilingual": "GPT Image 2 玩法大全！20套即学即用的提示词使用技巧"
+    },
+    {
+      "id": "a7836d85e61edd9495ede35021884d3c559b9489",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "从一张图到一座城！GPT Image 2 生成3D场景的超野路子指南",
+      "url": "https://www.uisdc.com/gpt-image-2-9",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.6,
+      "ai_quality_score": 7,
+      "ai_categories": [
+        "AI生成设计",
+        "3D场景设计",
+        "设计工具教程"
+      ],
+      "ai_target_audience": "需快速产出3D场景概念图的UI/UX设计师、视觉设计师及创意从业者",
+      "ai_key_insights": "探索用GPT Image 2从2D图片生成3D场景的非传统方法，提供实用技巧降低设计师3D创作门槛",
+      "ai_recommendation": "一线设计师的AI工具实操野路子，快速解锁3D场景生成新思路，实用性极强。",
+      "title_original": "从一张图到一座城！GPT Image 2 生成3D场景的超野路子指南",
+      "title_en": null,
+      "title_zh": "从一张图到一座城！GPT Image 2 生成3D场景的超野路子指南",
+      "title_bilingual": "从一张图到一座城！GPT Image 2 生成3D场景的超野路子指南"
+    },
+    {
+      "id": "e96ff66630e620a47da7f9b2f2ed588cca379b10",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "30分钟出概念稿！教你用好GPT Image 2 × Figma的实战工作流",
+      "url": "https://www.uisdc.com/gpt-image-2-8",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.9,
+      "ai_quality_score": 8,
+      "ai_categories": [
+        "AI设计工具",
+        "UI/UX工作流",
+        "Figma教程"
+      ],
+      "ai_target_audience": "希望将AI融入设计流程的UI/UX设计师、产品设计师和自由职业者",
+      "ai_key_insights": "文章展示了如何将GPT Image 2的图像生成能力与Figma的组件化设计对接，30分钟内从文本提示获得高保真概念稿，并通过设计系统化步骤落地，大幅缩短了传统构思周期，同时提供了可直接复用的提词结构和图层组织逻辑。",
+      "ai_recommendation": "这篇实战指南将前沿AI图像生成与主流设计工具无缝衔接，提供了可迁移的提效范式，对加速概念验证和原型探索极具启发。",
+      "title_original": "30分钟出概念稿！教你用好GPT Image 2 × Figma的实战工作流",
+      "title_en": null,
+      "title_zh": "30分钟出概念稿！教你用好GPT Image 2 × Figma的实战工作流",
+      "title_bilingual": "30分钟出概念稿！教你用好GPT Image 2 × Figma的实战工作流"
+    },
+    {
+      "id": "bdccce899a2872a5762116402b214412132f14e8",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "1张图+GPT Image 2，我用1天做出了一个完整的品牌联名Campaign",
+      "url": "https://www.uisdc.com/campaign-design",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.8,
+      "ai_quality_score": 7,
+      "ai_categories": [
+        "AI设计工具",
+        "品牌营销设计",
+        "设计效率"
+      ],
+      "ai_target_audience": "UI/UX设计师、品牌设计师、营销创意人员，希望用AI加速创意落地的从业者",
+      "ai_key_insights": "通过极简的视觉输入和GPT-Image-2，一个人可在一天内生成完整品牌联名方案，展示了AI从创意到执行的高效闭环，大幅降低设计门槛和迭代成本。",
+      "ai_recommendation": "真实案例教你如何用一张图启动整套联名视觉，一天搞定品牌Campaign，省时又启发创意。",
+      "title_original": "1张图+GPT Image 2，我用1天做出了一个完整的品牌联名Campaign",
+      "title_en": null,
+      "title_zh": "1张图+GPT Image 2，我用1天做出了一个完整的品牌联名Campaign",
+      "title_bilingual": "1张图+GPT Image 2，我用1天做出了一个完整的品牌联名Campaign"
+    },
+    {
+      "id": "469da39743c79b3fec494b16ac5a0645f762d7ef",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "掌握这个Blender+AI工作流，从打字到渲染只用10分钟！",
+      "url": "https://www.uisdc.com/zero-to-3d",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.6,
+      "ai_quality_score": 7,
+      "ai_categories": [
+        "3D设计",
+        "AI工作流",
+        "效率工具"
+      ],
+      "ai_target_audience": "需要快速产出3D视觉内容的UI/UX设计师、平面设计师及3D初学者",
+      "ai_key_insights": "结合AI生成与Blender渲染，将文字想法转化为3D图像的端到端工作流，大幅缩短从构思到输出的时间，降低3D创作门槛。",
+      "ai_recommendation": "揭示了AI如何把3D设计变为'即时满足'，推荐给渴望用新技术突破效率瓶颈的设计师。",
+      "title_original": "掌握这个Blender+AI工作流，从打字到渲染只用10分钟！",
+      "title_en": null,
+      "title_zh": "掌握这个Blender+AI工作流，从打字到渲染只用10分钟！",
+      "title_bilingual": "掌握这个Blender+AI工作流，从打字到渲染只用10分钟！"
+    },
+    {
+      "id": "438ca6bb1117584eaa3dd15c8bbde5db7e5343db",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "GPT Image 2 会淘汰设计师吗？用7个实测案例说清楚！",
+      "url": "https://www.uisdc.com/gpt-image-2-6",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.9,
+      "ai_quality_score": 8,
+      "ai_categories": [
+        "AI设计",
+        "职业发展",
+        "设计工具"
+      ],
+      "ai_target_audience": "UI/UX设计师及关注AI对设计行业影响的从业者",
+      "ai_key_insights": "通过7个实测案例，客观分析GPT Image 2的能力边界，探讨AI取代设计师的真实可能性，并指出人机协作的未来方向。",
+      "ai_recommendation": "用7个实测案例冷静回应淘汰论，既有技术演示又有职业反思，帮助设计师看清AI的真实能力与自身不可替代性。",
+      "title_original": "GPT Image 2 会淘汰设计师吗？用7个实测案例说清楚！",
+      "title_en": null,
+      "title_zh": "GPT Image 2 会淘汰设计师吗？用7个实测案例说清楚！",
+      "title_bilingual": "GPT Image 2 会淘汰设计师吗？用7个实测案例说清楚！"
+    },
+    {
+      "id": "c3f3bbd9333e5ae2a4c4f7e8641ea0704a3430f8",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "保姆级教程！写给设计师的 Vibe Coding 零基础指南（一）",
+      "url": "https://www.uisdc.com/vibe-coding-7",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.9,
+      "ai_quality_score": 8,
+      "ai_categories": [
+        "AI设计工具",
+        "设计开发协作",
+        "零基础教程"
+      ],
+      "ai_target_audience": "希望借助AI工具将设计创意快速转化为可交互原型的UI/UX设计师，无需编程基础",
+      "ai_key_insights": "Vibe Coding让设计师通过自然语言描述和AI辅助，直接生成可运行的前端代码，极大缩短从设计稿到功能原型的路径，降低开发沟通成本。",
+      "ai_recommendation": "零门槛拥抱AI编程，教你用自然语言把设计灵感瞬间变成可体验的交互原型，设计师必入。",
+      "title_original": "保姆级教程！写给设计师的 Vibe Coding 零基础指南（一）",
+      "title_en": null,
+      "title_zh": "保姆级教程！写给设计师的 Vibe Coding 零基础指南（一）",
+      "title_bilingual": "保姆级教程！写给设计师的 Vibe Coding 零基础指南（一）"
+    },
+    {
+      "id": "a8448f157e58f8c9096a2ea7ba26362427317f96",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "GPT Image-2 爆火后，我用AI生成了12套可视化大屏概念稿",
+      "url": "https://www.uisdc.com/ai-design-copilot",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.9,
+      "ai_quality_score": 8,
+      "ai_categories": [
+        "AI设计工具",
+        "数据可视化",
+        "UI/UX设计"
+      ],
+      "ai_target_audience": "UI/UX设计师、数据可视化设计师、关注AI赋能设计效能的前沿从业者",
+      "ai_key_insights": "以GPT Image-2为创作引擎，演示了从提示词到完整概念稿的快速出图流程，展现了AI在可视化大屏早期方案探索中的高实用性，为设计师提供了可复用的灵感素材与工作流参考。",
+      "ai_recommendation": "实战演示AI生成12套可视化大屏概念稿，为设计师开辟高效灵感探索新路径。",
+      "title_original": "GPT Image-2 爆火后，我用AI生成了12套可视化大屏概念稿",
+      "title_en": null,
+      "title_zh": "GPT Image-2 爆火后，我用AI生成了12套可视化大屏概念稿",
+      "title_bilingual": "GPT Image-2 爆火后，我用AI生成了12套可视化大屏概念稿"
+    },
+    {
+      "id": "126d9c0fa1ad67113788048da37b83a1bc1bdfec",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "想学图生视频？超详细的GPT Images 2 + Seedance 2.0工作流",
+      "url": "https://www.uisdc.com/gpt-image2-seedance-2-0",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.7,
+      "ai_quality_score": 8,
+      "ai_categories": [
+        "AI设计工具",
+        "动效与视频",
+        "工作流教程"
+      ],
+      "ai_target_audience": "希望用AI将静态设计稿转为动态视频的UI/UX设计师、创意人员及内容创作者",
+      "ai_key_insights": "结合GPT图文生成与Seedance视频生成，提供从图像到动态内容的端到端解决方案，降低视频制作门槛",
+      "ai_recommendation": "实操性强的图生视频工作流，帮助设计师快速将界面概念转化为可演示的动态视频，提升方案表现力。",
+      "title_original": "想学图生视频？超详细的GPT Images 2 + Seedance 2.0工作流",
+      "title_en": null,
+      "title_zh": "想学图生视频？超详细的GPT Images 2 + Seedance 2.0工作流",
+      "title_bilingual": "想学图生视频？超详细的GPT Images 2 + Seedance 2.0工作流"
+    },
+    {
+      "id": "e4853dcef0d76dd243a425fad833fc077f2ae9ca",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "GPT Images 2生成的图改不了？用这个神器能分层编辑直接商用！",
+      "url": "https://www.uisdc.com/xfun-2",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.9,
+      "ai_quality_score": 7,
+      "ai_categories": [
+        "AI设计工具",
+        "图像编辑",
+        "设计资源"
+      ],
+      "ai_target_audience": "UI/UX设计师、平面设计师、AI图像创作者和需要商用AI生成素材的设计从业者",
+      "ai_key_insights": "解决GPT Images 2生成图像无法分层编辑的痛点，介绍能实现可编辑图层并直接商用的转换工具，大幅提升AI素材的设计落地性。",
+      "ai_recommendation": "直击AI图像难以修改的行业刚需，提供从生成到商用的完整闭环，设计师必读的效率利器。",
+      "title_original": "GPT Images 2生成的图改不了？用这个神器能分层编辑直接商用！",
+      "title_en": null,
+      "title_zh": "GPT Images 2生成的图改不了？用这个神器能分层编辑直接商用！",
+      "title_bilingual": "GPT Images 2生成的图改不了？用这个神器能分层编辑直接商用！"
+    },
+    {
+      "id": "43dc85c45bbc8d2b6aa319f972248b1af70349db",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "让效率放大10倍！教你快速掌握全新的GPT Images 2工作流",
+      "url": "https://www.uisdc.com/gpt-images-2-5",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.9,
+      "ai_quality_score": 7,
+      "ai_categories": [
+        "AI设计工具",
+        "工作流效率"
+      ],
+      "ai_target_audience": "关注效率提升的UI/UX设计师、产品设计师和AIGC实践者",
+      "ai_key_insights": "介绍GPT Images 2在图像生成、编辑与设计协作中的新工作流，强调效率提升10倍，贴合设计师快速落地的需求",
+      "ai_recommendation": "直击设计师效率痛点，融合最新AI工具与工作流，实操性强，即刻提升图像创作速度。",
+      "title_original": "让效率放大10倍！教你快速掌握全新的GPT Images 2工作流",
+      "title_en": null,
+      "title_zh": "让效率放大10倍！教你快速掌握全新的GPT Images 2工作流",
+      "title_bilingual": "让效率放大10倍！教你快速掌握全新的GPT Images 2工作流"
+    },
+    {
+      "id": "ccf593a177312ede281c69391de20519724e8965",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "GPT Images 2发布后，设计行业的天真的塌了？",
+      "url": "https://www.uisdc.com/gpt-images-2-4",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.8,
+      "ai_quality_score": 7,
+      "ai_categories": [
+        "AI设计工具",
+        "行业观点与趋势"
+      ],
+      "ai_target_audience": "UI/UX设计师、视觉设计师、产品设计从业者及关注AI对创意行业影响的设计管理者",
+      "ai_key_insights": "通过分析GPT Images 2对设计流程的冲击，探讨AI图像生成在真实项目中的局限与潜力，冷静审视设计师的核心价值不会被替代，反而会向更高层次的创意策展和策略思维升级。",
+      "ai_recommendation": "面对AI绘画的冲击波，这篇分析帮你稳住阵脚，看清设计师真正的进化方向。",
+      "title_original": "GPT Images 2发布后，设计行业的天真的塌了？",
+      "title_en": null,
+      "title_zh": "GPT Images 2发布后，设计行业的天真的塌了？",
+      "title_bilingual": "GPT Images 2发布后，设计行业的天真的塌了？"
+    },
+    {
+      "id": "e6e18966a4d5ec001131d0e2e29cf1b6edf0e246",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "GPT Images 2+Lovart 效率有多高？5个案例教你成立一人品牌部！",
+      "url": "https://www.uisdc.com/gpt-images-2-2",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.8,
+      "ai_quality_score": 8,
+      "ai_categories": [
+        "AI设计工具",
+        "品牌设计",
+        "效率提升"
+      ],
+      "ai_target_audience": "独立设计师、品牌创业者、希望用AI提升品牌设计效率的小团队负责人",
+      "ai_key_insights": "通过5个实战案例展示GPT Images 2与Lovart组合如何以极低成本实现品牌视觉的高效产出，覆盖LOGO、海报、社交媒体素材等一人部门核心需求。",
+      "ai_recommendation": "以真实案例拆解AI工具链，为一人品牌部提供即学即用的高效设计工作流，实操性强且激发创意。",
+      "title_original": "GPT Images 2+Lovart 效率有多高？5个案例教你成立一人品牌部！",
+      "title_en": null,
+      "title_zh": "GPT Images 2+Lovart 效率有多高？5个案例教你成立一人品牌部！",
+      "title_bilingual": "GPT Images 2+Lovart 效率有多高？5个案例教你成立一人品牌部！"
+    },
+    {
+      "id": "f203122a977889e74ef5b38c84ee5c78f183be61",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "逆向拆解Claude Design后，我把它改造成了设计师的神级外挂！",
+      "url": "https://www.uisdc.com/huashu-design",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.9,
+      "ai_quality_score": 8,
+      "ai_categories": [
+        "AI设计工具",
+        "设计效率提升",
+        "Claude应用"
+      ],
+      "ai_target_audience": "UI/UX设计师、产品设计师、设计技术爱好者，希望通过AI工具大幅提升设计效率和创意的专业人士。",
+      "ai_key_insights": "深度拆解Claude设计能力并重构为设计师专属工作流，揭示AI如何成为设计过程中从灵感到交付的超级辅助，提供可落地的改造方案。",
+      "ai_recommendation": "逆向改造Claude为设计神器，直击设计师效率痛点，提供全新的AI驱动设计范式，极具实操启发。",
+      "title_original": "逆向拆解Claude Design后，我把它改造成了设计师的神级外挂！",
+      "title_en": null,
+      "title_zh": "逆向拆解Claude Design后，我把它改造成了设计师的神级外挂！",
+      "title_bilingual": "逆向拆解Claude Design后，我把它改造成了设计师的神级外挂！"
+    },
+    {
+      "id": "2133632652335a5ea6808e747d9e99d297b6ae18",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "有了DESIGN.md，让AI一键复刻大厂级UI设计！",
+      "url": "https://www.uisdc.com/design-md",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.8,
+      "ai_quality_score": 6,
+      "ai_categories": [
+        "AI辅助设计",
+        "UI设计工具",
+        "设计系统工程化"
+      ],
+      "ai_target_audience": "关注AI提效的UI/UX设计师、产品设计师、前端开发者",
+      "ai_key_insights": "该文探讨通过结构化的DESIGN.md文档，将大厂级UI设计规范转化为AI可执行的指令，实现设计组件的快速复现，标志着设计系统向AI可解释化演进。",
+      "ai_recommendation": "为“AI+设计规范”的落地提供新思路，助你快速对齐大厂UI品质，降本提效。",
+      "title_original": "有了DESIGN.md，让AI一键复刻大厂级UI设计！",
+      "title_en": null,
+      "title_zh": "有了DESIGN.md，让AI一键复刻大厂级UI设计！",
+      "title_bilingual": "有了DESIGN.md，让AI一键复刻大厂级UI设计！"
+    },
+    {
+      "id": "694bc03cd8b8a52277773caef54cd64c5678e747",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "零门槛上手！教你用上Claude Code的终极保姆教程来了！",
+      "url": "https://www.uisdc.com/claude-code-5",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.6,
+      "ai_quality_score": 8,
+      "ai_categories": [
+        "AI工具",
+        "设计开发协作",
+        "前沿教程"
+      ],
+      "ai_target_audience": "希望用AI辅助代码实现的设计师、产品设计师、初涉前端开发的UI/UX从业者",
+      "ai_key_insights": "将纯开发向的Claude Code包装为设计师可零基础操作的‘保姆级’教程，填补了设计到代码间的实操鸿沟，有效降低了AI编码工具的设计师使用门槛。",
+      "ai_recommendation": "让设计师也能轻松驾驭命令行AI编程，真正打通‘设计稿→代码’的最后一公里。",
+      "title_original": "零门槛上手！教你用上Claude Code的终极保姆教程来了！",
+      "title_en": null,
+      "title_zh": "零门槛上手！教你用上Claude Code的终极保姆教程来了！",
+      "title_bilingual": "零门槛上手！教你用上Claude Code的终极保姆教程来了！"
+    },
+    {
+      "id": "c0d1bd4452ae55c17a5bfe56761392078e30ead2",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "深度实测！我用Claude Design重做了QQ音乐，结果令人意外",
+      "url": "https://www.uisdc.com/claude-design",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.9,
+      "ai_quality_score": 8,
+      "ai_categories": [
+        "UI设计",
+        "AI设计工具",
+        "设计实践"
+      ],
+      "ai_target_audience": "UI/UX设计师、产品设计师及对AI驱动设计工作流感兴趣的设计从业者",
+      "ai_key_insights": "通过用Claude Design实际重设计QQ音乐，揭示了AI设计工具在真实项目中的意外表现力与局限性，为“人机协作式设计”提供了可验证的实操样本。",
+      "ai_recommendation": "用真实产品改版案例展现AI设计工具的实操潜力与盲区，是设计师探索新流程的绝佳参考。",
+      "title_original": "深度实测！我用Claude Design重做了QQ音乐，结果令人意外",
+      "title_en": null,
+      "title_zh": "深度实测！我用Claude Design重做了QQ音乐，结果令人意外",
+      "title_bilingual": "深度实测！我用Claude Design重做了QQ音乐，结果令人意外"
+    },
+    {
+      "id": "75b1318d27670e3501dc9576fdd46f913a1a9adf",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "保姆级教程！教你把公司里的设计规范变成Skill",
+      "url": "https://www.uisdc.com/skill-3",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.9,
+      "ai_quality_score": 8,
+      "ai_categories": [
+        "设计系统",
+        "AI工具应用",
+        "设计效率"
+      ],
+      "ai_target_audience": "负责设计系统维护的UI/UX设计师、设计主管及希望用AI提升团队协作效率的设计管理者",
+      "ai_key_insights": "将静态设计规范转化为可交互的AI Skill，实现从“文档查阅”到“动态支持”的升级，减少设计师重复答疑，保证设计一致性。",
+      "ai_recommendation": "用保姆级流程把纸上规范变成AI实操助手，是设计系统落地的最简路径。",
+      "title_original": "保姆级教程！教你把公司里的设计规范变成Skill",
+      "title_en": null,
+      "title_zh": "保姆级教程！教你把公司里的设计规范变成Skill",
+      "title_bilingual": "保姆级教程！教你把公司里的设计规范变成Skill"
+    },
+    {
+      "id": "b351315dff1a1c94f91a33471f9c66b1bf17fce8",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "15个案例拆解+8层进阶！教你让Seedance 2.0精准出片的 「五维提示词架构法」",
+      "url": "https://www.uisdc.com/seedance-2-10",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.7,
+      "ai_quality_score": 8,
+      "ai_categories": [
+        "AI视频生成",
+        "提示工程",
+        "设计工具"
+      ],
+      "ai_target_audience": "关注AI视频创作、希望提升提示词精准度的UI/UX设计师与内容创作者",
+      "ai_key_insights": "通过15个案例拆解和8层进阶框架，系统性输出高质量视频提示词，解决AI出片随机性大、风格不可控的痛点，为设计工作流提供可复用的方法论。",
+      "ai_recommendation": "15个真实案例+五维提示词架构，帮你从“碰运气”升级到“精准出片”，设计师的AI视频必修课。",
+      "title_original": "15个案例拆解+8层进阶！教你让Seedance 2.0精准出片的 「五维提示词架构法」",
+      "title_en": null,
+      "title_zh": "15个案例拆解+8层进阶！教你让Seedance 2.0精准出片的 「五维提示词架构法」",
+      "title_bilingual": "15个案例拆解+8层进阶！教你让Seedance 2.0精准出片的 「五维提示词架构法」"
+    },
+    {
+      "id": "b1abd9d4b83901c202d27ecf82bfa69ab7880a89",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "我用了2年的深度研究Prompt，半小时帮你搞懂任何陌生领域！",
+      "url": "https://www.uisdc.com/prompt-4",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.8,
+      "ai_quality_score": 7,
+      "ai_categories": [
+        "AI辅助设计",
+        "设计研究方法",
+        "效率工具"
+      ],
+      "ai_target_audience": "需要快速理解陌生业务领域、进行前期调研的UI/UX设计师、产品设计师及设计策略师",
+      "ai_key_insights": "提供一套经过验证的深度研究Prompt模板，帮助设计师在半小时内系统梳理陌生领域的关键概念、玩家、趋势和用户痛点，将原本散乱的信息收集转化为结构化的认知框架。",
+      "ai_recommendation": "把费时的领域调研压缩成半小时结构化对话，让设计师快速获得决策级洞察，实测可复用性强。",
+      "title_original": "我用了2年的深度研究Prompt，半小时帮你搞懂任何陌生领域！",
+      "title_en": null,
+      "title_zh": "我用了2年的深度研究Prompt，半小时帮你搞懂任何陌生领域！",
+      "title_bilingual": "我用了2年的深度研究Prompt，半小时帮你搞懂任何陌生领域！"
+    },
+    {
+      "id": "bec97ca53c8175ddda0da1777db33a5ed258de4e",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "实测3天+40次生成！深度测评AI设计神器Google Stitch",
+      "url": "https://www.uisdc.com/google-stitch-2",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.9,
+      "ai_quality_score": 8,
+      "ai_categories": [
+        "AI设计工具",
+        "产品评测"
+      ],
+      "ai_target_audience": "关注AI设计效率的UI/UX设计师、产品设计师及设计团队管理者",
+      "ai_key_insights": "基于3天连续实测与40次生成记录，系统评估Google Stitch在界面生成、组件复用和设计一致性方面的真实表现，揭示其实际工作中的可用性与局限性。",
+      "ai_recommendation": "以高强度实测数据背书，为设计师判断AI工具落地性提供可信参考。",
+      "title_original": "实测3天+40次生成！深度测评AI设计神器Google Stitch",
+      "title_en": null,
+      "title_zh": "实测3天+40次生成！深度测评AI设计神器Google Stitch",
+      "title_bilingual": "实测3天+40次生成！深度测评AI设计神器Google Stitch"
+    },
+    {
+      "id": "e2b24a309d1e61c72b91117bb565456c18454aa7",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "免费开源！我写了个「女娲.skill」，帮你把顶级大佬变成了AI员工",
+      "url": "https://www.uisdc.com/skills-11",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.6,
+      "ai_quality_score": 7,
+      "ai_categories": [
+        "AI工具",
+        "设计效率"
+      ],
+      "ai_target_audience": "对AI辅助设计工作流感兴趣的UI/UX设计师及效率工具爱好者",
+      "ai_key_insights": "通过自定义AI技能模块，将行业顶尖思维模板化，实现设计决策与产出的半自动化，降低专业经验门槛。",
+      "ai_recommendation": "将顶级设计方法论封装为可复用的AI技能，直击设计师经验积累慢的痛点，值得一试。",
+      "title_original": "免费开源！我写了个「女娲.skill」，帮你把顶级大佬变成了AI员工",
+      "title_en": null,
+      "title_zh": "免费开源！我写了个「女娲.skill」，帮你把顶级大佬变成了AI员工",
+      "title_bilingual": "免费开源！我写了个「女娲.skill」，帮你把顶级大佬变成了AI员工"
+    },
+    {
+      "id": "c23b2d193e9a81bb90c337bbc72483f88a596f4b",
+      "site_id": "buzzing",
+      "site_name": "Buzzing",
+      "source": "www.wired.com",
+      "title": "联邦调查局希望获得对美国车牌识别系统的“近实时”访问权限",
+      "url": "https://www.wired.com/story/security-news-this-week-fbi-license-plate-reader-real-time-access",
+      "published_at": "2026-05-23T17:38:06.234000Z",
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "wired",
+        "name": "Wired",
+        "patterns": [
+          "wired.com",
+          "Wired"
+        ],
+        "reason": "科技文化媒体，需筛选AI+设计深度报道",
+        "update_frequency": "daily",
+        "expected_items_per_day": 20,
+        "language": "en",
+        "ai_filter_focus": [
+          "AI应用",
+          "设计趋势",
+          "创意科技"
+        ],
+        "exclude_topics": [
+          "纯政治",
+          "安全政策",
+          "科学理论"
+        ],
+        "max_items_per_day": 20
+      },
+      "ai_design_relevance": 0.2,
+      "ai_quality_score": 7,
+      "ai_categories": [
+        "隐私与监控",
+        "数据政策"
+      ],
+      "ai_target_audience": "关注隐私伦理、监控技术及数据政策的设计师与决策者",
+      "ai_key_insights": "FBI寻求近乎实时接入全国车牌识别数据库，凸显大规模监控扩张与公民隐私的潜在冲突",
+      "ai_recommendation": "作为现实案例，促使设计师反思数据敏感型产品的隐私影响与知情同意设计。",
+      "title_original": "联邦调查局希望获得对美国车牌识别系统的“近实时”访问权限",
+      "title_en": null,
+      "title_zh": "联邦调查局希望获得对美国车牌识别系统的“近实时”访问权限",
+      "title_bilingual": "联邦调查局希望获得对美国车牌识别系统的“近实时”访问权限"
+    },
+    {
+      "id": "661b83a0a883d1be0f3fa75b1c56269b6d1ad383",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "TechCrunch",
+      "title": "These special phone and app features can help protect you from spyware",
+      "url": "https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back",
+      "published_at": "2026-05-23T16:00:00Z",
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "techcrunch",
+        "name": "TechCrunch",
+        "patterns": [
+          "techcrunch.com",
+          "TechCrunch"
+        ],
+        "reason": "创投科技媒体，需筛选AI创业、产品相关",
+        "update_frequency": "hourly",
+        "expected_items_per_day": 30,
+        "language": "en",
+        "ai_filter_focus": [
+          "AI创业",
+          "新产品发布",
+          "设计工具融资"
+        ],
+        "exclude_topics": [
+          "纯金融",
+          "加密货币",
+          "政策法规"
+        ],
+        "max_items_per_day": 30
+      },
+      "ai_design_relevance": 0.5,
+      "ai_quality_score": 7,
+      "ai_categories": [
+        "Cybersecurity",
+        "Mobile Privacy",
+        "User Experience"
+      ],
+      "ai_target_audience": "General smartphone users, privacy-conscious individuals, and technology enthusiasts seeking practical ways to safeguard personal data against spyware.",
+      "ai_key_insights": "The article highlights built-in phone features like Lockdown Mode, Safety Check, and app privacy reports that empower users to detect and mitigate spyware, emphasizing actionable steps without requiring technical expertise.",
+      "ai_recommendation": "该文章简洁实用，能帮助设计师理解隐私保护功能的用户价值，并启发在界面中融入更清晰的安全引导。",
+      "title_original": "These special phone and app features can help protect you from spyware",
+      "title_en": "These special phone and app features can help protect you from spyware",
+      "title_zh": "这些特殊的手机和应用程序功能可以帮助您免受间谍软件的侵害",
+      "title_bilingual": "这些特殊的手机和应用程序功能可以帮助您免受间谍软件的侵害 / These special phone and app features can help protect you from spyware"
+    },
+    {
+      "id": "d26c90483f9ea2afca6a7ee7cedd9eaf6928cd0f",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "TechCrunch",
+      "title": "Ferrari is using IBM’s AI to create F1 superfans",
+      "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans",
+      "published_at": "2026-05-23T15:08:00Z",
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "techcrunch",
+        "name": "TechCrunch",
+        "patterns": [
+          "techcrunch.com",
+          "TechCrunch"
+        ],
+        "reason": "创投科技媒体，需筛选AI创业、产品相关",
+        "update_frequency": "hourly",
+        "expected_items_per_day": 30,
+        "language": "en",
+        "ai_filter_focus": [
+          "AI创业",
+          "新产品发布",
+          "设计工具融资"
+        ],
+        "exclude_topics": [
+          "纯金融",
+          "加密货币",
+          "政策法规"
+        ],
+        "max_items_per_day": 30
+      },
+      "ai_design_relevance": 0.6,
+      "ai_quality_score": 7,
+      "ai_categories": [
+        "AI应用",
+        "体育科技",
+        "用户体验设计"
+      ],
+      "ai_target_audience": "关注体育产业数字化转型的设计师、产品经理及技术决策者",
+      "ai_key_insights": "法拉利借助IBM的AI分析车迷行为数据，构建个性化互动体验，提升粉丝忠诚度与参与度，展示了数据驱动的情感化设计方向。",
+      "ai_recommendation": "推荐阅读，它提供了将AI融入品牌体验设计的实际案例，对思考情感化交互与数据叙事具有启发。",
+      "title_original": "Ferrari is using IBM’s AI to create F1 superfans",
+      "title_en": "Ferrari is using IBM’s AI to create F1 superfans",
+      "title_zh": "法拉利正在利用 IBM 的 AI 打造 F1 超级粉丝",
+      "title_bilingual": "法拉利正在利用 IBM 的 AI 打造 F1 超级粉丝 / Ferrari is using IBM’s AI to create F1 superfans"
+    },
+    {
+      "id": "024882f181daa2d2cedc20672e61bd287412d685",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Wired",
+      "title": "Cosmic Voids May Contain the Universe’s Best Secrets",
+      "url": "https://www.wired.com/story/cosmic-voids-might-contain-universes-best-secrets",
+      "published_at": "2026-05-23T10:00:00Z",
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "wired",
+        "name": "Wired",
+        "patterns": [
+          "wired.com",
+          "Wired"
+        ],
+        "reason": "科技文化媒体，需筛选AI+设计深度报道",
+        "update_frequency": "daily",
+        "expected_items_per_day": 20,
+        "language": "en",
+        "ai_filter_focus": [
+          "AI应用",
+          "设计趋势",
+          "创意科技"
+        ],
+        "exclude_topics": [
+          "纯政治",
+          "安全政策",
+          "科学理论"
+        ],
+        "max_items_per_day": 20
+      },
+      "ai_design_relevance": 0.2,
+      "ai_quality_score": 8,
+      "ai_categories": [
+        "Science",
+        "Astronomy",
+        "Cosmology"
+      ],
+      "ai_target_audience": "Science enthusiasts, astronomy buffs, and general readers curious about cosmic discoveries and the universe's large-scale structure.",
+      "ai_key_insights": "Cosmic voids, the vast empty regions between galaxy filaments, are not truly empty but hold clues to dark energy, galaxy evolution, and the early universe. Their vastness and subtle structures challenge assumptions about emptiness and offer a new lens for understanding cosmic origins.",
+      "ai_recommendation": "本文从宇宙空洞切入揭示暗能量与结构形成，虽非设计议题，但“虚空不空”的哲思或为空间、边界和负空间的创意设计提供跨界灵感。",
+      "title_original": "Cosmic Voids May Contain the Universe’s Best Secrets",
+      "title_en": "Cosmic Voids May Contain the Universe’s Best Secrets",
+      "title_zh": "宇宙空洞可能蕴藏着宇宙最好的秘密",
+      "title_bilingual": "宇宙空洞可能蕴藏着宇宙最好的秘密 / Cosmic Voids May Contain the Universe’s Best Secrets"
+    }
+  ],
+  "items_ai": [
+    {
+      "id": "a3558d26b7f5e80425ff69bfd4319d3df3176fe6",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "AI没法直出UI？GPT+Figma这样搭才管用！",
+      "url": "https://www.uisdc.com/ai-design-flow-3",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.9,
+      "ai_quality_score": 8,
+      "ai_categories": [
+        "UI设计",
+        "AI工具",
+        "设计工作流"
+      ],
+      "ai_target_audience": "正在探索AI辅助设计、希望提高效率的UI/UX设计师",
+      "ai_key_insights": "AI尚不能直接生成完整可用的UI界面，但将GPT用于文案生成、设计规范整理，并与Figma插件协作，可以显著缩短从创意到界面的工作流，减少机械重复劳动。",
+      "ai_recommendation": "结合GPT与Figma的实操方法，直击当前AI不能直出UI的痛点，实用性强，推荐阅读。",
+      "title_original": "AI没法直出UI？GPT+Figma这样搭才管用！",
+      "title_en": null,
+      "title_zh": "AI没法直出UI？GPT+Figma这样搭才管用！",
+      "title_bilingual": "AI没法直出UI？GPT+Figma这样搭才管用！"
+    },
+    {
+      "id": "cfe8910b8316d99245c7faba07c23c7c944a4001",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "如何从零开始写好一个Skill？保姆级教程+实战案例来了！",
+      "url": "https://www.uisdc.com/master-ai-skills",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.7,
+      "ai_quality_score": 6,
+      "ai_categories": [
+        "AI设计",
+        "交互设计",
+        "设计教程"
+      ],
+      "ai_target_audience": "希望学习AI技能开发的设计师和产品初学者",
+      "ai_key_insights": "从设计角度解析如何构建一个完整Skill，融合交互逻辑、用户体验与实战案例，降低非技术设计师的入门门槛。",
+      "ai_recommendation": "以设计师视角拆解AI技能构建全流程，实操性强，适合想要拓展AI产品能力的设计师快速上手。",
+      "title_original": "如何从零开始写好一个Skill？保姆级教程+实战案例来了！",
+      "title_en": null,
+      "title_zh": "如何从零开始写好一个Skill？保姆级教程+实战案例来了！",
+      "title_bilingual": "如何从零开始写好一个Skill？保姆级教程+实战案例来了！"
+    },
+    {
+      "id": "d49b1254ccdf311483e553f2bf2b95fe83f7411a",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "资讯/神器/素材全都有！2026年5月设计素材周刊第一波",
+      "url": "https://www.uisdc.com/design-source-material-38",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.9,
+      "ai_quality_score": 7,
+      "ai_categories": [
+        "设计资讯",
+        "设计工具",
+        "素材资源"
+      ],
+      "ai_target_audience": "UI/UX设计师、视觉设计师、设计爱好者，尤其关注行业动态与效率工具的设计从业者",
+      "ai_key_insights": "以周刊形式梳理最新设计资讯、实用工具与高质量素材，帮助设计师快速获取灵感、提升效率，覆盖工具提效、风格趋势与资源下载等多维需求。",
+      "ai_recommendation": "一站式设计速递，集合最新资讯、提效神器和优质素材，适合繁忙的设计师快速同步行业脉动。",
+      "title_original": "资讯/神器/素材全都有！2026年5月设计素材周刊第一波",
+      "title_en": null,
+      "title_zh": "资讯/神器/素材全都有！2026年5月设计素材周刊第一波",
+      "title_bilingual": "资讯/神器/素材全都有！2026年5月设计素材周刊第一波"
+    },
+    {
+      "id": "cff2ce1d10c8ca6a9a55f13bbea01ed96f6f32f9",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "想给UI界面加上动效？试试这个超实用的工作流！",
+      "url": "https://www.uisdc.com/ui-design-29",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.9,
+      "ai_quality_score": 8,
+      "ai_categories": [
+        "UI设计",
+        "交互动效",
+        "设计工具/工作流"
+      ],
+      "ai_target_audience": "希望提升界面动效能力、优化设计流程的UI/UX设计师",
+      "ai_key_insights": "提供可直接落地的工作流方法，可能涵盖从构思、设计到开发交付的动效实现步骤，强调效率与实用技巧。",
+      "ai_recommendation": "讲解从创意到落地的完整动效工作流，实战性极强，能有效解决设计师做动效没思路、低效的痛点。",
+      "title_original": "想给UI界面加上动效？试试这个超实用的工作流！",
+      "title_en": null,
+      "title_zh": "想给UI界面加上动效？试试这个超实用的工作流！",
+      "title_bilingual": "想给UI界面加上动效？试试这个超实用的工作流！"
+    },
+    {
+      "id": "218c904525dddf5a77be4b8c620dd4d138d3d584",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "观察了三年，我把所有人用AI的水平分成了10个等级",
+      "url": "https://www.uisdc.com/the-ai-divide",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.8,
+      "ai_quality_score": 7,
+      "ai_categories": [
+        "AI与设计",
+        "技能成长",
+        "职业发展"
+      ],
+      "ai_target_audience": "对AI工具感兴趣的UI/UX设计师、产品设计师，以及希望提升AI协作能力的创意工作者",
+      "ai_key_insights": "通过三年观察总结的水平分级，帮助设计师定位自身AI应用能力阶段，理解从基础操作到策略性创造的全路径，提供可对照的成长框架，避免盲目追逐工具",
+      "ai_recommendation": "这篇分级体系为设计师提供了清晰的AI能力演进地图，帮助你在日常工作中更有针对性地提升AI协作深度与效率。",
+      "title_original": "观察了三年，我把所有人用AI的水平分成了10个等级",
+      "title_en": null,
+      "title_zh": "观察了三年，我把所有人用AI的水平分成了10个等级",
+      "title_bilingual": "观察了三年，我把所有人用AI的水平分成了10个等级"
+    },
+    {
+      "id": "b4755074d4542d5e3a66cb45b92a1b0606510bbe",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "压进我十年设计经验的 PPT Skills，迎来大波更新！",
+      "url": "https://www.uisdc.com/ppt-skill-2",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.8,
+      "ai_quality_score": 9,
+      "ai_categories": [
+        "演示设计",
+        "设计经验分享",
+        "UI/UX设计工具"
+      ],
+      "ai_target_audience": "需要提升演示表达能力的设计师、职场人士，尤其是希望将设计思维融入PPT制作的UI/UX设计师",
+      "ai_key_insights": "文章将作者十年设计经验浓缩为可复用的PPT技巧，并进行了大幅更新，强调设计思维在演示文稿中的落地，兼具深度与可操作性，帮助设计师在汇报、提案中更好地传递专业价值。",
+      "ai_recommendation": "十年设计经验沉淀的PPT技能干货更新，是设计师提升演示专业度的必读参考。",
+      "title_original": "压进我十年设计经验的 PPT Skills，迎来大波更新！",
+      "title_en": null,
+      "title_zh": "压进我十年设计经验的 PPT Skills，迎来大波更新！",
+      "title_bilingual": "压进我十年设计经验的 PPT Skills，迎来大波更新！"
+    },
+    {
+      "id": "6781323e3d221f644db7c6847bbdc73b006933fe",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "GPT Image 2 玩法大全！20套即学即用的提示词使用技巧",
+      "url": "https://www.uisdc.com/gpt-image-2-11",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.8,
+      "ai_quality_score": 8,
+      "ai_categories": [
+        "AI设计工具",
+        "提示词技巧",
+        "创意灵感"
+      ],
+      "ai_target_audience": "需要快速获取视觉素材和灵感的UI/UX设计师、产品设计师及创意从业者",
+      "ai_key_insights": "系统化梳理了GPT Image 2的提示词方法，将抽象的图像生成需求转化为可复用的结构化指令，能显著提升设计前期素材收集与概念探索的效率。",
+      "ai_recommendation": "20套即学即用的AI图像提示词，直接帮设计师省去试错时间，快速产出高质量视觉素材。",
+      "title_original": "GPT Image 2 玩法大全！20套即学即用的提示词使用技巧",
+      "title_en": null,
+      "title_zh": "GPT Image 2 玩法大全！20套即学即用的提示词使用技巧",
+      "title_bilingual": "GPT Image 2 玩法大全！20套即学即用的提示词使用技巧"
+    },
+    {
+      "id": "a7836d85e61edd9495ede35021884d3c559b9489",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "从一张图到一座城！GPT Image 2 生成3D场景的超野路子指南",
+      "url": "https://www.uisdc.com/gpt-image-2-9",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.6,
+      "ai_quality_score": 7,
+      "ai_categories": [
+        "AI生成设计",
+        "3D场景设计",
+        "设计工具教程"
+      ],
+      "ai_target_audience": "需快速产出3D场景概念图的UI/UX设计师、视觉设计师及创意从业者",
+      "ai_key_insights": "探索用GPT Image 2从2D图片生成3D场景的非传统方法，提供实用技巧降低设计师3D创作门槛",
+      "ai_recommendation": "一线设计师的AI工具实操野路子，快速解锁3D场景生成新思路，实用性极强。",
+      "title_original": "从一张图到一座城！GPT Image 2 生成3D场景的超野路子指南",
+      "title_en": null,
+      "title_zh": "从一张图到一座城！GPT Image 2 生成3D场景的超野路子指南",
+      "title_bilingual": "从一张图到一座城！GPT Image 2 生成3D场景的超野路子指南"
+    },
+    {
+      "id": "e96ff66630e620a47da7f9b2f2ed588cca379b10",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "30分钟出概念稿！教你用好GPT Image 2 × Figma的实战工作流",
+      "url": "https://www.uisdc.com/gpt-image-2-8",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.9,
+      "ai_quality_score": 8,
+      "ai_categories": [
+        "AI设计工具",
+        "UI/UX工作流",
+        "Figma教程"
+      ],
+      "ai_target_audience": "希望将AI融入设计流程的UI/UX设计师、产品设计师和自由职业者",
+      "ai_key_insights": "文章展示了如何将GPT Image 2的图像生成能力与Figma的组件化设计对接，30分钟内从文本提示获得高保真概念稿，并通过设计系统化步骤落地，大幅缩短了传统构思周期，同时提供了可直接复用的提词结构和图层组织逻辑。",
+      "ai_recommendation": "这篇实战指南将前沿AI图像生成与主流设计工具无缝衔接，提供了可迁移的提效范式，对加速概念验证和原型探索极具启发。",
+      "title_original": "30分钟出概念稿！教你用好GPT Image 2 × Figma的实战工作流",
+      "title_en": null,
+      "title_zh": "30分钟出概念稿！教你用好GPT Image 2 × Figma的实战工作流",
+      "title_bilingual": "30分钟出概念稿！教你用好GPT Image 2 × Figma的实战工作流"
+    },
+    {
+      "id": "bdccce899a2872a5762116402b214412132f14e8",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "1张图+GPT Image 2，我用1天做出了一个完整的品牌联名Campaign",
+      "url": "https://www.uisdc.com/campaign-design",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.8,
+      "ai_quality_score": 7,
+      "ai_categories": [
+        "AI设计工具",
+        "品牌营销设计",
+        "设计效率"
+      ],
+      "ai_target_audience": "UI/UX设计师、品牌设计师、营销创意人员，希望用AI加速创意落地的从业者",
+      "ai_key_insights": "通过极简的视觉输入和GPT-Image-2，一个人可在一天内生成完整品牌联名方案，展示了AI从创意到执行的高效闭环，大幅降低设计门槛和迭代成本。",
+      "ai_recommendation": "真实案例教你如何用一张图启动整套联名视觉，一天搞定品牌Campaign，省时又启发创意。",
+      "title_original": "1张图+GPT Image 2，我用1天做出了一个完整的品牌联名Campaign",
+      "title_en": null,
+      "title_zh": "1张图+GPT Image 2，我用1天做出了一个完整的品牌联名Campaign",
+      "title_bilingual": "1张图+GPT Image 2，我用1天做出了一个完整的品牌联名Campaign"
+    },
+    {
+      "id": "469da39743c79b3fec494b16ac5a0645f762d7ef",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "掌握这个Blender+AI工作流，从打字到渲染只用10分钟！",
+      "url": "https://www.uisdc.com/zero-to-3d",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.6,
+      "ai_quality_score": 7,
+      "ai_categories": [
+        "3D设计",
+        "AI工作流",
+        "效率工具"
+      ],
+      "ai_target_audience": "需要快速产出3D视觉内容的UI/UX设计师、平面设计师及3D初学者",
+      "ai_key_insights": "结合AI生成与Blender渲染，将文字想法转化为3D图像的端到端工作流，大幅缩短从构思到输出的时间，降低3D创作门槛。",
+      "ai_recommendation": "揭示了AI如何把3D设计变为'即时满足'，推荐给渴望用新技术突破效率瓶颈的设计师。",
+      "title_original": "掌握这个Blender+AI工作流，从打字到渲染只用10分钟！",
+      "title_en": null,
+      "title_zh": "掌握这个Blender+AI工作流，从打字到渲染只用10分钟！",
+      "title_bilingual": "掌握这个Blender+AI工作流，从打字到渲染只用10分钟！"
+    },
+    {
+      "id": "438ca6bb1117584eaa3dd15c8bbde5db7e5343db",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "GPT Image 2 会淘汰设计师吗？用7个实测案例说清楚！",
+      "url": "https://www.uisdc.com/gpt-image-2-6",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.9,
+      "ai_quality_score": 8,
+      "ai_categories": [
+        "AI设计",
+        "职业发展",
+        "设计工具"
+      ],
+      "ai_target_audience": "UI/UX设计师及关注AI对设计行业影响的从业者",
+      "ai_key_insights": "通过7个实测案例，客观分析GPT Image 2的能力边界，探讨AI取代设计师的真实可能性，并指出人机协作的未来方向。",
+      "ai_recommendation": "用7个实测案例冷静回应淘汰论，既有技术演示又有职业反思，帮助设计师看清AI的真实能力与自身不可替代性。",
+      "title_original": "GPT Image 2 会淘汰设计师吗？用7个实测案例说清楚！",
+      "title_en": null,
+      "title_zh": "GPT Image 2 会淘汰设计师吗？用7个实测案例说清楚！",
+      "title_bilingual": "GPT Image 2 会淘汰设计师吗？用7个实测案例说清楚！"
+    },
+    {
+      "id": "c3f3bbd9333e5ae2a4c4f7e8641ea0704a3430f8",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "保姆级教程！写给设计师的 Vibe Coding 零基础指南（一）",
+      "url": "https://www.uisdc.com/vibe-coding-7",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.9,
+      "ai_quality_score": 8,
+      "ai_categories": [
+        "AI设计工具",
+        "设计开发协作",
+        "零基础教程"
+      ],
+      "ai_target_audience": "希望借助AI工具将设计创意快速转化为可交互原型的UI/UX设计师，无需编程基础",
+      "ai_key_insights": "Vibe Coding让设计师通过自然语言描述和AI辅助，直接生成可运行的前端代码，极大缩短从设计稿到功能原型的路径，降低开发沟通成本。",
+      "ai_recommendation": "零门槛拥抱AI编程，教你用自然语言把设计灵感瞬间变成可体验的交互原型，设计师必入。",
+      "title_original": "保姆级教程！写给设计师的 Vibe Coding 零基础指南（一）",
+      "title_en": null,
+      "title_zh": "保姆级教程！写给设计师的 Vibe Coding 零基础指南（一）",
+      "title_bilingual": "保姆级教程！写给设计师的 Vibe Coding 零基础指南（一）"
+    },
+    {
+      "id": "a8448f157e58f8c9096a2ea7ba26362427317f96",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "GPT Image-2 爆火后，我用AI生成了12套可视化大屏概念稿",
+      "url": "https://www.uisdc.com/ai-design-copilot",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.9,
+      "ai_quality_score": 8,
+      "ai_categories": [
+        "AI设计工具",
+        "数据可视化",
+        "UI/UX设计"
+      ],
+      "ai_target_audience": "UI/UX设计师、数据可视化设计师、关注AI赋能设计效能的前沿从业者",
+      "ai_key_insights": "以GPT Image-2为创作引擎，演示了从提示词到完整概念稿的快速出图流程，展现了AI在可视化大屏早期方案探索中的高实用性，为设计师提供了可复用的灵感素材与工作流参考。",
+      "ai_recommendation": "实战演示AI生成12套可视化大屏概念稿，为设计师开辟高效灵感探索新路径。",
+      "title_original": "GPT Image-2 爆火后，我用AI生成了12套可视化大屏概念稿",
+      "title_en": null,
+      "title_zh": "GPT Image-2 爆火后，我用AI生成了12套可视化大屏概念稿",
+      "title_bilingual": "GPT Image-2 爆火后，我用AI生成了12套可视化大屏概念稿"
+    },
+    {
+      "id": "126d9c0fa1ad67113788048da37b83a1bc1bdfec",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "想学图生视频？超详细的GPT Images 2 + Seedance 2.0工作流",
+      "url": "https://www.uisdc.com/gpt-image2-seedance-2-0",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.7,
+      "ai_quality_score": 8,
+      "ai_categories": [
+        "AI设计工具",
+        "动效与视频",
+        "工作流教程"
+      ],
+      "ai_target_audience": "希望用AI将静态设计稿转为动态视频的UI/UX设计师、创意人员及内容创作者",
+      "ai_key_insights": "结合GPT图文生成与Seedance视频生成，提供从图像到动态内容的端到端解决方案，降低视频制作门槛",
+      "ai_recommendation": "实操性强的图生视频工作流，帮助设计师快速将界面概念转化为可演示的动态视频，提升方案表现力。",
+      "title_original": "想学图生视频？超详细的GPT Images 2 + Seedance 2.0工作流",
+      "title_en": null,
+      "title_zh": "想学图生视频？超详细的GPT Images 2 + Seedance 2.0工作流",
+      "title_bilingual": "想学图生视频？超详细的GPT Images 2 + Seedance 2.0工作流"
+    },
+    {
+      "id": "e4853dcef0d76dd243a425fad833fc077f2ae9ca",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "GPT Images 2生成的图改不了？用这个神器能分层编辑直接商用！",
+      "url": "https://www.uisdc.com/xfun-2",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.9,
+      "ai_quality_score": 7,
+      "ai_categories": [
+        "AI设计工具",
+        "图像编辑",
+        "设计资源"
+      ],
+      "ai_target_audience": "UI/UX设计师、平面设计师、AI图像创作者和需要商用AI生成素材的设计从业者",
+      "ai_key_insights": "解决GPT Images 2生成图像无法分层编辑的痛点，介绍能实现可编辑图层并直接商用的转换工具，大幅提升AI素材的设计落地性。",
+      "ai_recommendation": "直击AI图像难以修改的行业刚需，提供从生成到商用的完整闭环，设计师必读的效率利器。",
+      "title_original": "GPT Images 2生成的图改不了？用这个神器能分层编辑直接商用！",
+      "title_en": null,
+      "title_zh": "GPT Images 2生成的图改不了？用这个神器能分层编辑直接商用！",
+      "title_bilingual": "GPT Images 2生成的图改不了？用这个神器能分层编辑直接商用！"
+    },
+    {
+      "id": "43dc85c45bbc8d2b6aa319f972248b1af70349db",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "让效率放大10倍！教你快速掌握全新的GPT Images 2工作流",
+      "url": "https://www.uisdc.com/gpt-images-2-5",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.9,
+      "ai_quality_score": 7,
+      "ai_categories": [
+        "AI设计工具",
+        "工作流效率"
+      ],
+      "ai_target_audience": "关注效率提升的UI/UX设计师、产品设计师和AIGC实践者",
+      "ai_key_insights": "介绍GPT Images 2在图像生成、编辑与设计协作中的新工作流，强调效率提升10倍，贴合设计师快速落地的需求",
+      "ai_recommendation": "直击设计师效率痛点，融合最新AI工具与工作流，实操性强，即刻提升图像创作速度。",
+      "title_original": "让效率放大10倍！教你快速掌握全新的GPT Images 2工作流",
+      "title_en": null,
+      "title_zh": "让效率放大10倍！教你快速掌握全新的GPT Images 2工作流",
+      "title_bilingual": "让效率放大10倍！教你快速掌握全新的GPT Images 2工作流"
+    },
+    {
+      "id": "ccf593a177312ede281c69391de20519724e8965",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "GPT Images 2发布后，设计行业的天真的塌了？",
+      "url": "https://www.uisdc.com/gpt-images-2-4",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.8,
+      "ai_quality_score": 7,
+      "ai_categories": [
+        "AI设计工具",
+        "行业观点与趋势"
+      ],
+      "ai_target_audience": "UI/UX设计师、视觉设计师、产品设计从业者及关注AI对创意行业影响的设计管理者",
+      "ai_key_insights": "通过分析GPT Images 2对设计流程的冲击，探讨AI图像生成在真实项目中的局限与潜力，冷静审视设计师的核心价值不会被替代，反而会向更高层次的创意策展和策略思维升级。",
+      "ai_recommendation": "面对AI绘画的冲击波，这篇分析帮你稳住阵脚，看清设计师真正的进化方向。",
+      "title_original": "GPT Images 2发布后，设计行业的天真的塌了？",
+      "title_en": null,
+      "title_zh": "GPT Images 2发布后，设计行业的天真的塌了？",
+      "title_bilingual": "GPT Images 2发布后，设计行业的天真的塌了？"
+    },
+    {
+      "id": "e6e18966a4d5ec001131d0e2e29cf1b6edf0e246",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "GPT Images 2+Lovart 效率有多高？5个案例教你成立一人品牌部！",
+      "url": "https://www.uisdc.com/gpt-images-2-2",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.8,
+      "ai_quality_score": 8,
+      "ai_categories": [
+        "AI设计工具",
+        "品牌设计",
+        "效率提升"
+      ],
+      "ai_target_audience": "独立设计师、品牌创业者、希望用AI提升品牌设计效率的小团队负责人",
+      "ai_key_insights": "通过5个实战案例展示GPT Images 2与Lovart组合如何以极低成本实现品牌视觉的高效产出，覆盖LOGO、海报、社交媒体素材等一人部门核心需求。",
+      "ai_recommendation": "以真实案例拆解AI工具链，为一人品牌部提供即学即用的高效设计工作流，实操性强且激发创意。",
+      "title_original": "GPT Images 2+Lovart 效率有多高？5个案例教你成立一人品牌部！",
+      "title_en": null,
+      "title_zh": "GPT Images 2+Lovart 效率有多高？5个案例教你成立一人品牌部！",
+      "title_bilingual": "GPT Images 2+Lovart 效率有多高？5个案例教你成立一人品牌部！"
+    },
+    {
+      "id": "f203122a977889e74ef5b38c84ee5c78f183be61",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "逆向拆解Claude Design后，我把它改造成了设计师的神级外挂！",
+      "url": "https://www.uisdc.com/huashu-design",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.9,
+      "ai_quality_score": 8,
+      "ai_categories": [
+        "AI设计工具",
+        "设计效率提升",
+        "Claude应用"
+      ],
+      "ai_target_audience": "UI/UX设计师、产品设计师、设计技术爱好者，希望通过AI工具大幅提升设计效率和创意的专业人士。",
+      "ai_key_insights": "深度拆解Claude设计能力并重构为设计师专属工作流，揭示AI如何成为设计过程中从灵感到交付的超级辅助，提供可落地的改造方案。",
+      "ai_recommendation": "逆向改造Claude为设计神器，直击设计师效率痛点，提供全新的AI驱动设计范式，极具实操启发。",
+      "title_original": "逆向拆解Claude Design后，我把它改造成了设计师的神级外挂！",
+      "title_en": null,
+      "title_zh": "逆向拆解Claude Design后，我把它改造成了设计师的神级外挂！",
+      "title_bilingual": "逆向拆解Claude Design后，我把它改造成了设计师的神级外挂！"
+    },
+    {
+      "id": "2133632652335a5ea6808e747d9e99d297b6ae18",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "有了DESIGN.md，让AI一键复刻大厂级UI设计！",
+      "url": "https://www.uisdc.com/design-md",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.8,
+      "ai_quality_score": 6,
+      "ai_categories": [
+        "AI辅助设计",
+        "UI设计工具",
+        "设计系统工程化"
+      ],
+      "ai_target_audience": "关注AI提效的UI/UX设计师、产品设计师、前端开发者",
+      "ai_key_insights": "该文探讨通过结构化的DESIGN.md文档，将大厂级UI设计规范转化为AI可执行的指令，实现设计组件的快速复现，标志着设计系统向AI可解释化演进。",
+      "ai_recommendation": "为“AI+设计规范”的落地提供新思路，助你快速对齐大厂UI品质，降本提效。",
+      "title_original": "有了DESIGN.md，让AI一键复刻大厂级UI设计！",
+      "title_en": null,
+      "title_zh": "有了DESIGN.md，让AI一键复刻大厂级UI设计！",
+      "title_bilingual": "有了DESIGN.md，让AI一键复刻大厂级UI设计！"
+    },
+    {
+      "id": "694bc03cd8b8a52277773caef54cd64c5678e747",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "零门槛上手！教你用上Claude Code的终极保姆教程来了！",
+      "url": "https://www.uisdc.com/claude-code-5",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.6,
+      "ai_quality_score": 8,
+      "ai_categories": [
+        "AI工具",
+        "设计开发协作",
+        "前沿教程"
+      ],
+      "ai_target_audience": "希望用AI辅助代码实现的设计师、产品设计师、初涉前端开发的UI/UX从业者",
+      "ai_key_insights": "将纯开发向的Claude Code包装为设计师可零基础操作的‘保姆级’教程，填补了设计到代码间的实操鸿沟，有效降低了AI编码工具的设计师使用门槛。",
+      "ai_recommendation": "让设计师也能轻松驾驭命令行AI编程，真正打通‘设计稿→代码’的最后一公里。",
+      "title_original": "零门槛上手！教你用上Claude Code的终极保姆教程来了！",
+      "title_en": null,
+      "title_zh": "零门槛上手！教你用上Claude Code的终极保姆教程来了！",
+      "title_bilingual": "零门槛上手！教你用上Claude Code的终极保姆教程来了！"
+    },
+    {
+      "id": "c0d1bd4452ae55c17a5bfe56761392078e30ead2",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "深度实测！我用Claude Design重做了QQ音乐，结果令人意外",
+      "url": "https://www.uisdc.com/claude-design",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.9,
+      "ai_quality_score": 8,
+      "ai_categories": [
+        "UI设计",
+        "AI设计工具",
+        "设计实践"
+      ],
+      "ai_target_audience": "UI/UX设计师、产品设计师及对AI驱动设计工作流感兴趣的设计从业者",
+      "ai_key_insights": "通过用Claude Design实际重设计QQ音乐，揭示了AI设计工具在真实项目中的意外表现力与局限性，为“人机协作式设计”提供了可验证的实操样本。",
+      "ai_recommendation": "用真实产品改版案例展现AI设计工具的实操潜力与盲区，是设计师探索新流程的绝佳参考。",
+      "title_original": "深度实测！我用Claude Design重做了QQ音乐，结果令人意外",
+      "title_en": null,
+      "title_zh": "深度实测！我用Claude Design重做了QQ音乐，结果令人意外",
+      "title_bilingual": "深度实测！我用Claude Design重做了QQ音乐，结果令人意外"
+    },
+    {
+      "id": "75b1318d27670e3501dc9576fdd46f913a1a9adf",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "保姆级教程！教你把公司里的设计规范变成Skill",
+      "url": "https://www.uisdc.com/skill-3",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.9,
+      "ai_quality_score": 8,
+      "ai_categories": [
+        "设计系统",
+        "AI工具应用",
+        "设计效率"
+      ],
+      "ai_target_audience": "负责设计系统维护的UI/UX设计师、设计主管及希望用AI提升团队协作效率的设计管理者",
+      "ai_key_insights": "将静态设计规范转化为可交互的AI Skill，实现从“文档查阅”到“动态支持”的升级，减少设计师重复答疑，保证设计一致性。",
+      "ai_recommendation": "用保姆级流程把纸上规范变成AI实操助手，是设计系统落地的最简路径。",
+      "title_original": "保姆级教程！教你把公司里的设计规范变成Skill",
+      "title_en": null,
+      "title_zh": "保姆级教程！教你把公司里的设计规范变成Skill",
+      "title_bilingual": "保姆级教程！教你把公司里的设计规范变成Skill"
+    },
+    {
+      "id": "b351315dff1a1c94f91a33471f9c66b1bf17fce8",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "15个案例拆解+8层进阶！教你让Seedance 2.0精准出片的 「五维提示词架构法」",
+      "url": "https://www.uisdc.com/seedance-2-10",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.7,
+      "ai_quality_score": 8,
+      "ai_categories": [
+        "AI视频生成",
+        "提示工程",
+        "设计工具"
+      ],
+      "ai_target_audience": "关注AI视频创作、希望提升提示词精准度的UI/UX设计师与内容创作者",
+      "ai_key_insights": "通过15个案例拆解和8层进阶框架，系统性输出高质量视频提示词，解决AI出片随机性大、风格不可控的痛点，为设计工作流提供可复用的方法论。",
+      "ai_recommendation": "15个真实案例+五维提示词架构，帮你从“碰运气”升级到“精准出片”，设计师的AI视频必修课。",
+      "title_original": "15个案例拆解+8层进阶！教你让Seedance 2.0精准出片的 「五维提示词架构法」",
+      "title_en": null,
+      "title_zh": "15个案例拆解+8层进阶！教你让Seedance 2.0精准出片的 「五维提示词架构法」",
+      "title_bilingual": "15个案例拆解+8层进阶！教你让Seedance 2.0精准出片的 「五维提示词架构法」"
+    },
+    {
+      "id": "b1abd9d4b83901c202d27ecf82bfa69ab7880a89",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "我用了2年的深度研究Prompt，半小时帮你搞懂任何陌生领域！",
+      "url": "https://www.uisdc.com/prompt-4",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.8,
+      "ai_quality_score": 7,
+      "ai_categories": [
+        "AI辅助设计",
+        "设计研究方法",
+        "效率工具"
+      ],
+      "ai_target_audience": "需要快速理解陌生业务领域、进行前期调研的UI/UX设计师、产品设计师及设计策略师",
+      "ai_key_insights": "提供一套经过验证的深度研究Prompt模板，帮助设计师在半小时内系统梳理陌生领域的关键概念、玩家、趋势和用户痛点，将原本散乱的信息收集转化为结构化的认知框架。",
+      "ai_recommendation": "把费时的领域调研压缩成半小时结构化对话，让设计师快速获得决策级洞察，实测可复用性强。",
+      "title_original": "我用了2年的深度研究Prompt，半小时帮你搞懂任何陌生领域！",
+      "title_en": null,
+      "title_zh": "我用了2年的深度研究Prompt，半小时帮你搞懂任何陌生领域！",
+      "title_bilingual": "我用了2年的深度研究Prompt，半小时帮你搞懂任何陌生领域！"
+    },
+    {
+      "id": "bec97ca53c8175ddda0da1777db33a5ed258de4e",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "实测3天+40次生成！深度测评AI设计神器Google Stitch",
+      "url": "https://www.uisdc.com/google-stitch-2",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.9,
+      "ai_quality_score": 8,
+      "ai_categories": [
+        "AI设计工具",
+        "产品评测"
+      ],
+      "ai_target_audience": "关注AI设计效率的UI/UX设计师、产品设计师及设计团队管理者",
+      "ai_key_insights": "基于3天连续实测与40次生成记录，系统评估Google Stitch在界面生成、组件复用和设计一致性方面的真实表现，揭示其实际工作中的可用性与局限性。",
+      "ai_recommendation": "以高强度实测数据背书，为设计师判断AI工具落地性提供可信参考。",
+      "title_original": "实测3天+40次生成！深度测评AI设计神器Google Stitch",
+      "title_en": null,
+      "title_zh": "实测3天+40次生成！深度测评AI设计神器Google Stitch",
+      "title_bilingual": "实测3天+40次生成！深度测评AI设计神器Google Stitch"
+    },
+    {
+      "id": "e2b24a309d1e61c72b91117bb565456c18454aa7",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "免费开源！我写了个「女娲.skill」，帮你把顶级大佬变成了AI员工",
+      "url": "https://www.uisdc.com/skills-11",
+      "published_at": null,
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.6,
+      "ai_quality_score": 7,
+      "ai_categories": [
+        "AI工具",
+        "设计效率"
+      ],
+      "ai_target_audience": "对AI辅助设计工作流感兴趣的UI/UX设计师及效率工具爱好者",
+      "ai_key_insights": "通过自定义AI技能模块，将行业顶尖思维模板化，实现设计决策与产出的半自动化，降低专业经验门槛。",
+      "ai_recommendation": "将顶级设计方法论封装为可复用的AI技能，直击设计师经验积累慢的痛点，值得一试。",
+      "title_original": "免费开源！我写了个「女娲.skill」，帮你把顶级大佬变成了AI员工",
+      "title_en": null,
+      "title_zh": "免费开源！我写了个「女娲.skill」，帮你把顶级大佬变成了AI员工",
+      "title_bilingual": "免费开源！我写了个「女娲.skill」，帮你把顶级大佬变成了AI员工"
+    },
+    {
+      "id": "c23b2d193e9a81bb90c337bbc72483f88a596f4b",
+      "site_id": "buzzing",
+      "site_name": "Buzzing",
+      "source": "www.wired.com",
+      "title": "联邦调查局希望获得对美国车牌识别系统的“近实时”访问权限",
+      "url": "https://www.wired.com/story/security-news-this-week-fbi-license-plate-reader-real-time-access",
+      "published_at": "2026-05-23T17:38:06.234000Z",
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "wired",
+        "name": "Wired",
+        "patterns": [
+          "wired.com",
+          "Wired"
+        ],
+        "reason": "科技文化媒体，需筛选AI+设计深度报道",
+        "update_frequency": "daily",
+        "expected_items_per_day": 20,
+        "language": "en",
+        "ai_filter_focus": [
+          "AI应用",
+          "设计趋势",
+          "创意科技"
+        ],
+        "exclude_topics": [
+          "纯政治",
+          "安全政策",
+          "科学理论"
+        ],
+        "max_items_per_day": 20
+      },
+      "ai_design_relevance": 0.2,
+      "ai_quality_score": 7,
+      "ai_categories": [
+        "隐私与监控",
+        "数据政策"
+      ],
+      "ai_target_audience": "关注隐私伦理、监控技术及数据政策的设计师与决策者",
+      "ai_key_insights": "FBI寻求近乎实时接入全国车牌识别数据库，凸显大规模监控扩张与公民隐私的潜在冲突",
+      "ai_recommendation": "作为现实案例，促使设计师反思数据敏感型产品的隐私影响与知情同意设计。",
+      "title_original": "联邦调查局希望获得对美国车牌识别系统的“近实时”访问权限",
+      "title_en": null,
+      "title_zh": "联邦调查局希望获得对美国车牌识别系统的“近实时”访问权限",
+      "title_bilingual": "联邦调查局希望获得对美国车牌识别系统的“近实时”访问权限"
+    },
+    {
+      "id": "661b83a0a883d1be0f3fa75b1c56269b6d1ad383",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "TechCrunch",
+      "title": "These special phone and app features can help protect you from spyware",
+      "url": "https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back",
+      "published_at": "2026-05-23T16:00:00Z",
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "techcrunch",
+        "name": "TechCrunch",
+        "patterns": [
+          "techcrunch.com",
+          "TechCrunch"
+        ],
+        "reason": "创投科技媒体，需筛选AI创业、产品相关",
+        "update_frequency": "hourly",
+        "expected_items_per_day": 30,
+        "language": "en",
+        "ai_filter_focus": [
+          "AI创业",
+          "新产品发布",
+          "设计工具融资"
+        ],
+        "exclude_topics": [
+          "纯金融",
+          "加密货币",
+          "政策法规"
+        ],
+        "max_items_per_day": 30
+      },
+      "ai_design_relevance": 0.5,
+      "ai_quality_score": 7,
+      "ai_categories": [
+        "Cybersecurity",
+        "Mobile Privacy",
+        "User Experience"
+      ],
+      "ai_target_audience": "General smartphone users, privacy-conscious individuals, and technology enthusiasts seeking practical ways to safeguard personal data against spyware.",
+      "ai_key_insights": "The article highlights built-in phone features like Lockdown Mode, Safety Check, and app privacy reports that empower users to detect and mitigate spyware, emphasizing actionable steps without requiring technical expertise.",
+      "ai_recommendation": "该文章简洁实用，能帮助设计师理解隐私保护功能的用户价值，并启发在界面中融入更清晰的安全引导。",
+      "title_original": "These special phone and app features can help protect you from spyware",
+      "title_en": "These special phone and app features can help protect you from spyware",
+      "title_zh": "这些特殊的手机和应用程序功能可以帮助您免受间谍软件的侵害",
+      "title_bilingual": "这些特殊的手机和应用程序功能可以帮助您免受间谍软件的侵害 / These special phone and app features can help protect you from spyware"
+    },
+    {
+      "id": "d26c90483f9ea2afca6a7ee7cedd9eaf6928cd0f",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "TechCrunch",
+      "title": "Ferrari is using IBM’s AI to create F1 superfans",
+      "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans",
+      "published_at": "2026-05-23T15:08:00Z",
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "techcrunch",
+        "name": "TechCrunch",
+        "patterns": [
+          "techcrunch.com",
+          "TechCrunch"
+        ],
+        "reason": "创投科技媒体，需筛选AI创业、产品相关",
+        "update_frequency": "hourly",
+        "expected_items_per_day": 30,
+        "language": "en",
+        "ai_filter_focus": [
+          "AI创业",
+          "新产品发布",
+          "设计工具融资"
+        ],
+        "exclude_topics": [
+          "纯金融",
+          "加密货币",
+          "政策法规"
+        ],
+        "max_items_per_day": 30
+      },
+      "ai_design_relevance": 0.6,
+      "ai_quality_score": 7,
+      "ai_categories": [
+        "AI应用",
+        "体育科技",
+        "用户体验设计"
+      ],
+      "ai_target_audience": "关注体育产业数字化转型的设计师、产品经理及技术决策者",
+      "ai_key_insights": "法拉利借助IBM的AI分析车迷行为数据，构建个性化互动体验，提升粉丝忠诚度与参与度，展示了数据驱动的情感化设计方向。",
+      "ai_recommendation": "推荐阅读，它提供了将AI融入品牌体验设计的实际案例，对思考情感化交互与数据叙事具有启发。",
+      "title_original": "Ferrari is using IBM’s AI to create F1 superfans",
+      "title_en": "Ferrari is using IBM’s AI to create F1 superfans",
+      "title_zh": "法拉利正在利用 IBM 的 AI 打造 F1 超级粉丝",
+      "title_bilingual": "法拉利正在利用 IBM 的 AI 打造 F1 超级粉丝 / Ferrari is using IBM’s AI to create F1 superfans"
+    },
+    {
+      "id": "024882f181daa2d2cedc20672e61bd287412d685",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Wired",
+      "title": "Cosmic Voids May Contain the Universe’s Best Secrets",
+      "url": "https://www.wired.com/story/cosmic-voids-might-contain-universes-best-secrets",
+      "published_at": "2026-05-23T10:00:00Z",
+      "first_seen_at": "2026-05-24T04:11:32.333456Z",
+      "last_seen_at": "2026-05-24T04:11:32.333456Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "wired",
+        "name": "Wired",
+        "patterns": [
+          "wired.com",
+          "Wired"
+        ],
+        "reason": "科技文化媒体，需筛选AI+设计深度报道",
+        "update_frequency": "daily",
+        "expected_items_per_day": 20,
+        "language": "en",
+        "ai_filter_focus": [
+          "AI应用",
+          "设计趋势",
+          "创意科技"
+        ],
+        "exclude_topics": [
+          "纯政治",
+          "安全政策",
+          "科学理论"
+        ],
+        "max_items_per_day": 20
+      },
+      "ai_design_relevance": 0.2,
+      "ai_quality_score": 8,
+      "ai_categories": [
+        "Science",
+        "Astronomy",
+        "Cosmology"
+      ],
+      "ai_target_audience": "Science enthusiasts, astronomy buffs, and general readers curious about cosmic discoveries and the universe's large-scale structure.",
+      "ai_key_insights": "Cosmic voids, the vast empty regions between galaxy filaments, are not truly empty but hold clues to dark energy, galaxy evolution, and the early universe. Their vastness and subtle structures challenge assumptions about emptiness and offer a new lens for understanding cosmic origins.",
+      "ai_recommendation": "本文从宇宙空洞切入揭示暗能量与结构形成，虽非设计议题，但“虚空不空”的哲思或为空间、边界和负空间的创意设计提供跨界灵感。",
+      "title_original": "Cosmic Voids May Contain the Universe’s Best Secrets",
+      "title_en": "Cosmic Voids May Contain the Universe’s Best Secrets",
+      "title_zh": "宇宙空洞可能蕴藏着宇宙最好的秘密",
+      "title_bilingual": "宇宙空洞可能蕴藏着宇宙最好的秘密 / Cosmic Voids May Contain the Universe’s Best Secrets"
+    }
+  ],
+  "all_mode_data_url": "data/latest-24h-all.json"
+}
