@@ -1,79 +1,79 @@
 {
-  "generated_at": "2026-05-25T04:22:59.063163Z",
+  "generated_at": "2026-05-26T04:08:22.826052Z",
   "window_hours": 24,
   "total_items": 5,
-  "total_items_ai_raw": 6,
-  "total_items_raw": 1916,
-  "total_items_all_mode": 1809,
+  "total_items_ai_raw": 5,
+  "total_items_raw": 3063,
+  "total_items_all_mode": 2900,
   "topic_filter": "ai_relevance_scoring_v0_4",
   "ai_relevance_threshold": 0.65,
   "ai_filter_stats": {
-    "total": 6,
-    "tier_0": 0,
-    "tier_1": 6,
+    "total": 5,
+    "tier_0": 1,
+    "tier_1": 4,
     "tier_2": 0,
     "blacklisted": 0,
-    "items_before_filter": 1916,
-    "items_after_filter": 6,
-    "filter_pass_rate": "0.3%"
+    "items_before_filter": 2021,
+    "items_after_filter": 5,
+    "filter_pass_rate": "0.2%"
   },
-  "archive_total": 6092,
+  "archive_total": 8150,
   "site_count": 14,
-  "source_count": 4,
+  "source_count": 5,
   "site_stats": [
-    {
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "count": 4,
-      "raw_count": 136
-    },
     {
       "site_id": "buzzing",
       "site_name": "Buzzing",
-      "count": 1,
-      "raw_count": 440
+      "count": 3,
+      "raw_count": 506
+    },
+    {
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "count": 2,
+      "raw_count": 158
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 0,
-      "raw_count": 75
+      "raw_count": 137
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "count": 0,
-      "raw_count": 929
+      "raw_count": 1869
     },
     {
       "site_id": "aibase",
       "site_name": "AIbase",
       "count": 0,
-      "raw_count": 20
+      "raw_count": 40
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "count": 0,
-      "raw_count": 266
+      "raw_count": 289
     },
     {
       "site_id": "aihot",
       "site_name": "AI HOT",
       "count": 0,
-      "raw_count": 8
+      "raw_count": 10
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "count": 0,
-      "raw_count": 39
+      "raw_count": 50
     },
     {
       "site_id": "followbuilders",
       "site_name": "Follow Builders",
       "count": 0,
-      "raw_count": 3
+      "raw_count": 4
     },
     {
       "site_id": "official_ai",
@@ -108,6 +108,185 @@
   ],
   "items": [
     {
+      "id": "6ffab512bfbb25e1808acc128d6d7d96d76d2512",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Wired",
+      "title": "The Electric Ferrari Luce Is Finally Here",
+      "url": "https://www.wired.com/story/ferrari-luce-ev-is-finally-here",
+      "published_at": "2026-05-25T21:03:01Z",
+      "first_seen_at": "2026-05-26T04:08:22.826052Z",
+      "last_seen_at": "2026-05-26T04:08:22.826052Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "wired",
+        "name": "Wired",
+        "patterns": [
+          "wired.com",
+          "Wired"
+        ],
+        "reason": "科技文化媒体，需筛选AI+设计深度报道",
+        "update_frequency": "daily",
+        "expected_items_per_day": 20,
+        "language": "en",
+        "ai_filter_focus": [
+          "AI应用",
+          "设计趋势",
+          "创意科技"
+        ],
+        "exclude_topics": [
+          "纯政治",
+          "安全政策",
+          "科学理论"
+        ],
+        "max_items_per_day": 20
+      },
+      "ai_design_relevance": 0.6,
+      "ai_quality_score": 8,
+      "ai_categories": [
+        "automotive design",
+        "technology"
+      ],
+      "ai_target_audience": "汽车爱好者、科技迷、设计专业人士及对法拉利电动化转型感兴趣的读者",
+      "ai_key_insights": "法拉利首款电动车型Luce亮相，探讨其在经典设计美学与电动化技术间的平衡，可能涉及座舱交互与数字界面的前瞻理念。",
+      "ai_recommendation": "这篇文章展示了顶级跑车品牌在电动化转型中的设计思考，对理解高端产品用户体验与品牌基因的融合具有启发意义。",
+      "title_original": "The Electric Ferrari Luce Is Finally Here",
+      "title_en": "The Electric Ferrari Luce Is Finally Here",
+      "title_zh": "电动法拉利 Luce 终于来了",
+      "title_bilingual": "电动法拉利 Luce 终于来了 / The Electric Ferrari Luce Is Finally Here"
+    },
+    {
+      "id": "57efaeaaea5de04cb9fe782eb7cea4d9b04f9c13",
+      "site_id": "buzzing",
+      "site_name": "Buzzing",
+      "source": "community.obsidian.md",
+      "title": "Show HN: 支持多账户认证和双向同步的 Google 日历侧边栏 – Obsidian 插件",
+      "url": "https://community.obsidian.md/plugins/gcal-sidebar",
+      "published_at": "2026-05-25T20:30:51.732000Z",
+      "first_seen_at": "2026-05-26T04:08:22.826052Z",
+      "last_seen_at": "2026-05-26T04:08:22.826052Z",
+      "_tier": 0,
+      "_source_config": {
+        "id": "sidebar",
+        "name": "Sidebar",
+        "patterns": [
+          "sidebar.io",
+          "Sidebar"
+        ],
+        "reason": "每日5个最佳设计链接，人工筛选",
+        "update_frequency": "daily",
+        "expected_items_per_day": 1,
+        "language": "en"
+      },
+      "ai_tier": 0,
+      "ai_must_publish": true,
+      "title_original": "Show HN: 支持多账户认证和双向同步的 Google 日历侧边栏 – Obsidian 插件",
+      "title_en": null,
+      "title_zh": "Show HN: 支持多账户认证和双向同步的 Google 日历侧边栏 – Obsidian 插件",
+      "title_bilingual": "Show HN: 支持多账户认证和双向同步的 Google 日历侧边栏 – Obsidian 插件"
+    },
+    {
+      "id": "df6075da2e3dd43e5b7e22c80fa3d0518dee1b2d",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "TechCrunch",
+      "title": "What ClickUp’s mass layoff tells us about the future of work",
+      "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work",
+      "published_at": "2026-05-25T16:00:00Z",
+      "first_seen_at": "2026-05-26T04:08:22.826052Z",
+      "last_seen_at": "2026-05-26T04:08:22.826052Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "techcrunch",
+        "name": "TechCrunch",
+        "patterns": [
+          "techcrunch.com",
+          "TechCrunch"
+        ],
+        "reason": "创投科技媒体，需筛选AI创业、产品相关",
+        "update_frequency": "hourly",
+        "expected_items_per_day": 30,
+        "language": "en",
+        "ai_filter_focus": [
+          "AI创业",
+          "新产品发布",
+          "设计工具融资"
+        ],
+        "exclude_topics": [
+          "纯金融",
+          "加密货币",
+          "政策法规"
+        ],
+        "max_items_per_day": 30
+      },
+      "ai_design_relevance": 0.3,
+      "ai_quality_score": 7,
+      "ai_categories": [
+        "Business",
+        "Future of Work",
+        "Technology Industry"
+      ],
+      "ai_target_audience": "Business leaders, HR professionals, startup executives, and designers interested in organizational trends within tech companies.",
+      "ai_key_insights": "The article examines how mass layoffs at ClickUp reflect broader shifts in workplace structure, automation, and the prioritization of profitability over rapid scaling, offering lessons on sustainable growth and employee experience design.",
+      "ai_recommendation": "虽然非直接设计内容，但揭示了组织变革对设计团队规模和协作模式的深远影响，值得设计师反思未来职业韧性。",
+      "title_original": "What ClickUp’s mass layoff tells us about the future of work",
+      "title_en": "What ClickUp’s mass layoff tells us about the future of work",
+      "title_zh": "ClickUp 的大规模裁员告诉我们什么是工作的未来",
+      "title_bilingual": "ClickUp 的大规模裁员告诉我们什么是工作的未来 / What ClickUp’s mass layoff tells us about the future of work"
+    },
+    {
+      "id": "4f82f43dbb84731ec02134553f48461a64ba4d65",
+      "site_id": "buzzing",
+      "site_name": "Buzzing",
+      "source": "techcrunch.com",
+      "title": "既然谷歌已不再是曾经的谷歌，有哪些替代的搜索引擎？",
+      "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore",
+      "published_at": "2026-05-25T13:35:44.393000Z",
+      "first_seen_at": "2026-05-26T04:08:22.826052Z",
+      "last_seen_at": "2026-05-26T04:08:22.826052Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "techcrunch",
+        "name": "TechCrunch",
+        "patterns": [
+          "techcrunch.com",
+          "TechCrunch"
+        ],
+        "reason": "创投科技媒体，需筛选AI创业、产品相关",
+        "update_frequency": "hourly",
+        "expected_items_per_day": 30,
+        "language": "en",
+        "ai_filter_focus": [
+          "AI创业",
+          "新产品发布",
+          "设计工具融资"
+        ],
+        "exclude_topics": [
+          "纯金融",
+          "加密货币",
+          "政策法规"
+        ],
+        "max_items_per_day": 30
+      },
+      "ai_design_relevance": 0.6,
+      "ai_quality_score": 7,
+      "ai_categories": [
+        "科技趋势",
+        "产品推荐",
+        "工具资源"
+      ],
+      "ai_target_audience": "对隐私、搜索体验和工具效率敏感的设计师、产品经理及科技爱好者",
+      "ai_key_insights": "从谷歌搜索体验下滑出发，梳理具备差异化UI、隐私保护、垂直搜索等特性的替代引擎，为注重体验与效率的用户提供可操作的迁移指南",
+      "ai_recommendation": "即使不做迁移，也能启发设计师对比不同搜索界面的信息架构与交互模式。",
+      "title_original": "既然谷歌已不再是曾经的谷歌，有哪些替代的搜索引擎？",
+      "title_en": null,
+      "title_zh": "既然谷歌已不再是曾经的谷歌，有哪些替代的搜索引擎？",
+      "title_bilingual": "既然谷歌已不再是曾经的谷歌，有哪些替代的搜索引擎？"
+    },
+    {
       "id": "7419f26f6a1ad5ad68184a3a8116d6c6735bc715",
       "site_id": "buzzing",
       "site_name": "Buzzing",
@@ -117,249 +296,194 @@
       "published_at": "2026-05-25T04:16:45.862000Z",
       "first_seen_at": "2026-05-25T04:22:59.063163Z",
       "last_seen_at": "2026-05-25T04:22:59.063163Z",
-      "_tier": 1,
-      "ai_tier": 1,
-      "_source_config": {
-        "id": "wired",
-        "name": "Wired",
-        "patterns": [
-          "wired.com",
-          "Wired"
-        ],
-        "reason": "科技文化媒体，需筛选AI+设计深度报道",
-        "update_frequency": "daily",
-        "expected_items_per_day": 20,
-        "language": "en",
-        "ai_filter_focus": [
-          "AI应用",
-          "设计趋势",
-          "创意科技"
-        ],
-        "exclude_topics": [
-          "纯政治",
-          "安全政策",
-          "科学理论"
-        ],
-        "max_items_per_day": 20
-      },
-      "ai_design_relevance": 0.2,
-      "ai_quality_score": 7,
-      "ai_categories": [
-        "科技新闻",
-        "航空工程",
-        "创新突破"
-      ],
-      "ai_target_audience": "科技爱好者、工程师、对前沿科学和颠覆性创新感兴趣的读者",
-      "ai_key_insights": "航空工程领域长期公认的基本原理被新研究或实验推翻，可能引发飞机设计、材料或空气动力学的范式转变，体现了科学认知的迭代本质。",
-      "ai_recommendation": "虽与UI/UX设计直接关联较弱，但文章展现了突破既定规则、挑战传统假设的创新精神，对设计思维有启发性。",
+      "ai_filtered": true,
       "title_original": "航空工程学的一项基本原理已被推翻",
       "title_en": null,
       "title_zh": "航空工程学的一项基本原理已被推翻",
       "title_bilingual": "航空工程学的一项基本原理已被推翻"
-    },
-    {
-      "id": "82cc2d42cb8d57a610e6b2522daf7419c4dabea5",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "Hacker News",
-      "title": "A fundamental principle of aeronautical engineering has been overturned",
-      "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned",
-      "published_at": "2026-05-24T19:10:26Z",
-      "first_seen_at": "2026-05-25T04:22:59.063163Z",
-      "last_seen_at": "2026-05-25T04:22:59.063163Z",
-      "_tier": 1,
-      "ai_tier": 1,
-      "_source_config": {
-        "id": "wired",
-        "name": "Wired",
-        "patterns": [
-          "wired.com",
-          "Wired"
-        ],
-        "reason": "科技文化媒体，需筛选AI+设计深度报道",
-        "update_frequency": "daily",
-        "expected_items_per_day": 20,
-        "language": "en",
-        "ai_filter_focus": [
-          "AI应用",
-          "设计趋势",
-          "创意科技"
-        ],
-        "exclude_topics": [
-          "纯政治",
-          "安全政策",
-          "科学理论"
-        ],
-        "max_items_per_day": 20
-      },
-      "ai_design_relevance": 0.1,
-      "ai_quality_score": 8,
-      "ai_categories": [
-        "aerospace engineering",
-        "science",
-        "technology breakthrough"
-      ],
-      "ai_target_audience": "Engineers, aerospace researchers, and technology enthusiasts interested in fundamental scientific advances.",
-      "ai_key_insights": "A long-held principle in aeronautical engineering has been disproven, potentially enabling novel aircraft designs and improved efficiency.",
-      "ai_recommendation": "这篇内容颠覆了航空工程的传统原理，虽与界面设计无直接关联，但其揭示的创新思维范式对突破设计惯性的设计师有启发性。",
-      "title_original": "A fundamental principle of aeronautical engineering has been overturned",
-      "title_en": "A fundamental principle of aeronautical engineering has been overturned",
-      "title_zh": "航空工程学的一项基本原理已被推翻",
-      "title_bilingual": "航空工程学的一项基本原理已被推翻 / A fundamental principle of aeronautical engineering has been overturned"
-    },
-    {
-      "id": "7e4ba129599e478d48778a43e033952e1fde4a21",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "TechCrunch",
-      "title": "TechCrunch Mobility: Robotaxi reality check",
-      "url": "https://techcrunch.com/2026/05/24/techcrunch-mobility-robotaxi-reality-check",
-      "published_at": "2026-05-24T16:05:00Z",
-      "first_seen_at": "2026-05-25T04:22:59.063163Z",
-      "last_seen_at": "2026-05-25T04:22:59.063163Z",
-      "_tier": 1,
-      "ai_tier": 1,
-      "_source_config": {
-        "id": "techcrunch",
-        "name": "TechCrunch",
-        "patterns": [
-          "techcrunch.com",
-          "TechCrunch"
-        ],
-        "reason": "创投科技媒体，需筛选AI创业、产品相关",
-        "update_frequency": "hourly",
-        "expected_items_per_day": 30,
-        "language": "en",
-        "ai_filter_focus": [
-          "AI创业",
-          "新产品发布",
-          "设计工具融资"
-        ],
-        "exclude_topics": [
-          "纯金融",
-          "加密货币",
-          "政策法规"
-        ],
-        "max_items_per_day": 30
-      },
-      "ai_design_relevance": 0.4,
-      "ai_quality_score": 7,
-      "ai_categories": [
-        "autonomous vehicles",
-        "mobility",
-        "technology"
-      ],
-      "ai_target_audience": "Technology professionals, mobility industry stakeholders, and investors tracking autonomous vehicle trends.",
-      "ai_key_insights": "The article provides a reality check on robotaxi deployment, examining technological limitations, regulatory hurdles, and market readiness, emphasizing the gap between industry promises and current capabilities.",
-      "ai_recommendation": "这篇报道揭示了自动驾驶出租车面临的现实挑战，适合关注出行体验与交互设计的专业人士了解行业瓶颈。",
-      "title_original": "TechCrunch Mobility: Robotaxi reality check",
-      "title_en": "TechCrunch Mobility: Robotaxi reality check",
-      "title_zh": "TechCrunch Mobility：Robotaxi 现实检验",
-      "title_bilingual": "TechCrunch Mobility：Robotaxi 现实检验 / TechCrunch Mobility: Robotaxi reality check"
-    },
-    {
-      "id": "a770a5cd00a699bbf7a91e4b4f4a4233099f60b7",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "TechCrunch",
-      "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
-      "url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out",
-      "published_at": "2026-05-24T15:00:00Z",
-      "first_seen_at": "2026-05-25T04:22:59.063163Z",
-      "last_seen_at": "2026-05-25T04:22:59.063163Z",
-      "_tier": 1,
-      "ai_tier": 1,
-      "_source_config": {
-        "id": "techcrunch",
-        "name": "TechCrunch",
-        "patterns": [
-          "techcrunch.com",
-          "TechCrunch"
-        ],
-        "reason": "创投科技媒体，需筛选AI创业、产品相关",
-        "update_frequency": "hourly",
-        "expected_items_per_day": 30,
-        "language": "en",
-        "ai_filter_focus": [
-          "AI创业",
-          "新产品发布",
-          "设计工具融资"
-        ],
-        "exclude_topics": [
-          "纯金融",
-          "加密货币",
-          "政策法规"
-        ],
-        "max_items_per_day": 30
-      },
-      "ai_design_relevance": 0.7,
-      "ai_quality_score": 6,
-      "ai_categories": [
-        "Wearable Technology",
-        "User Experience",
-        "Product Review"
-      ],
-      "ai_target_audience": "Tech-savvy early adopters, UX/UI designers exploring ambient computing, and privacy-conscious consumers evaluating new device interactions.",
-      "ai_key_insights": "The review highlights the tension between novel, hands-free AI assistance and the discomfort of pervasive data collection, revealing that even well-designed wearables must earn user trust through transparent, controllable interactions.",
-      "ai_recommendation": "本文透过真实佩戴体验，揭示了可穿戴设计在智能便利与隐私边界间的微妙平衡，为体验设计师提供了关于信任构建与无感交互的鲜活案例。",
-      "title_original": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
-      "title_en": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
-      "title_zh": "我尝试了亚马逊的 Bee 可穿戴设备，既好奇又有点害怕",
-      "title_bilingual": "我尝试了亚马逊的 Bee 可穿戴设备，既好奇又有点害怕 / I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out"
-    },
-    {
-      "id": "97c68995961c8af73a5d0f5b364b30314956f6e8",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "The Verge",
-      "title": "Hackers are learning to exploit chatbot ‘personalities’",
-      "url": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
-      "published_at": "2026-05-24T12:00:00Z",
-      "first_seen_at": "2026-05-25T04:22:59.063163Z",
-      "last_seen_at": "2026-05-25T04:22:59.063163Z",
-      "_tier": 1,
-      "ai_tier": 1,
-      "_source_config": {
-        "id": "the_verge",
-        "name": "The Verge",
-        "patterns": [
-          "theverge.com",
-          "The Verge"
-        ],
-        "reason": "主流科技媒体，内容广泛，需AI筛选AI+设计相关",
-        "update_frequency": "hourly",
-        "expected_items_per_day": 50,
-        "language": "en",
-        "ai_filter_focus": [
-          "AI产品",
-          "设计工具",
-          "创意应用"
-        ],
-        "exclude_topics": [
-          "纯硬件评测",
-          "游戏",
-          "娱乐八卦"
-        ],
-        "max_items_per_day": 50
-      },
-      "ai_design_relevance": 0.8,
-      "ai_quality_score": 7,
-      "ai_categories": [
-        "AI Safety",
-        "Conversational Design",
-        "Cybersecurity"
-      ],
-      "ai_target_audience": "UX designers, AI product managers, security professionals, and researchers working on conversational interfaces",
-      "ai_key_insights": "Hackers can manipulate a chatbot's designed persona—such as excessive helpfulness or unconditional empathy—to bypass safety filters, elicit sensitive data, or spread misinformation. This reveals critical design flaws in personality crafting that UI/UX designers must address by integrating adversarial testing, constrained response boundaries, and escalation mechanisms directly into the conversation design process.",
-      "ai_recommendation": "文章揭示了聊天机器人人格设计中的安全漏洞，为设计师构建可信交互提供了重要警示。",
-      "title_original": "Hackers are learning to exploit chatbot ‘personalities’",
-      "title_en": "Hackers are learning to exploit chatbot ‘personalities’",
-      "title_zh": "黑客正在学习利用聊天机器人的“个性”",
-      "title_bilingual": "黑客正在学习利用聊天机器人的“个性” / Hackers are learning to exploit chatbot ‘personalities’"
     }
   ],
   "items_ai": [
     {
+      "id": "6ffab512bfbb25e1808acc128d6d7d96d76d2512",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Wired",
+      "title": "The Electric Ferrari Luce Is Finally Here",
+      "url": "https://www.wired.com/story/ferrari-luce-ev-is-finally-here",
+      "published_at": "2026-05-25T21:03:01Z",
+      "first_seen_at": "2026-05-26T04:08:22.826052Z",
+      "last_seen_at": "2026-05-26T04:08:22.826052Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "wired",
+        "name": "Wired",
+        "patterns": [
+          "wired.com",
+          "Wired"
+        ],
+        "reason": "科技文化媒体，需筛选AI+设计深度报道",
+        "update_frequency": "daily",
+        "expected_items_per_day": 20,
+        "language": "en",
+        "ai_filter_focus": [
+          "AI应用",
+          "设计趋势",
+          "创意科技"
+        ],
+        "exclude_topics": [
+          "纯政治",
+          "安全政策",
+          "科学理论"
+        ],
+        "max_items_per_day": 20
+      },
+      "ai_design_relevance": 0.6,
+      "ai_quality_score": 8,
+      "ai_categories": [
+        "automotive design",
+        "technology"
+      ],
+      "ai_target_audience": "汽车爱好者、科技迷、设计专业人士及对法拉利电动化转型感兴趣的读者",
+      "ai_key_insights": "法拉利首款电动车型Luce亮相，探讨其在经典设计美学与电动化技术间的平衡，可能涉及座舱交互与数字界面的前瞻理念。",
+      "ai_recommendation": "这篇文章展示了顶级跑车品牌在电动化转型中的设计思考，对理解高端产品用户体验与品牌基因的融合具有启发意义。",
+      "title_original": "The Electric Ferrari Luce Is Finally Here",
+      "title_en": "The Electric Ferrari Luce Is Finally Here",
+      "title_zh": "电动法拉利 Luce 终于来了",
+      "title_bilingual": "电动法拉利 Luce 终于来了 / The Electric Ferrari Luce Is Finally Here"
+    },
+    {
+      "id": "57efaeaaea5de04cb9fe782eb7cea4d9b04f9c13",
+      "site_id": "buzzing",
+      "site_name": "Buzzing",
+      "source": "community.obsidian.md",
+      "title": "Show HN: 支持多账户认证和双向同步的 Google 日历侧边栏 – Obsidian 插件",
+      "url": "https://community.obsidian.md/plugins/gcal-sidebar",
+      "published_at": "2026-05-25T20:30:51.732000Z",
+      "first_seen_at": "2026-05-26T04:08:22.826052Z",
+      "last_seen_at": "2026-05-26T04:08:22.826052Z",
+      "_tier": 0,
+      "_source_config": {
+        "id": "sidebar",
+        "name": "Sidebar",
+        "patterns": [
+          "sidebar.io",
+          "Sidebar"
+        ],
+        "reason": "每日5个最佳设计链接，人工筛选",
+        "update_frequency": "daily",
+        "expected_items_per_day": 1,
+        "language": "en"
+      },
+      "ai_tier": 0,
+      "ai_must_publish": true,
+      "title_original": "Show HN: 支持多账户认证和双向同步的 Google 日历侧边栏 – Obsidian 插件",
+      "title_en": null,
+      "title_zh": "Show HN: 支持多账户认证和双向同步的 Google 日历侧边栏 – Obsidian 插件",
+      "title_bilingual": "Show HN: 支持多账户认证和双向同步的 Google 日历侧边栏 – Obsidian 插件"
+    },
+    {
+      "id": "df6075da2e3dd43e5b7e22c80fa3d0518dee1b2d",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "TechCrunch",
+      "title": "What ClickUp’s mass layoff tells us about the future of work",
+      "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work",
+      "published_at": "2026-05-25T16:00:00Z",
+      "first_seen_at": "2026-05-26T04:08:22.826052Z",
+      "last_seen_at": "2026-05-26T04:08:22.826052Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "techcrunch",
+        "name": "TechCrunch",
+        "patterns": [
+          "techcrunch.com",
+          "TechCrunch"
+        ],
+        "reason": "创投科技媒体，需筛选AI创业、产品相关",
+        "update_frequency": "hourly",
+        "expected_items_per_day": 30,
+        "language": "en",
+        "ai_filter_focus": [
+          "AI创业",
+          "新产品发布",
+          "设计工具融资"
+        ],
+        "exclude_topics": [
+          "纯金融",
+          "加密货币",
+          "政策法规"
+        ],
+        "max_items_per_day": 30
+      },
+      "ai_design_relevance": 0.3,
+      "ai_quality_score": 7,
+      "ai_categories": [
+        "Business",
+        "Future of Work",
+        "Technology Industry"
+      ],
+      "ai_target_audience": "Business leaders, HR professionals, startup executives, and designers interested in organizational trends within tech companies.",
+      "ai_key_insights": "The article examines how mass layoffs at ClickUp reflect broader shifts in workplace structure, automation, and the prioritization of profitability over rapid scaling, offering lessons on sustainable growth and employee experience design.",
+      "ai_recommendation": "虽然非直接设计内容，但揭示了组织变革对设计团队规模和协作模式的深远影响，值得设计师反思未来职业韧性。",
+      "title_original": "What ClickUp’s mass layoff tells us about the future of work",
+      "title_en": "What ClickUp’s mass layoff tells us about the future of work",
+      "title_zh": "ClickUp 的大规模裁员告诉我们什么是工作的未来",
+      "title_bilingual": "ClickUp 的大规模裁员告诉我们什么是工作的未来 / What ClickUp’s mass layoff tells us about the future of work"
+    },
+    {
+      "id": "4f82f43dbb84731ec02134553f48461a64ba4d65",
+      "site_id": "buzzing",
+      "site_name": "Buzzing",
+      "source": "techcrunch.com",
+      "title": "既然谷歌已不再是曾经的谷歌，有哪些替代的搜索引擎？",
+      "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore",
+      "published_at": "2026-05-25T13:35:44.393000Z",
+      "first_seen_at": "2026-05-26T04:08:22.826052Z",
+      "last_seen_at": "2026-05-26T04:08:22.826052Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "techcrunch",
+        "name": "TechCrunch",
+        "patterns": [
+          "techcrunch.com",
+          "TechCrunch"
+        ],
+        "reason": "创投科技媒体，需筛选AI创业、产品相关",
+        "update_frequency": "hourly",
+        "expected_items_per_day": 30,
+        "language": "en",
+        "ai_filter_focus": [
+          "AI创业",
+          "新产品发布",
+          "设计工具融资"
+        ],
+        "exclude_topics": [
+          "纯金融",
+          "加密货币",
+          "政策法规"
+        ],
+        "max_items_per_day": 30
+      },
+      "ai_design_relevance": 0.6,
+      "ai_quality_score": 7,
+      "ai_categories": [
+        "科技趋势",
+        "产品推荐",
+        "工具资源"
+      ],
+      "ai_target_audience": "对隐私、搜索体验和工具效率敏感的设计师、产品经理及科技爱好者",
+      "ai_key_insights": "从谷歌搜索体验下滑出发，梳理具备差异化UI、隐私保护、垂直搜索等特性的替代引擎，为注重体验与效率的用户提供可操作的迁移指南",
+      "ai_recommendation": "即使不做迁移，也能启发设计师对比不同搜索界面的信息架构与交互模式。",
+      "title_original": "既然谷歌已不再是曾经的谷歌，有哪些替代的搜索引擎？",
+      "title_en": null,
+      "title_zh": "既然谷歌已不再是曾经的谷歌，有哪些替代的搜索引擎？",
+      "title_bilingual": "既然谷歌已不再是曾经的谷歌，有哪些替代的搜索引擎？"
+    },
+    {
       "id": "7419f26f6a1ad5ad68184a3a8116d6c6735bc715",
       "site_id": "buzzing",
       "site_name": "Buzzing",
@@ -369,245 +493,11 @@
       "published_at": "2026-05-25T04:16:45.862000Z",
       "first_seen_at": "2026-05-25T04:22:59.063163Z",
       "last_seen_at": "2026-05-25T04:22:59.063163Z",
-      "_tier": 1,
-      "ai_tier": 1,
-      "_source_config": {
-        "id": "wired",
-        "name": "Wired",
-        "patterns": [
-          "wired.com",
-          "Wired"
-        ],
-        "reason": "科技文化媒体，需筛选AI+设计深度报道",
-        "update_frequency": "daily",
-        "expected_items_per_day": 20,
-        "language": "en",
-        "ai_filter_focus": [
-          "AI应用",
-          "设计趋势",
-          "创意科技"
-        ],
-        "exclude_topics": [
-          "纯政治",
-          "安全政策",
-          "科学理论"
-        ],
-        "max_items_per_day": 20
-      },
-      "ai_design_relevance": 0.2,
-      "ai_quality_score": 7,
-      "ai_categories": [
-        "科技新闻",
-        "航空工程",
-        "创新突破"
-      ],
-      "ai_target_audience": "科技爱好者、工程师、对前沿科学和颠覆性创新感兴趣的读者",
-      "ai_key_insights": "航空工程领域长期公认的基本原理被新研究或实验推翻，可能引发飞机设计、材料或空气动力学的范式转变，体现了科学认知的迭代本质。",
-      "ai_recommendation": "虽与UI/UX设计直接关联较弱，但文章展现了突破既定规则、挑战传统假设的创新精神，对设计思维有启发性。",
+      "ai_filtered": true,
       "title_original": "航空工程学的一项基本原理已被推翻",
       "title_en": null,
       "title_zh": "航空工程学的一项基本原理已被推翻",
       "title_bilingual": "航空工程学的一项基本原理已被推翻"
-    },
-    {
-      "id": "82cc2d42cb8d57a610e6b2522daf7419c4dabea5",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "Hacker News",
-      "title": "A fundamental principle of aeronautical engineering has been overturned",
-      "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned",
-      "published_at": "2026-05-24T19:10:26Z",
-      "first_seen_at": "2026-05-25T04:22:59.063163Z",
-      "last_seen_at": "2026-05-25T04:22:59.063163Z",
-      "_tier": 1,
-      "ai_tier": 1,
-      "_source_config": {
-        "id": "wired",
-        "name": "Wired",
-        "patterns": [
-          "wired.com",
-          "Wired"
-        ],
-        "reason": "科技文化媒体，需筛选AI+设计深度报道",
-        "update_frequency": "daily",
-        "expected_items_per_day": 20,
-        "language": "en",
-        "ai_filter_focus": [
-          "AI应用",
-          "设计趋势",
-          "创意科技"
-        ],
-        "exclude_topics": [
-          "纯政治",
-          "安全政策",
-          "科学理论"
-        ],
-        "max_items_per_day": 20
-      },
-      "ai_design_relevance": 0.1,
-      "ai_quality_score": 8,
-      "ai_categories": [
-        "aerospace engineering",
-        "science",
-        "technology breakthrough"
-      ],
-      "ai_target_audience": "Engineers, aerospace researchers, and technology enthusiasts interested in fundamental scientific advances.",
-      "ai_key_insights": "A long-held principle in aeronautical engineering has been disproven, potentially enabling novel aircraft designs and improved efficiency.",
-      "ai_recommendation": "这篇内容颠覆了航空工程的传统原理，虽与界面设计无直接关联，但其揭示的创新思维范式对突破设计惯性的设计师有启发性。",
-      "title_original": "A fundamental principle of aeronautical engineering has been overturned",
-      "title_en": "A fundamental principle of aeronautical engineering has been overturned",
-      "title_zh": "航空工程学的一项基本原理已被推翻",
-      "title_bilingual": "航空工程学的一项基本原理已被推翻 / A fundamental principle of aeronautical engineering has been overturned"
-    },
-    {
-      "id": "7e4ba129599e478d48778a43e033952e1fde4a21",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "TechCrunch",
-      "title": "TechCrunch Mobility: Robotaxi reality check",
-      "url": "https://techcrunch.com/2026/05/24/techcrunch-mobility-robotaxi-reality-check",
-      "published_at": "2026-05-24T16:05:00Z",
-      "first_seen_at": "2026-05-25T04:22:59.063163Z",
-      "last_seen_at": "2026-05-25T04:22:59.063163Z",
-      "_tier": 1,
-      "ai_tier": 1,
-      "_source_config": {
-        "id": "techcrunch",
-        "name": "TechCrunch",
-        "patterns": [
-          "techcrunch.com",
-          "TechCrunch"
-        ],
-        "reason": "创投科技媒体，需筛选AI创业、产品相关",
-        "update_frequency": "hourly",
-        "expected_items_per_day": 30,
-        "language": "en",
-        "ai_filter_focus": [
-          "AI创业",
-          "新产品发布",
-          "设计工具融资"
-        ],
-        "exclude_topics": [
-          "纯金融",
-          "加密货币",
-          "政策法规"
-        ],
-        "max_items_per_day": 30
-      },
-      "ai_design_relevance": 0.4,
-      "ai_quality_score": 7,
-      "ai_categories": [
-        "autonomous vehicles",
-        "mobility",
-        "technology"
-      ],
-      "ai_target_audience": "Technology professionals, mobility industry stakeholders, and investors tracking autonomous vehicle trends.",
-      "ai_key_insights": "The article provides a reality check on robotaxi deployment, examining technological limitations, regulatory hurdles, and market readiness, emphasizing the gap between industry promises and current capabilities.",
-      "ai_recommendation": "这篇报道揭示了自动驾驶出租车面临的现实挑战，适合关注出行体验与交互设计的专业人士了解行业瓶颈。",
-      "title_original": "TechCrunch Mobility: Robotaxi reality check",
-      "title_en": "TechCrunch Mobility: Robotaxi reality check",
-      "title_zh": "TechCrunch Mobility：Robotaxi 现实检验",
-      "title_bilingual": "TechCrunch Mobility：Robotaxi 现实检验 / TechCrunch Mobility: Robotaxi reality check"
-    },
-    {
-      "id": "a770a5cd00a699bbf7a91e4b4f4a4233099f60b7",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "TechCrunch",
-      "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
-      "url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out",
-      "published_at": "2026-05-24T15:00:00Z",
-      "first_seen_at": "2026-05-25T04:22:59.063163Z",
-      "last_seen_at": "2026-05-25T04:22:59.063163Z",
-      "_tier": 1,
-      "ai_tier": 1,
-      "_source_config": {
-        "id": "techcrunch",
-        "name": "TechCrunch",
-        "patterns": [
-          "techcrunch.com",
-          "TechCrunch"
-        ],
-        "reason": "创投科技媒体，需筛选AI创业、产品相关",
-        "update_frequency": "hourly",
-        "expected_items_per_day": 30,
-        "language": "en",
-        "ai_filter_focus": [
-          "AI创业",
-          "新产品发布",
-          "设计工具融资"
-        ],
-        "exclude_topics": [
-          "纯金融",
-          "加密货币",
-          "政策法规"
-        ],
-        "max_items_per_day": 30
-      },
-      "ai_design_relevance": 0.7,
-      "ai_quality_score": 6,
-      "ai_categories": [
-        "Wearable Technology",
-        "User Experience",
-        "Product Review"
-      ],
-      "ai_target_audience": "Tech-savvy early adopters, UX/UI designers exploring ambient computing, and privacy-conscious consumers evaluating new device interactions.",
-      "ai_key_insights": "The review highlights the tension between novel, hands-free AI assistance and the discomfort of pervasive data collection, revealing that even well-designed wearables must earn user trust through transparent, controllable interactions.",
-      "ai_recommendation": "本文透过真实佩戴体验，揭示了可穿戴设计在智能便利与隐私边界间的微妙平衡，为体验设计师提供了关于信任构建与无感交互的鲜活案例。",
-      "title_original": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
-      "title_en": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
-      "title_zh": "我尝试了亚马逊的 Bee 可穿戴设备，既好奇又有点害怕",
-      "title_bilingual": "我尝试了亚马逊的 Bee 可穿戴设备，既好奇又有点害怕 / I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out"
-    },
-    {
-      "id": "97c68995961c8af73a5d0f5b364b30314956f6e8",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "The Verge",
-      "title": "Hackers are learning to exploit chatbot ‘personalities’",
-      "url": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
-      "published_at": "2026-05-24T12:00:00Z",
-      "first_seen_at": "2026-05-25T04:22:59.063163Z",
-      "last_seen_at": "2026-05-25T04:22:59.063163Z",
-      "_tier": 1,
-      "ai_tier": 1,
-      "_source_config": {
-        "id": "the_verge",
-        "name": "The Verge",
-        "patterns": [
-          "theverge.com",
-          "The Verge"
-        ],
-        "reason": "主流科技媒体，内容广泛，需AI筛选AI+设计相关",
-        "update_frequency": "hourly",
-        "expected_items_per_day": 50,
-        "language": "en",
-        "ai_filter_focus": [
-          "AI产品",
-          "设计工具",
-          "创意应用"
-        ],
-        "exclude_topics": [
-          "纯硬件评测",
-          "游戏",
-          "娱乐八卦"
-        ],
-        "max_items_per_day": 50
-      },
-      "ai_design_relevance": 0.8,
-      "ai_quality_score": 7,
-      "ai_categories": [
-        "AI Safety",
-        "Conversational Design",
-        "Cybersecurity"
-      ],
-      "ai_target_audience": "UX designers, AI product managers, security professionals, and researchers working on conversational interfaces",
-      "ai_key_insights": "Hackers can manipulate a chatbot's designed persona—such as excessive helpfulness or unconditional empathy—to bypass safety filters, elicit sensitive data, or spread misinformation. This reveals critical design flaws in personality crafting that UI/UX designers must address by integrating adversarial testing, constrained response boundaries, and escalation mechanisms directly into the conversation design process.",
-      "ai_recommendation": "文章揭示了聊天机器人人格设计中的安全漏洞，为设计师构建可信交互提供了重要警示。",
-      "title_original": "Hackers are learning to exploit chatbot ‘personalities’",
-      "title_en": "Hackers are learning to exploit chatbot ‘personalities’",
-      "title_zh": "黑客正在学习利用聊天机器人的“个性”",
-      "title_bilingual": "黑客正在学习利用聊天机器人的“个性” / Hackers are learning to exploit chatbot ‘personalities’"
     }
   ],
   "all_mode_data_url": "data/latest-24h-all.json"
