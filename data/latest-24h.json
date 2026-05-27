@@ -1,67 +1,67 @@
 {
-  "generated_at": "2026-05-26T04:08:22.826052Z",
+  "generated_at": "2026-05-27T04:21:39.339833Z",
   "window_hours": 24,
-  "total_items": 5,
-  "total_items_ai_raw": 5,
-  "total_items_raw": 3063,
-  "total_items_all_mode": 2900,
+  "total_items": 6,
+  "total_items_ai_raw": 6,
+  "total_items_raw": 2234,
+  "total_items_all_mode": 2129,
   "topic_filter": "ai_relevance_scoring_v0_4",
   "ai_relevance_threshold": 0.65,
   "ai_filter_stats": {
-    "total": 5,
-    "tier_0": 1,
-    "tier_1": 4,
+    "total": 6,
+    "tier_0": 0,
+    "tier_1": 6,
     "tier_2": 0,
     "blacklisted": 0,
-    "items_before_filter": 2021,
-    "items_after_filter": 5,
-    "filter_pass_rate": "0.2%"
+    "items_before_filter": 2234,
+    "items_after_filter": 6,
+    "filter_pass_rate": "0.3%"
   },
-  "archive_total": 8150,
+  "archive_total": 10420,
   "site_count": 14,
-  "source_count": 5,
+  "source_count": 4,
   "site_stats": [
-    {
-      "site_id": "buzzing",
-      "site_name": "Buzzing",
-      "count": 3,
-      "raw_count": 506
-    },
     {
       "site_id": "techurls",
       "site_name": "TechURLs",
-      "count": 2,
-      "raw_count": 158
+      "count": 4,
+      "raw_count": 220
+    },
+    {
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "count": 1,
+      "raw_count": 1009
+    },
+    {
+      "site_id": "aihot",
+      "site_name": "AI HOT",
+      "count": 1,
+      "raw_count": 29
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 0,
-      "raw_count": 137
-    },
-    {
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "count": 0,
-      "raw_count": 1869
+      "raw_count": 70
     },
     {
       "site_id": "aibase",
       "site_name": "AIbase",
       "count": 0,
-      "raw_count": 40
+      "raw_count": 20
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "count": 0,
-      "raw_count": 289
+      "raw_count": 290
     },
     {
-      "site_id": "aihot",
-      "site_name": "AI HOT",
+      "site_id": "buzzing",
+      "site_name": "Buzzing",
       "count": 0,
-      "raw_count": 10
+      "raw_count": 534
     },
     {
       "site_id": "zeli",
@@ -70,16 +70,16 @@
       "raw_count": 50
     },
     {
-      "site_id": "followbuilders",
-      "site_name": "Follow Builders",
-      "count": 0,
-      "raw_count": 4
-    },
-    {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "count": 0,
-      "raw_count": 0
+      "raw_count": 7
+    },
+    {
+      "site_id": "followbuilders",
+      "site_name": "Follow Builders",
+      "count": 0,
+      "raw_count": 5
     },
     {
       "site_id": "aibreakfast",
@@ -108,15 +108,161 @@
   ],
   "items": [
     {
-      "id": "6ffab512bfbb25e1808acc128d6d7d96d76d2512",
+      "id": "83835d862be5bee787b7b6436067c0c0b3e704c9",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "掌握7条Claude Design设计规范，提升AI+UI界面产出质量！",
+      "url": "https://www.uisdc.com/claude-design-2",
+      "published_at": null,
+      "first_seen_at": "2026-05-27T04:21:39.339833Z",
+      "last_seen_at": "2026-05-27T04:21:39.339833Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.9,
+      "ai_quality_score": 8,
+      "ai_categories": [
+        "AI+UI设计",
+        "设计规范",
+        "设计系统"
+      ],
+      "ai_target_audience": "UI/UX设计师、产品设计师、关注AI设计工具的前端开发者",
+      "ai_key_insights": "将Claude设计原则与AI辅助UI设计相结合，提炼出7条可落地的界面质量提升规范，帮助设计师在AI参与的设计流程中保持一致性、可访问性和用户体验优先级。",
+      "ai_recommendation": "将大模型设计规范转化为UI实战策略，前沿且可操作，是AI时代设计师必读的工艺指南。",
+      "title_original": "掌握7条Claude Design设计规范，提升AI+UI界面产出质量！",
+      "title_en": null,
+      "title_zh": "掌握7条Claude Design设计规范，提升AI+UI界面产出质量！",
+      "title_bilingual": "掌握7条Claude Design设计规范，提升AI+UI界面产出质量！"
+    },
+    {
+      "id": "418dcbd2e235a1439415ad771c6b9dab0a6866ed",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "TechCrunch",
+      "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+      "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search",
+      "published_at": "2026-05-26T22:32:56Z",
+      "first_seen_at": "2026-05-27T04:21:39.339833Z",
+      "last_seen_at": "2026-05-27T04:21:39.339833Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "techcrunch",
+        "name": "TechCrunch",
+        "patterns": [
+          "techcrunch.com",
+          "TechCrunch"
+        ],
+        "reason": "创投科技媒体，需筛选AI创业、产品相关",
+        "update_frequency": "hourly",
+        "expected_items_per_day": 30,
+        "language": "en",
+        "ai_filter_focus": [
+          "AI创业",
+          "新产品发布",
+          "设计工具融资"
+        ],
+        "exclude_topics": [
+          "纯金融",
+          "加密货币",
+          "政策法规"
+        ],
+        "max_items_per_day": 30
+      },
+      "ai_design_relevance": 0.8,
+      "ai_quality_score": 8,
+      "ai_categories": [
+        "User Experience",
+        "AI Ethics",
+        "Search Interfaces",
+        "Technology Trends"
+      ],
+      "ai_target_audience": "UI/UX designers, product managers, and tech professionals tracking how AI integration affects user trust and engagement.",
+      "ai_key_insights": "Users are actively rejecting forced AI search features, leading to a 30% surge in DuckDuckGo installs. This signals a critical need for transparent, user-controlled AI implementation in design, where consent and privacy-preserving defaults shape adoption.",
+      "ai_recommendation": "用户转而远离被强加的AI搜索，推动隐私优先替代品增长，设计师需重视自主权与透明性，避免过度自动化侵蚀信任。",
+      "title_original": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+      "title_en": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+      "title_zh": "由于用户拒绝“强行灌输”谷歌人工智能搜索，DuckDuckGo 安装量增长了 30%",
+      "title_bilingual": "由于用户拒绝“强行灌输”谷歌人工智能搜索，DuckDuckGo 安装量增长了 30% / DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search"
+    },
+    {
+      "id": "4b6723850d73bdbaa5ab4f14cbdd310d7e883567",
+      "site_id": "aihot",
+      "site_name": "AI HOT",
+      "source": "The Verge：AI（RSS）",
+      "title": "Sundar Pichai 谈 AI、搜索的未来及网络的变化",
+      "url": "https://www.theverge.com/podcast/936445/sundar-pichai-ai-search-google-zero-youtube-web",
+      "published_at": "2026-05-26T14:00:00Z",
+      "first_seen_at": "2026-05-27T04:21:39.339833Z",
+      "last_seen_at": "2026-05-27T04:21:39.339833Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "the_verge",
+        "name": "The Verge",
+        "patterns": [
+          "theverge.com",
+          "The Verge"
+        ],
+        "reason": "主流科技媒体，内容广泛，需AI筛选AI+设计相关",
+        "update_frequency": "hourly",
+        "expected_items_per_day": 50,
+        "language": "en",
+        "ai_filter_focus": [
+          "AI产品",
+          "设计工具",
+          "创意应用"
+        ],
+        "exclude_topics": [
+          "纯硬件评测",
+          "游戏",
+          "娱乐八卦"
+        ],
+        "max_items_per_day": 50
+      },
+      "ai_design_relevance": 0.8,
+      "ai_quality_score": 8,
+      "ai_categories": [
+        "人工智能",
+        "搜索引擎",
+        "UX设计趋势"
+      ],
+      "ai_target_audience": "UI/UX设计师、产品经理、对技术趋势感兴趣的设计策略师",
+      "ai_key_insights": "谷歌CEO阐述AI将如何从底层重塑搜索的交互范式，从链接列表转向直接答案与对话，进而影响网站流量、内容生态和用户心智模型，为设计师预示了信息架构和界面设计的根本变革。",
+      "ai_recommendation": "来自谷歌掌门人的第一手AI搜索愿景，帮助设计师提前把握交互范式的颠覆性转变。",
+      "title_original": "Sundar Pichai 谈 AI、搜索的未来及网络的变化",
+      "title_en": null,
+      "title_zh": "Sundar Pichai 谈 AI、搜索的未来及网络的变化",
+      "title_bilingual": "Sundar Pichai 谈 AI、搜索的未来及网络的变化"
+    },
+    {
+      "id": "eeaaf00c692aa4a4874e2a186a2fb1d01b2c1fe4",
       "site_id": "techurls",
       "site_name": "TechURLs",
       "source": "Wired",
-      "title": "The Electric Ferrari Luce Is Finally Here",
-      "url": "https://www.wired.com/story/ferrari-luce-ev-is-finally-here",
-      "published_at": "2026-05-25T21:03:01Z",
-      "first_seen_at": "2026-05-26T04:08:22.826052Z",
-      "last_seen_at": "2026-05-26T04:08:22.826052Z",
+      "title": "Take This Mandatory AI Workplace Training Right Now—or Else",
+      "url": "https://www.wired.com/story/ai-or-die-trying",
+      "published_at": "2026-05-26T10:00:00Z",
+      "first_seen_at": "2026-05-27T04:21:39.339833Z",
+      "last_seen_at": "2026-05-27T04:21:39.339833Z",
       "_tier": 1,
       "ai_tier": 1,
       "_source_config": {
@@ -143,177 +289,279 @@
         "max_items_per_day": 20
       },
       "ai_design_relevance": 0.6,
-      "ai_quality_score": 8,
+      "ai_quality_score": 7,
       "ai_categories": [
-        "automotive design",
-        "technology"
+        "AI in the workplace",
+        "Corporate training design",
+        "Employee experience"
       ],
-      "ai_target_audience": "汽车爱好者、科技迷、设计专业人士及对法拉利电动化转型感兴趣的读者",
-      "ai_key_insights": "法拉利首款电动车型Luce亮相，探讨其在经典设计美学与电动化技术间的平衡，可能涉及座舱交互与数字界面的前瞻理念。",
-      "ai_recommendation": "这篇文章展示了顶级跑车品牌在电动化转型中的设计思考，对理解高端产品用户体验与品牌基因的融合具有启发意义。",
-      "title_original": "The Electric Ferrari Luce Is Finally Here",
-      "title_en": "The Electric Ferrari Luce Is Finally Here",
-      "title_zh": "电动法拉利 Luce 终于来了",
-      "title_bilingual": "电动法拉利 Luce 终于来了 / The Electric Ferrari Luce Is Finally Here"
+      "ai_target_audience": "HR professionals, learning experience designers, managers implementing AI training, and UX designers involved in enterprise learning tools.",
+      "ai_key_insights": "The article likely highlights the pitfalls of top-down, mandatory AI training, emphasizing that poor usability and lack of engagement can backfire, and that designers must advocate for learner-centered, context-aware training experiences.",
+      "ai_recommendation": "强制培训的失败案例提醒设计师：企业学习工具必须兼顾动机、场景与可用性，避免形式化陷阱。",
+      "title_original": "Take This Mandatory AI Workplace Training Right Now—or Else",
+      "title_en": "Take This Mandatory AI Workplace Training Right Now—or Else",
+      "title_zh": "立即参加强制性人工智能工作场所培训，否则就参加",
+      "title_bilingual": "立即参加强制性人工智能工作场所培训，否则就参加 / Take This Mandatory AI Workplace Training Right Now—or Else"
     },
     {
-      "id": "57efaeaaea5de04cb9fe782eb7cea4d9b04f9c13",
-      "site_id": "buzzing",
-      "site_name": "Buzzing",
-      "source": "community.obsidian.md",
-      "title": "Show HN: 支持多账户认证和双向同步的 Google 日历侧边栏 – Obsidian 插件",
-      "url": "https://community.obsidian.md/plugins/gcal-sidebar",
-      "published_at": "2026-05-25T20:30:51.732000Z",
-      "first_seen_at": "2026-05-26T04:08:22.826052Z",
-      "last_seen_at": "2026-05-26T04:08:22.826052Z",
-      "_tier": 0,
-      "_source_config": {
-        "id": "sidebar",
-        "name": "Sidebar",
-        "patterns": [
-          "sidebar.io",
-          "Sidebar"
-        ],
-        "reason": "每日5个最佳设计链接，人工筛选",
-        "update_frequency": "daily",
-        "expected_items_per_day": 1,
-        "language": "en"
-      },
-      "ai_tier": 0,
-      "ai_must_publish": true,
-      "title_original": "Show HN: 支持多账户认证和双向同步的 Google 日历侧边栏 – Obsidian 插件",
-      "title_en": null,
-      "title_zh": "Show HN: 支持多账户认证和双向同步的 Google 日历侧边栏 – Obsidian 插件",
-      "title_bilingual": "Show HN: 支持多账户认证和双向同步的 Google 日历侧边栏 – Obsidian 插件"
-    },
-    {
-      "id": "df6075da2e3dd43e5b7e22c80fa3d0518dee1b2d",
+      "id": "981e96529619b2e3184e5ae60aaa5cc5625ef2d0",
       "site_id": "techurls",
       "site_name": "TechURLs",
-      "source": "TechCrunch",
-      "title": "What ClickUp’s mass layoff tells us about the future of work",
-      "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work",
-      "published_at": "2026-05-25T16:00:00Z",
-      "first_seen_at": "2026-05-26T04:08:22.826052Z",
-      "last_seen_at": "2026-05-26T04:08:22.826052Z",
+      "source": "Wired",
+      "title": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
+      "url": "https://www.wired.com/story/fact-checking-ai",
+      "published_at": "2026-05-26T10:00:00Z",
+      "first_seen_at": "2026-05-27T04:21:39.339833Z",
+      "last_seen_at": "2026-05-27T04:21:39.339833Z",
       "_tier": 1,
       "ai_tier": 1,
       "_source_config": {
-        "id": "techcrunch",
-        "name": "TechCrunch",
+        "id": "wired",
+        "name": "Wired",
         "patterns": [
-          "techcrunch.com",
-          "TechCrunch"
+          "wired.com",
+          "Wired"
         ],
-        "reason": "创投科技媒体，需筛选AI创业、产品相关",
-        "update_frequency": "hourly",
-        "expected_items_per_day": 30,
+        "reason": "科技文化媒体，需筛选AI+设计深度报道",
+        "update_frequency": "daily",
+        "expected_items_per_day": 20,
         "language": "en",
         "ai_filter_focus": [
-          "AI创业",
-          "新产品发布",
-          "设计工具融资"
+          "AI应用",
+          "设计趋势",
+          "创意科技"
         ],
         "exclude_topics": [
-          "纯金融",
-          "加密货币",
-          "政策法规"
+          "纯政治",
+          "安全政策",
+          "科学理论"
         ],
-        "max_items_per_day": 30
+        "max_items_per_day": 20
       },
-      "ai_design_relevance": 0.3,
-      "ai_quality_score": 7,
+      "ai_design_relevance": 0.7,
+      "ai_quality_score": 6,
       "ai_categories": [
-        "Business",
-        "Future of Work",
-        "Technology Industry"
+        "AI Ethics",
+        "Information Design",
+        "Design Tools"
       ],
-      "ai_target_audience": "Business leaders, HR professionals, startup executives, and designers interested in organizational trends within tech companies.",
-      "ai_key_insights": "The article examines how mass layoffs at ClickUp reflect broader shifts in workplace structure, automation, and the prioritization of profitability over rapid scaling, offering lessons on sustainable growth and employee experience design.",
-      "ai_recommendation": "虽然非直接设计内容，但揭示了组织变革对设计团队规模和协作模式的深远影响，值得设计师反思未来职业韧性。",
-      "title_original": "What ClickUp’s mass layoff tells us about the future of work",
-      "title_en": "What ClickUp’s mass layoff tells us about the future of work",
-      "title_zh": "ClickUp 的大规模裁员告诉我们什么是工作的未来",
-      "title_bilingual": "ClickUp 的大规模裁员告诉我们什么是工作的未来 / What ClickUp’s mass layoff tells us about the future of work"
+      "ai_target_audience": "UI/UX designers and product creators who integrate AI-generated content, interfaces, or workflows into their design process and need to understand trust, verification, and error states.",
+      "ai_key_insights": "AI models, even advanced ones, frequently produce factual errors that can mislead users if unchecked. Designers must embed verification layers, transparent disclaimers, and graceful error handling to maintain product credibility and user trust.",
+      "ai_recommendation": "本文揭示了AI生成内容的高度不确定性，为设计师提供关键警示：任何依赖AI输出的界面都需内置事实核查与容错机制。",
+      "title_original": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
+      "title_en": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
+      "title_zh": "我是一名专业的事实核查员。人工智能出错的次数比你想象的要多",
+      "title_bilingual": "我是一名专业的事实核查员。人工智能出错的次数比你想象的要多 / I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think"
     },
     {
-      "id": "4f82f43dbb84731ec02134553f48461a64ba4d65",
-      "site_id": "buzzing",
-      "site_name": "Buzzing",
-      "source": "techcrunch.com",
-      "title": "既然谷歌已不再是曾经的谷歌，有哪些替代的搜索引擎？",
-      "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore",
-      "published_at": "2026-05-25T13:35:44.393000Z",
-      "first_seen_at": "2026-05-26T04:08:22.826052Z",
-      "last_seen_at": "2026-05-26T04:08:22.826052Z",
+      "id": "a2b638f4415f9f60d44eb708d44b6bf07d7d8701",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Wired",
+      "title": "AI Is Taking Over the Most Cursed Job in the World",
+      "url": "https://www.wired.com/story/ai-takes-over-debt-collection",
+      "published_at": "2026-05-26T10:00:00Z",
+      "first_seen_at": "2026-05-27T04:21:39.339833Z",
+      "last_seen_at": "2026-05-27T04:21:39.339833Z",
       "_tier": 1,
       "ai_tier": 1,
       "_source_config": {
-        "id": "techcrunch",
-        "name": "TechCrunch",
+        "id": "wired",
+        "name": "Wired",
         "patterns": [
-          "techcrunch.com",
-          "TechCrunch"
+          "wired.com",
+          "Wired"
         ],
-        "reason": "创投科技媒体，需筛选AI创业、产品相关",
-        "update_frequency": "hourly",
-        "expected_items_per_day": 30,
+        "reason": "科技文化媒体，需筛选AI+设计深度报道",
+        "update_frequency": "daily",
+        "expected_items_per_day": 20,
         "language": "en",
         "ai_filter_focus": [
-          "AI创业",
-          "新产品发布",
-          "设计工具融资"
+          "AI应用",
+          "设计趋势",
+          "创意科技"
         ],
         "exclude_topics": [
-          "纯金融",
-          "加密货币",
-          "政策法规"
+          "纯政治",
+          "安全政策",
+          "科学理论"
         ],
-        "max_items_per_day": 30
+        "max_items_per_day": 20
       },
-      "ai_design_relevance": 0.6,
-      "ai_quality_score": 7,
+      "ai_design_relevance": 0.7,
+      "ai_quality_score": 8,
       "ai_categories": [
-        "科技趋势",
-        "产品推荐",
-        "工具资源"
+        "AI Ethics",
+        "Content Moderation",
+        "Human-Computer Interaction",
+        "Trust & Safety Design"
       ],
-      "ai_target_audience": "对隐私、搜索体验和工具效率敏感的设计师、产品经理及科技爱好者",
-      "ai_key_insights": "从谷歌搜索体验下滑出发，梳理具备差异化UI、隐私保护、垂直搜索等特性的替代引擎，为注重体验与效率的用户提供可操作的迁移指南",
-      "ai_recommendation": "即使不做迁移，也能启发设计师对比不同搜索界面的信息架构与交互模式。",
-      "title_original": "既然谷歌已不再是曾经的谷歌，有哪些替代的搜索引擎？",
-      "title_en": null,
-      "title_zh": "既然谷歌已不再是曾经的谷歌，有哪些替代的搜索引擎？",
-      "title_bilingual": "既然谷歌已不再是曾经的谷歌，有哪些替代的搜索引擎？"
-    },
-    {
-      "id": "7419f26f6a1ad5ad68184a3a8116d6c6735bc715",
-      "site_id": "buzzing",
-      "site_name": "Buzzing",
-      "source": "www.wired.com",
-      "title": "航空工程学的一项基本原理已被推翻",
-      "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned",
-      "published_at": "2026-05-25T04:16:45.862000Z",
-      "first_seen_at": "2026-05-25T04:22:59.063163Z",
-      "last_seen_at": "2026-05-25T04:22:59.063163Z",
-      "ai_filtered": true,
-      "title_original": "航空工程学的一项基本原理已被推翻",
-      "title_en": null,
-      "title_zh": "航空工程学的一项基本原理已被推翻",
-      "title_bilingual": "航空工程学的一项基本原理已被推翻"
+      "ai_target_audience": "Product designers, UX researchers, platform safety leads, and tech professionals building or moderating user-generated content systems",
+      "ai_key_insights": "AI is being deployed to automate psychologically harmful jobs like content moderation, reducing human exposure to trauma. This shift necessitates careful design of human-AI hybrid workflows, transparency in automated decisions, and ethical considerations around mental health, oversight, and bias.",
+      "ai_recommendation": "推荐阅读以理解AI如何接手内容审核等高风险工作，为设计安全、人性化的审核工具及交互界面提供关键伦理与实践视角。",
+      "title_original": "AI Is Taking Over the Most Cursed Job in the World",
+      "title_en": "AI Is Taking Over the Most Cursed Job in the World",
+      "title_zh": "人工智能正在接管世界上最受诅咒的工作",
+      "title_bilingual": "人工智能正在接管世界上最受诅咒的工作 / AI Is Taking Over the Most Cursed Job in the World"
     }
   ],
   "items_ai": [
     {
-      "id": "6ffab512bfbb25e1808acc128d6d7d96d76d2512",
+      "id": "83835d862be5bee787b7b6436067c0c0b3e704c9",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "掌握7条Claude Design设计规范，提升AI+UI界面产出质量！",
+      "url": "https://www.uisdc.com/claude-design-2",
+      "published_at": null,
+      "first_seen_at": "2026-05-27T04:21:39.339833Z",
+      "last_seen_at": "2026-05-27T04:21:39.339833Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "uisdc",
+        "name": "优设网",
+        "patterns": [
+          "uisdc.com",
+          "优设网"
+        ],
+        "reason": "设计师学习平台，内容多，需AI筛选高质量",
+        "update_frequency": "daily",
+        "expected_items_per_day": 2,
+        "language": "zh",
+        "ai_filter_focus": [
+          "AI设计教程",
+          "工具实测",
+          "设计案例"
+        ],
+        "max_items_per_day": 3
+      },
+      "ai_design_relevance": 0.9,
+      "ai_quality_score": 8,
+      "ai_categories": [
+        "AI+UI设计",
+        "设计规范",
+        "设计系统"
+      ],
+      "ai_target_audience": "UI/UX设计师、产品设计师、关注AI设计工具的前端开发者",
+      "ai_key_insights": "将Claude设计原则与AI辅助UI设计相结合，提炼出7条可落地的界面质量提升规范，帮助设计师在AI参与的设计流程中保持一致性、可访问性和用户体验优先级。",
+      "ai_recommendation": "将大模型设计规范转化为UI实战策略，前沿且可操作，是AI时代设计师必读的工艺指南。",
+      "title_original": "掌握7条Claude Design设计规范，提升AI+UI界面产出质量！",
+      "title_en": null,
+      "title_zh": "掌握7条Claude Design设计规范，提升AI+UI界面产出质量！",
+      "title_bilingual": "掌握7条Claude Design设计规范，提升AI+UI界面产出质量！"
+    },
+    {
+      "id": "418dcbd2e235a1439415ad771c6b9dab0a6866ed",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "TechCrunch",
+      "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+      "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search",
+      "published_at": "2026-05-26T22:32:56Z",
+      "first_seen_at": "2026-05-27T04:21:39.339833Z",
+      "last_seen_at": "2026-05-27T04:21:39.339833Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "techcrunch",
+        "name": "TechCrunch",
+        "patterns": [
+          "techcrunch.com",
+          "TechCrunch"
+        ],
+        "reason": "创投科技媒体，需筛选AI创业、产品相关",
+        "update_frequency": "hourly",
+        "expected_items_per_day": 30,
+        "language": "en",
+        "ai_filter_focus": [
+          "AI创业",
+          "新产品发布",
+          "设计工具融资"
+        ],
+        "exclude_topics": [
+          "纯金融",
+          "加密货币",
+          "政策法规"
+        ],
+        "max_items_per_day": 30
+      },
+      "ai_design_relevance": 0.8,
+      "ai_quality_score": 8,
+      "ai_categories": [
+        "User Experience",
+        "AI Ethics",
+        "Search Interfaces",
+        "Technology Trends"
+      ],
+      "ai_target_audience": "UI/UX designers, product managers, and tech professionals tracking how AI integration affects user trust and engagement.",
+      "ai_key_insights": "Users are actively rejecting forced AI search features, leading to a 30% surge in DuckDuckGo installs. This signals a critical need for transparent, user-controlled AI implementation in design, where consent and privacy-preserving defaults shape adoption.",
+      "ai_recommendation": "用户转而远离被强加的AI搜索，推动隐私优先替代品增长，设计师需重视自主权与透明性，避免过度自动化侵蚀信任。",
+      "title_original": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+      "title_en": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+      "title_zh": "由于用户拒绝“强行灌输”谷歌人工智能搜索，DuckDuckGo 安装量增长了 30%",
+      "title_bilingual": "由于用户拒绝“强行灌输”谷歌人工智能搜索，DuckDuckGo 安装量增长了 30% / DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search"
+    },
+    {
+      "id": "4b6723850d73bdbaa5ab4f14cbdd310d7e883567",
+      "site_id": "aihot",
+      "site_name": "AI HOT",
+      "source": "The Verge：AI（RSS）",
+      "title": "Sundar Pichai 谈 AI、搜索的未来及网络的变化",
+      "url": "https://www.theverge.com/podcast/936445/sundar-pichai-ai-search-google-zero-youtube-web",
+      "published_at": "2026-05-26T14:00:00Z",
+      "first_seen_at": "2026-05-27T04:21:39.339833Z",
+      "last_seen_at": "2026-05-27T04:21:39.339833Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "the_verge",
+        "name": "The Verge",
+        "patterns": [
+          "theverge.com",
+          "The Verge"
+        ],
+        "reason": "主流科技媒体，内容广泛，需AI筛选AI+设计相关",
+        "update_frequency": "hourly",
+        "expected_items_per_day": 50,
+        "language": "en",
+        "ai_filter_focus": [
+          "AI产品",
+          "设计工具",
+          "创意应用"
+        ],
+        "exclude_topics": [
+          "纯硬件评测",
+          "游戏",
+          "娱乐八卦"
+        ],
+        "max_items_per_day": 50
+      },
+      "ai_design_relevance": 0.8,
+      "ai_quality_score": 8,
+      "ai_categories": [
+        "人工智能",
+        "搜索引擎",
+        "UX设计趋势"
+      ],
+      "ai_target_audience": "UI/UX设计师、产品经理、对技术趋势感兴趣的设计策略师",
+      "ai_key_insights": "谷歌CEO阐述AI将如何从底层重塑搜索的交互范式，从链接列表转向直接答案与对话，进而影响网站流量、内容生态和用户心智模型，为设计师预示了信息架构和界面设计的根本变革。",
+      "ai_recommendation": "来自谷歌掌门人的第一手AI搜索愿景，帮助设计师提前把握交互范式的颠覆性转变。",
+      "title_original": "Sundar Pichai 谈 AI、搜索的未来及网络的变化",
+      "title_en": null,
+      "title_zh": "Sundar Pichai 谈 AI、搜索的未来及网络的变化",
+      "title_bilingual": "Sundar Pichai 谈 AI、搜索的未来及网络的变化"
+    },
+    {
+      "id": "eeaaf00c692aa4a4874e2a186a2fb1d01b2c1fe4",
       "site_id": "techurls",
       "site_name": "TechURLs",
       "source": "Wired",
-      "title": "The Electric Ferrari Luce Is Finally Here",
-      "url": "https://www.wired.com/story/ferrari-luce-ev-is-finally-here",
-      "published_at": "2026-05-25T21:03:01Z",
-      "first_seen_at": "2026-05-26T04:08:22.826052Z",
-      "last_seen_at": "2026-05-26T04:08:22.826052Z",
+      "title": "Take This Mandatory AI Workplace Training Right Now—or Else",
+      "url": "https://www.wired.com/story/ai-or-die-trying",
+      "published_at": "2026-05-26T10:00:00Z",
+      "first_seen_at": "2026-05-27T04:21:39.339833Z",
+      "last_seen_at": "2026-05-27T04:21:39.339833Z",
       "_tier": 1,
       "ai_tier": 1,
       "_source_config": {
@@ -340,164 +588,120 @@
         "max_items_per_day": 20
       },
       "ai_design_relevance": 0.6,
-      "ai_quality_score": 8,
+      "ai_quality_score": 7,
       "ai_categories": [
-        "automotive design",
-        "technology"
+        "AI in the workplace",
+        "Corporate training design",
+        "Employee experience"
       ],
-      "ai_target_audience": "汽车爱好者、科技迷、设计专业人士及对法拉利电动化转型感兴趣的读者",
-      "ai_key_insights": "法拉利首款电动车型Luce亮相，探讨其在经典设计美学与电动化技术间的平衡，可能涉及座舱交互与数字界面的前瞻理念。",
-      "ai_recommendation": "这篇文章展示了顶级跑车品牌在电动化转型中的设计思考，对理解高端产品用户体验与品牌基因的融合具有启发意义。",
-      "title_original": "The Electric Ferrari Luce Is Finally Here",
-      "title_en": "The Electric Ferrari Luce Is Finally Here",
-      "title_zh": "电动法拉利 Luce 终于来了",
-      "title_bilingual": "电动法拉利 Luce 终于来了 / The Electric Ferrari Luce Is Finally Here"
+      "ai_target_audience": "HR professionals, learning experience designers, managers implementing AI training, and UX designers involved in enterprise learning tools.",
+      "ai_key_insights": "The article likely highlights the pitfalls of top-down, mandatory AI training, emphasizing that poor usability and lack of engagement can backfire, and that designers must advocate for learner-centered, context-aware training experiences.",
+      "ai_recommendation": "强制培训的失败案例提醒设计师：企业学习工具必须兼顾动机、场景与可用性，避免形式化陷阱。",
+      "title_original": "Take This Mandatory AI Workplace Training Right Now—or Else",
+      "title_en": "Take This Mandatory AI Workplace Training Right Now—or Else",
+      "title_zh": "立即参加强制性人工智能工作场所培训，否则就参加",
+      "title_bilingual": "立即参加强制性人工智能工作场所培训，否则就参加 / Take This Mandatory AI Workplace Training Right Now—or Else"
     },
     {
-      "id": "57efaeaaea5de04cb9fe782eb7cea4d9b04f9c13",
-      "site_id": "buzzing",
-      "site_name": "Buzzing",
-      "source": "community.obsidian.md",
-      "title": "Show HN: 支持多账户认证和双向同步的 Google 日历侧边栏 – Obsidian 插件",
-      "url": "https://community.obsidian.md/plugins/gcal-sidebar",
-      "published_at": "2026-05-25T20:30:51.732000Z",
-      "first_seen_at": "2026-05-26T04:08:22.826052Z",
-      "last_seen_at": "2026-05-26T04:08:22.826052Z",
-      "_tier": 0,
-      "_source_config": {
-        "id": "sidebar",
-        "name": "Sidebar",
-        "patterns": [
-          "sidebar.io",
-          "Sidebar"
-        ],
-        "reason": "每日5个最佳设计链接，人工筛选",
-        "update_frequency": "daily",
-        "expected_items_per_day": 1,
-        "language": "en"
-      },
-      "ai_tier": 0,
-      "ai_must_publish": true,
-      "title_original": "Show HN: 支持多账户认证和双向同步的 Google 日历侧边栏 – Obsidian 插件",
-      "title_en": null,
-      "title_zh": "Show HN: 支持多账户认证和双向同步的 Google 日历侧边栏 – Obsidian 插件",
-      "title_bilingual": "Show HN: 支持多账户认证和双向同步的 Google 日历侧边栏 – Obsidian 插件"
-    },
-    {
-      "id": "df6075da2e3dd43e5b7e22c80fa3d0518dee1b2d",
+      "id": "981e96529619b2e3184e5ae60aaa5cc5625ef2d0",
       "site_id": "techurls",
       "site_name": "TechURLs",
-      "source": "TechCrunch",
-      "title": "What ClickUp’s mass layoff tells us about the future of work",
-      "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work",
-      "published_at": "2026-05-25T16:00:00Z",
-      "first_seen_at": "2026-05-26T04:08:22.826052Z",
-      "last_seen_at": "2026-05-26T04:08:22.826052Z",
+      "source": "Wired",
+      "title": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
+      "url": "https://www.wired.com/story/fact-checking-ai",
+      "published_at": "2026-05-26T10:00:00Z",
+      "first_seen_at": "2026-05-27T04:21:39.339833Z",
+      "last_seen_at": "2026-05-27T04:21:39.339833Z",
       "_tier": 1,
       "ai_tier": 1,
       "_source_config": {
-        "id": "techcrunch",
-        "name": "TechCrunch",
+        "id": "wired",
+        "name": "Wired",
         "patterns": [
-          "techcrunch.com",
-          "TechCrunch"
+          "wired.com",
+          "Wired"
         ],
-        "reason": "创投科技媒体，需筛选AI创业、产品相关",
-        "update_frequency": "hourly",
-        "expected_items_per_day": 30,
+        "reason": "科技文化媒体，需筛选AI+设计深度报道",
+        "update_frequency": "daily",
+        "expected_items_per_day": 20,
         "language": "en",
         "ai_filter_focus": [
-          "AI创业",
-          "新产品发布",
-          "设计工具融资"
+          "AI应用",
+          "设计趋势",
+          "创意科技"
         ],
         "exclude_topics": [
-          "纯金融",
-          "加密货币",
-          "政策法规"
+          "纯政治",
+          "安全政策",
+          "科学理论"
         ],
-        "max_items_per_day": 30
+        "max_items_per_day": 20
       },
-      "ai_design_relevance": 0.3,
-      "ai_quality_score": 7,
+      "ai_design_relevance": 0.7,
+      "ai_quality_score": 6,
       "ai_categories": [
-        "Business",
-        "Future of Work",
-        "Technology Industry"
+        "AI Ethics",
+        "Information Design",
+        "Design Tools"
       ],
-      "ai_target_audience": "Business leaders, HR professionals, startup executives, and designers interested in organizational trends within tech companies.",
-      "ai_key_insights": "The article examines how mass layoffs at ClickUp reflect broader shifts in workplace structure, automation, and the prioritization of profitability over rapid scaling, offering lessons on sustainable growth and employee experience design.",
-      "ai_recommendation": "虽然非直接设计内容，但揭示了组织变革对设计团队规模和协作模式的深远影响，值得设计师反思未来职业韧性。",
-      "title_original": "What ClickUp’s mass layoff tells us about the future of work",
-      "title_en": "What ClickUp’s mass layoff tells us about the future of work",
-      "title_zh": "ClickUp 的大规模裁员告诉我们什么是工作的未来",
-      "title_bilingual": "ClickUp 的大规模裁员告诉我们什么是工作的未来 / What ClickUp’s mass layoff tells us about the future of work"
+      "ai_target_audience": "UI/UX designers and product creators who integrate AI-generated content, interfaces, or workflows into their design process and need to understand trust, verification, and error states.",
+      "ai_key_insights": "AI models, even advanced ones, frequently produce factual errors that can mislead users if unchecked. Designers must embed verification layers, transparent disclaimers, and graceful error handling to maintain product credibility and user trust.",
+      "ai_recommendation": "本文揭示了AI生成内容的高度不确定性，为设计师提供关键警示：任何依赖AI输出的界面都需内置事实核查与容错机制。",
+      "title_original": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
+      "title_en": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
+      "title_zh": "我是一名专业的事实核查员。人工智能出错的次数比你想象的要多",
+      "title_bilingual": "我是一名专业的事实核查员。人工智能出错的次数比你想象的要多 / I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think"
     },
     {
-      "id": "4f82f43dbb84731ec02134553f48461a64ba4d65",
-      "site_id": "buzzing",
-      "site_name": "Buzzing",
-      "source": "techcrunch.com",
-      "title": "既然谷歌已不再是曾经的谷歌，有哪些替代的搜索引擎？",
-      "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore",
-      "published_at": "2026-05-25T13:35:44.393000Z",
-      "first_seen_at": "2026-05-26T04:08:22.826052Z",
-      "last_seen_at": "2026-05-26T04:08:22.826052Z",
+      "id": "a2b638f4415f9f60d44eb708d44b6bf07d7d8701",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Wired",
+      "title": "AI Is Taking Over the Most Cursed Job in the World",
+      "url": "https://www.wired.com/story/ai-takes-over-debt-collection",
+      "published_at": "2026-05-26T10:00:00Z",
+      "first_seen_at": "2026-05-27T04:21:39.339833Z",
+      "last_seen_at": "2026-05-27T04:21:39.339833Z",
       "_tier": 1,
       "ai_tier": 1,
       "_source_config": {
-        "id": "techcrunch",
-        "name": "TechCrunch",
+        "id": "wired",
+        "name": "Wired",
         "patterns": [
-          "techcrunch.com",
-          "TechCrunch"
+          "wired.com",
+          "Wired"
         ],
-        "reason": "创投科技媒体，需筛选AI创业、产品相关",
-        "update_frequency": "hourly",
-        "expected_items_per_day": 30,
+        "reason": "科技文化媒体，需筛选AI+设计深度报道",
+        "update_frequency": "daily",
+        "expected_items_per_day": 20,
         "language": "en",
         "ai_filter_focus": [
-          "AI创业",
-          "新产品发布",
-          "设计工具融资"
+          "AI应用",
+          "设计趋势",
+          "创意科技"
         ],
         "exclude_topics": [
-          "纯金融",
-          "加密货币",
-          "政策法规"
+          "纯政治",
+          "安全政策",
+          "科学理论"
         ],
-        "max_items_per_day": 30
+        "max_items_per_day": 20
       },
-      "ai_design_relevance": 0.6,
-      "ai_quality_score": 7,
+      "ai_design_relevance": 0.7,
+      "ai_quality_score": 8,
       "ai_categories": [
-        "科技趋势",
-        "产品推荐",
-        "工具资源"
+        "AI Ethics",
+        "Content Moderation",
+        "Human-Computer Interaction",
+        "Trust & Safety Design"
       ],
-      "ai_target_audience": "对隐私、搜索体验和工具效率敏感的设计师、产品经理及科技爱好者",
-      "ai_key_insights": "从谷歌搜索体验下滑出发，梳理具备差异化UI、隐私保护、垂直搜索等特性的替代引擎，为注重体验与效率的用户提供可操作的迁移指南",
-      "ai_recommendation": "即使不做迁移，也能启发设计师对比不同搜索界面的信息架构与交互模式。",
-      "title_original": "既然谷歌已不再是曾经的谷歌，有哪些替代的搜索引擎？",
-      "title_en": null,
-      "title_zh": "既然谷歌已不再是曾经的谷歌，有哪些替代的搜索引擎？",
-      "title_bilingual": "既然谷歌已不再是曾经的谷歌，有哪些替代的搜索引擎？"
-    },
-    {
-      "id": "7419f26f6a1ad5ad68184a3a8116d6c6735bc715",
-      "site_id": "buzzing",
-      "site_name": "Buzzing",
-      "source": "www.wired.com",
-      "title": "航空工程学的一项基本原理已被推翻",
-      "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned",
-      "published_at": "2026-05-25T04:16:45.862000Z",
-      "first_seen_at": "2026-05-25T04:22:59.063163Z",
-      "last_seen_at": "2026-05-25T04:22:59.063163Z",
-      "ai_filtered": true,
-      "title_original": "航空工程学的一项基本原理已被推翻",
-      "title_en": null,
-      "title_zh": "航空工程学的一项基本原理已被推翻",
-      "title_bilingual": "航空工程学的一项基本原理已被推翻"
+      "ai_target_audience": "Product designers, UX researchers, platform safety leads, and tech professionals building or moderating user-generated content systems",
+      "ai_key_insights": "AI is being deployed to automate psychologically harmful jobs like content moderation, reducing human exposure to trauma. This shift necessitates careful design of human-AI hybrid workflows, transparency in automated decisions, and ethical considerations around mental health, oversight, and bias.",
+      "ai_recommendation": "推荐阅读以理解AI如何接手内容审核等高风险工作，为设计安全、人性化的审核工具及交互界面提供关键伦理与实践视角。",
+      "title_original": "AI Is Taking Over the Most Cursed Job in the World",
+      "title_en": "AI Is Taking Over the Most Cursed Job in the World",
+      "title_zh": "人工智能正在接管世界上最受诅咒的工作",
+      "title_bilingual": "人工智能正在接管世界上最受诅咒的工作 / AI Is Taking Over the Most Cursed Job in the World"
     }
   ],
   "all_mode_data_url": "data/latest-24h-all.json"
