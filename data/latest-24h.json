@@ -1,67 +1,67 @@
 {
-  "generated_at": "2026-05-27T04:21:39.339833Z",
+  "generated_at": "2026-05-28T04:11:31.260237Z",
   "window_hours": 24,
-  "total_items": 6,
-  "total_items_ai_raw": 6,
-  "total_items_raw": 2234,
-  "total_items_all_mode": 2129,
+  "total_items": 5,
+  "total_items_ai_raw": 5,
+  "total_items_raw": 3378,
+  "total_items_all_mode": 3195,
   "topic_filter": "ai_relevance_scoring_v0_4",
   "ai_relevance_threshold": 0.65,
   "ai_filter_stats": {
-    "total": 6,
+    "total": 5,
     "tier_0": 0,
-    "tier_1": 6,
+    "tier_1": 5,
     "tier_2": 0,
     "blacklisted": 0,
-    "items_before_filter": 2234,
-    "items_after_filter": 6,
-    "filter_pass_rate": "0.3%"
+    "items_before_filter": 2278,
+    "items_after_filter": 5,
+    "filter_pass_rate": "0.2%"
   },
-  "archive_total": 10420,
+  "archive_total": 12749,
   "site_count": 14,
-  "source_count": 4,
+  "source_count": 5,
   "site_stats": [
     {
       "site_id": "techurls",
       "site_name": "TechURLs",
-      "count": 4,
-      "raw_count": 220
+      "count": 3,
+      "raw_count": 226
+    },
+    {
+      "site_id": "buzzing",
+      "site_name": "Buzzing",
+      "count": 1,
+      "raw_count": 606
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "count": 1,
-      "raw_count": 1009
-    },
-    {
-      "site_id": "aihot",
-      "site_name": "AI HOT",
-      "count": 1,
-      "raw_count": 29
-    },
-    {
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "count": 0,
-      "raw_count": 70
+      "raw_count": 2028
     },
     {
       "site_id": "aibase",
       "site_name": "AIbase",
       "count": 0,
-      "raw_count": 20
+      "raw_count": 40
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "count": 0,
-      "raw_count": 290
+      "raw_count": 308
     },
     {
-      "site_id": "buzzing",
-      "site_name": "Buzzing",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
       "count": 0,
-      "raw_count": 534
+      "raw_count": 79
+    },
+    {
+      "site_id": "aihot",
+      "site_name": "AI HOT",
+      "count": 0,
+      "raw_count": 33
     },
     {
       "site_id": "zeli",
@@ -73,7 +73,7 @@
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "count": 0,
-      "raw_count": 7
+      "raw_count": 3
     },
     {
       "site_id": "followbuilders",
@@ -108,60 +108,15 @@
   ],
   "items": [
     {
-      "id": "83835d862be5bee787b7b6436067c0c0b3e704c9",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "优设网 · 每日热文榜单",
-      "title": "掌握7条Claude Design设计规范，提升AI+UI界面产出质量！",
-      "url": "https://www.uisdc.com/claude-design-2",
-      "published_at": null,
-      "first_seen_at": "2026-05-27T04:21:39.339833Z",
-      "last_seen_at": "2026-05-27T04:21:39.339833Z",
-      "_tier": 1,
-      "ai_tier": 1,
-      "_source_config": {
-        "id": "uisdc",
-        "name": "优设网",
-        "patterns": [
-          "uisdc.com",
-          "优设网"
-        ],
-        "reason": "设计师学习平台，内容多，需AI筛选高质量",
-        "update_frequency": "daily",
-        "expected_items_per_day": 2,
-        "language": "zh",
-        "ai_filter_focus": [
-          "AI设计教程",
-          "工具实测",
-          "设计案例"
-        ],
-        "max_items_per_day": 3
-      },
-      "ai_design_relevance": 0.9,
-      "ai_quality_score": 8,
-      "ai_categories": [
-        "AI+UI设计",
-        "设计规范",
-        "设计系统"
-      ],
-      "ai_target_audience": "UI/UX设计师、产品设计师、关注AI设计工具的前端开发者",
-      "ai_key_insights": "将Claude设计原则与AI辅助UI设计相结合，提炼出7条可落地的界面质量提升规范，帮助设计师在AI参与的设计流程中保持一致性、可访问性和用户体验优先级。",
-      "ai_recommendation": "将大模型设计规范转化为UI实战策略，前沿且可操作，是AI时代设计师必读的工艺指南。",
-      "title_original": "掌握7条Claude Design设计规范，提升AI+UI界面产出质量！",
-      "title_en": null,
-      "title_zh": "掌握7条Claude Design设计规范，提升AI+UI界面产出质量！",
-      "title_bilingual": "掌握7条Claude Design设计规范，提升AI+UI界面产出质量！"
-    },
-    {
-      "id": "418dcbd2e235a1439415ad771c6b9dab0a6866ed",
+      "id": "737c19d246edd4fd1434c860a8f87530b485f45e",
       "site_id": "techurls",
       "site_name": "TechURLs",
       "source": "TechCrunch",
-      "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
-      "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search",
-      "published_at": "2026-05-26T22:32:56Z",
-      "first_seen_at": "2026-05-27T04:21:39.339833Z",
-      "last_seen_at": "2026-05-27T04:21:39.339833Z",
+      "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
+      "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans",
+      "published_at": "2026-05-27T18:00:00Z",
+      "first_seen_at": "2026-05-28T04:11:31.260237Z",
+      "last_seen_at": "2026-05-28T04:11:31.260237Z",
       "_tier": 1,
       "ai_tier": 1,
       "_source_config": {
@@ -187,182 +142,131 @@
         ],
         "max_items_per_day": 30
       },
-      "ai_design_relevance": 0.8,
-      "ai_quality_score": 8,
-      "ai_categories": [
-        "User Experience",
-        "AI Ethics",
-        "Search Interfaces",
-        "Technology Trends"
-      ],
-      "ai_target_audience": "UI/UX designers, product managers, and tech professionals tracking how AI integration affects user trust and engagement.",
-      "ai_key_insights": "Users are actively rejecting forced AI search features, leading to a 30% surge in DuckDuckGo installs. This signals a critical need for transparent, user-controlled AI implementation in design, where consent and privacy-preserving defaults shape adoption.",
-      "ai_recommendation": "用户转而远离被强加的AI搜索，推动隐私优先替代品增长，设计师需重视自主权与透明性，避免过度自动化侵蚀信任。",
-      "title_original": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
-      "title_en": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
-      "title_zh": "由于用户拒绝“强行灌输”谷歌人工智能搜索，DuckDuckGo 安装量增长了 30%",
-      "title_bilingual": "由于用户拒绝“强行灌输”谷歌人工智能搜索，DuckDuckGo 安装量增长了 30% / DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search"
-    },
-    {
-      "id": "4b6723850d73bdbaa5ab4f14cbdd310d7e883567",
-      "site_id": "aihot",
-      "site_name": "AI HOT",
-      "source": "The Verge：AI（RSS）",
-      "title": "Sundar Pichai 谈 AI、搜索的未来及网络的变化",
-      "url": "https://www.theverge.com/podcast/936445/sundar-pichai-ai-search-google-zero-youtube-web",
-      "published_at": "2026-05-26T14:00:00Z",
-      "first_seen_at": "2026-05-27T04:21:39.339833Z",
-      "last_seen_at": "2026-05-27T04:21:39.339833Z",
-      "_tier": 1,
-      "ai_tier": 1,
-      "_source_config": {
-        "id": "the_verge",
-        "name": "The Verge",
-        "patterns": [
-          "theverge.com",
-          "The Verge"
-        ],
-        "reason": "主流科技媒体，内容广泛，需AI筛选AI+设计相关",
-        "update_frequency": "hourly",
-        "expected_items_per_day": 50,
-        "language": "en",
-        "ai_filter_focus": [
-          "AI产品",
-          "设计工具",
-          "创意应用"
-        ],
-        "exclude_topics": [
-          "纯硬件评测",
-          "游戏",
-          "娱乐八卦"
-        ],
-        "max_items_per_day": 50
-      },
-      "ai_design_relevance": 0.8,
-      "ai_quality_score": 8,
-      "ai_categories": [
-        "人工智能",
-        "搜索引擎",
-        "UX设计趋势"
-      ],
-      "ai_target_audience": "UI/UX设计师、产品经理、对技术趋势感兴趣的设计策略师",
-      "ai_key_insights": "谷歌CEO阐述AI将如何从底层重塑搜索的交互范式，从链接列表转向直接答案与对话，进而影响网站流量、内容生态和用户心智模型，为设计师预示了信息架构和界面设计的根本变革。",
-      "ai_recommendation": "来自谷歌掌门人的第一手AI搜索愿景，帮助设计师提前把握交互范式的颠覆性转变。",
-      "title_original": "Sundar Pichai 谈 AI、搜索的未来及网络的变化",
-      "title_en": null,
-      "title_zh": "Sundar Pichai 谈 AI、搜索的未来及网络的变化",
-      "title_bilingual": "Sundar Pichai 谈 AI、搜索的未来及网络的变化"
-    },
-    {
-      "id": "eeaaf00c692aa4a4874e2a186a2fb1d01b2c1fe4",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "Wired",
-      "title": "Take This Mandatory AI Workplace Training Right Now—or Else",
-      "url": "https://www.wired.com/story/ai-or-die-trying",
-      "published_at": "2026-05-26T10:00:00Z",
-      "first_seen_at": "2026-05-27T04:21:39.339833Z",
-      "last_seen_at": "2026-05-27T04:21:39.339833Z",
-      "_tier": 1,
-      "ai_tier": 1,
-      "_source_config": {
-        "id": "wired",
-        "name": "Wired",
-        "patterns": [
-          "wired.com",
-          "Wired"
-        ],
-        "reason": "科技文化媒体，需筛选AI+设计深度报道",
-        "update_frequency": "daily",
-        "expected_items_per_day": 20,
-        "language": "en",
-        "ai_filter_focus": [
-          "AI应用",
-          "设计趋势",
-          "创意科技"
-        ],
-        "exclude_topics": [
-          "纯政治",
-          "安全政策",
-          "科学理论"
-        ],
-        "max_items_per_day": 20
-      },
-      "ai_design_relevance": 0.6,
+      "ai_design_relevance": 0.7,
       "ai_quality_score": 7,
       "ai_categories": [
-        "AI in the workplace",
-        "Corporate training design",
-        "Employee experience"
+        "Subscription Models",
+        "UI/UX Design",
+        "Social Media"
       ],
-      "ai_target_audience": "HR professionals, learning experience designers, managers implementing AI training, and UX designers involved in enterprise learning tools.",
-      "ai_key_insights": "The article likely highlights the pitfalls of top-down, mandatory AI training, emphasizing that poor usability and lack of engagement can backfire, and that designers must advocate for learner-centered, context-aware training experiences.",
-      "ai_recommendation": "强制培训的失败案例提醒设计师：企业学习工具必须兼顾动机、场景与可用性，避免形式化陷阱。",
-      "title_original": "Take This Mandatory AI Workplace Training Right Now—or Else",
-      "title_en": "Take This Mandatory AI Workplace Training Right Now—or Else",
-      "title_zh": "立即参加强制性人工智能工作场所培训，否则就参加",
-      "title_bilingual": "立即参加强制性人工智能工作场所培训，否则就参加 / Take This Mandatory AI Workplace Training Right Now—or Else"
+      "ai_target_audience": "Product managers, UX/UI designers, and tech strategists interested in monetization and platform evolution.",
+      "ai_key_insights": "Meta's subscription rollout introduces new payment flows, tiered experiences, and AI-driven personalization, directly impacting interface design for onboarding, upsells, and feature gating.",
+      "ai_recommendation": "深入解析订阅制如何重塑社交产品界面，为设计师提供支付流、分层体验与AI整合的实战参考，助你把握变现设计趋势。",
+      "title_original": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
+      "title_en": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
+      "title_zh": "Meta 推出 Instagram、Facebook 和 WhatsApp 订阅服务，并将推出更多服务，包括人工智能计划",
+      "title_bilingual": "Meta 推出 Instagram、Facebook 和 WhatsApp 订阅服务，并将推出更多服务，包括人工智能计划 / Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans"
     },
     {
-      "id": "981e96529619b2e3184e5ae60aaa5cc5625ef2d0",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "Wired",
-      "title": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
-      "url": "https://www.wired.com/story/fact-checking-ai",
-      "published_at": "2026-05-26T10:00:00Z",
-      "first_seen_at": "2026-05-27T04:21:39.339833Z",
-      "last_seen_at": "2026-05-27T04:21:39.339833Z",
+      "id": "ded79d216880bf5cde8b7021708d68a60b096288",
+      "site_id": "buzzing",
+      "site_name": "Buzzing",
+      "source": "techcrunch.com",
+      "title": "科技公司CEO们显然正饱受人工智能妄想症的困扰",
+      "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis",
+      "published_at": "2026-05-27T17:17:49.317000Z",
+      "first_seen_at": "2026-05-28T04:11:31.260237Z",
+      "last_seen_at": "2026-05-28T04:11:31.260237Z",
       "_tier": 1,
       "ai_tier": 1,
       "_source_config": {
-        "id": "wired",
-        "name": "Wired",
+        "id": "techcrunch",
+        "name": "TechCrunch",
         "patterns": [
-          "wired.com",
-          "Wired"
+          "techcrunch.com",
+          "TechCrunch"
         ],
-        "reason": "科技文化媒体，需筛选AI+设计深度报道",
-        "update_frequency": "daily",
-        "expected_items_per_day": 20,
+        "reason": "创投科技媒体，需筛选AI创业、产品相关",
+        "update_frequency": "hourly",
+        "expected_items_per_day": 30,
         "language": "en",
         "ai_filter_focus": [
-          "AI应用",
-          "设计趋势",
-          "创意科技"
+          "AI创业",
+          "新产品发布",
+          "设计工具融资"
         ],
         "exclude_topics": [
-          "纯政治",
-          "安全政策",
-          "科学理论"
+          "纯金融",
+          "加密货币",
+          "政策法规"
         ],
-        "max_items_per_day": 20
+        "max_items_per_day": 30
       },
       "ai_design_relevance": 0.7,
       "ai_quality_score": 6,
       "ai_categories": [
-        "AI Ethics",
-        "Information Design",
-        "Design Tools"
+        "人工智能",
+        "科技商业",
+        "设计思维"
       ],
-      "ai_target_audience": "UI/UX designers and product creators who integrate AI-generated content, interfaces, or workflows into their design process and need to understand trust, verification, and error states.",
-      "ai_key_insights": "AI models, even advanced ones, frequently produce factual errors that can mislead users if unchecked. Designers must embed verification layers, transparent disclaimers, and graceful error handling to maintain product credibility and user trust.",
-      "ai_recommendation": "本文揭示了AI生成内容的高度不确定性，为设计师提供关键警示：任何依赖AI输出的界面都需内置事实核查与容错机制。",
-      "title_original": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
-      "title_en": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
-      "title_zh": "我是一名专业的事实核查员。人工智能出错的次数比你想象的要多",
-      "title_bilingual": "我是一名专业的事实核查员。人工智能出错的次数比你想象的要多 / I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think"
+      "ai_target_audience": "关注AI技术趋势及其对产品设计影响的UI/UX设计师、产品经理和科技行业观察者",
+      "ai_key_insights": "揭露科技公司高层对AI能力存在不切实际的扩张预期，可能导致资源错配并忽视用户体验的真实需求；呼吁以更务实的态度将AI融入设计流程。",
+      "ai_recommendation": "帮助设计师看清AI炒作背后的盲点，避免被管理层妄想带偏设计方向。",
+      "title_original": "科技公司CEO们显然正饱受人工智能妄想症的困扰",
+      "title_en": null,
+      "title_zh": "科技公司CEO们显然正饱受人工智能妄想症的困扰",
+      "title_bilingual": "科技公司CEO们显然正饱受人工智能妄想症的困扰"
     },
     {
-      "id": "a2b638f4415f9f60d44eb708d44b6bf07d7d8701",
+      "id": "c8d925552a19e3ffb2bce3d6884524e0a5c921c9",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Engadget",
+      "title": "How to get wired internet without running ethernet cables",
+      "url": "https://www.engadget.com/2182061/how-to-get-wired-internet-without-ethernet-cable-in-walls",
+      "published_at": "2026-05-27T15:30:00Z",
+      "first_seen_at": "2026-05-28T04:11:31.260237Z",
+      "last_seen_at": "2026-05-28T04:11:31.260237Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "wired",
+        "name": "Wired",
+        "patterns": [
+          "wired.com",
+          "Wired"
+        ],
+        "reason": "科技文化媒体，需筛选AI+设计深度报道",
+        "update_frequency": "daily",
+        "expected_items_per_day": 20,
+        "language": "en",
+        "ai_filter_focus": [
+          "AI应用",
+          "设计趋势",
+          "创意科技"
+        ],
+        "exclude_topics": [
+          "纯政治",
+          "安全政策",
+          "科学理论"
+        ],
+        "max_items_per_day": 20
+      },
+      "ai_design_relevance": 0.2,
+      "ai_quality_score": 7,
+      "ai_categories": [
+        "home networking",
+        "technology how-to",
+        "DIY"
+      ],
+      "ai_target_audience": "homeowners, renters, and tech-savvy consumers seeking stable wired internet without extensive cabling",
+      "ai_key_insights": "Explains alternatives like MoCA (coaxial), powerline adapters, and mesh systems with Ethernet backhaul; practical setup tips and pros/cons for each method.",
+      "ai_recommendation": "对需要优化家庭网络但不想布线普通用户实用，对UI/UX设计师直接帮助有限，除非涉及智能家居或远程办公环境搭建。",
+      "title_original": "How to get wired internet without running ethernet cables",
+      "title_en": "How to get wired internet without running ethernet cables",
+      "title_zh": "如何在不运行以太网电缆的情况下获得有线互联网",
+      "title_bilingual": "如何在不运行以太网电缆的情况下获得有线互联网 / How to get wired internet without running ethernet cables"
+    },
+    {
+      "id": "b5605b197b1e900d17945e32eeca2c70951a743b",
       "site_id": "techurls",
       "site_name": "TechURLs",
       "source": "Wired",
-      "title": "AI Is Taking Over the Most Cursed Job in the World",
-      "url": "https://www.wired.com/story/ai-takes-over-debt-collection",
-      "published_at": "2026-05-26T10:00:00Z",
-      "first_seen_at": "2026-05-27T04:21:39.339833Z",
-      "last_seen_at": "2026-05-27T04:21:39.339833Z",
+      "title": "Xreal’s New $299 ‘xbx’ Smart Glasses Channel Xbox Vibes",
+      "url": "https://www.wired.com/story/xreal-expands-xbx-its-extra-light-smart-specs",
+      "published_at": "2026-05-27T13:54:48Z",
+      "first_seen_at": "2026-05-28T04:11:31.260237Z",
+      "last_seen_at": "2026-05-28T04:11:31.260237Z",
       "_tier": 1,
       "ai_tier": 1,
       "_source_config": {
@@ -389,78 +293,48 @@
         "max_items_per_day": 20
       },
       "ai_design_relevance": 0.7,
-      "ai_quality_score": 8,
+      "ai_quality_score": 7,
       "ai_categories": [
-        "AI Ethics",
-        "Content Moderation",
-        "Human-Computer Interaction",
-        "Trust & Safety Design"
+        "Wearable Technology",
+        "Gaming UX",
+        "Product Design"
       ],
-      "ai_target_audience": "Product designers, UX researchers, platform safety leads, and tech professionals building or moderating user-generated content systems",
-      "ai_key_insights": "AI is being deployed to automate psychologically harmful jobs like content moderation, reducing human exposure to trauma. This shift necessitates careful design of human-AI hybrid workflows, transparency in automated decisions, and ethical considerations around mental health, oversight, and bias.",
-      "ai_recommendation": "推荐阅读以理解AI如何接手内容审核等高风险工作，为设计安全、人性化的审核工具及交互界面提供关键伦理与实践视角。",
-      "title_original": "AI Is Taking Over the Most Cursed Job in the World",
-      "title_en": "AI Is Taking Over the Most Cursed Job in the World",
-      "title_zh": "人工智能正在接管世界上最受诅咒的工作",
-      "title_bilingual": "人工智能正在接管世界上最受诅咒的工作 / AI Is Taking Over the Most Cursed Job in the World"
+      "ai_target_audience": "Tech-savvy designers and product developers interested in the intersection of gaming, wearable displays, and affordable augmented reality experiences.",
+      "ai_key_insights": "Xreal's xbx glasses at $299 emphasize gaming culture with Xbox-inspired styling, lightweight display for media/gaming, and hint at future AR interface design directions for mass-market wearables.",
+      "ai_recommendation": "这款299美元的智能眼镜以Xbox风格切入大众游戏市场，为设计师提供了可穿戴界面在娱乐场景中的轻量化、亲民化设计参考。",
+      "title_original": "Xreal’s New $299 ‘xbx’ Smart Glasses Channel Xbox Vibes",
+      "title_en": "Xreal’s New $299 ‘xbx’ Smart Glasses Channel Xbox Vibes",
+      "title_zh": "Xreal 售价 299 美元的新款“xbx”智能眼镜频道 Xbox Vibes",
+      "title_bilingual": "Xreal 售价 299 美元的新款“xbx”智能眼镜频道 Xbox Vibes / Xreal’s New $299 ‘xbx’ Smart Glasses Channel Xbox Vibes"
+    },
+    {
+      "id": "83835d862be5bee787b7b6436067c0c0b3e704c9",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "掌握7条Claude Design设计规范，提升AI+UI界面产出质量！",
+      "url": "https://www.uisdc.com/claude-design-2",
+      "published_at": null,
+      "first_seen_at": "2026-05-27T04:21:39.339833Z",
+      "last_seen_at": "2026-05-28T04:11:31.260237Z",
+      "ai_filtered": true,
+      "title_original": "掌握7条Claude Design设计规范，提升AI+UI界面产出质量！",
+      "title_en": null,
+      "title_zh": "掌握7条Claude Design设计规范，提升AI+UI界面产出质量！",
+      "title_bilingual": "掌握7条Claude Design设计规范，提升AI+UI界面产出质量！"
     }
   ],
   "items_ai": [
     {
-      "id": "83835d862be5bee787b7b6436067c0c0b3e704c9",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "优设网 · 每日热文榜单",
-      "title": "掌握7条Claude Design设计规范，提升AI+UI界面产出质量！",
-      "url": "https://www.uisdc.com/claude-design-2",
-      "published_at": null,
-      "first_seen_at": "2026-05-27T04:21:39.339833Z",
-      "last_seen_at": "2026-05-27T04:21:39.339833Z",
-      "_tier": 1,
-      "ai_tier": 1,
-      "_source_config": {
-        "id": "uisdc",
-        "name": "优设网",
-        "patterns": [
-          "uisdc.com",
-          "优设网"
-        ],
-        "reason": "设计师学习平台，内容多，需AI筛选高质量",
-        "update_frequency": "daily",
-        "expected_items_per_day": 2,
-        "language": "zh",
-        "ai_filter_focus": [
-          "AI设计教程",
-          "工具实测",
-          "设计案例"
-        ],
-        "max_items_per_day": 3
-      },
-      "ai_design_relevance": 0.9,
-      "ai_quality_score": 8,
-      "ai_categories": [
-        "AI+UI设计",
-        "设计规范",
-        "设计系统"
-      ],
-      "ai_target_audience": "UI/UX设计师、产品设计师、关注AI设计工具的前端开发者",
-      "ai_key_insights": "将Claude设计原则与AI辅助UI设计相结合，提炼出7条可落地的界面质量提升规范，帮助设计师在AI参与的设计流程中保持一致性、可访问性和用户体验优先级。",
-      "ai_recommendation": "将大模型设计规范转化为UI实战策略，前沿且可操作，是AI时代设计师必读的工艺指南。",
-      "title_original": "掌握7条Claude Design设计规范，提升AI+UI界面产出质量！",
-      "title_en": null,
-      "title_zh": "掌握7条Claude Design设计规范，提升AI+UI界面产出质量！",
-      "title_bilingual": "掌握7条Claude Design设计规范，提升AI+UI界面产出质量！"
-    },
-    {
-      "id": "418dcbd2e235a1439415ad771c6b9dab0a6866ed",
+      "id": "737c19d246edd4fd1434c860a8f87530b485f45e",
       "site_id": "techurls",
       "site_name": "TechURLs",
       "source": "TechCrunch",
-      "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
-      "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search",
-      "published_at": "2026-05-26T22:32:56Z",
-      "first_seen_at": "2026-05-27T04:21:39.339833Z",
-      "last_seen_at": "2026-05-27T04:21:39.339833Z",
+      "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
+      "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans",
+      "published_at": "2026-05-27T18:00:00Z",
+      "first_seen_at": "2026-05-28T04:11:31.260237Z",
+      "last_seen_at": "2026-05-28T04:11:31.260237Z",
       "_tier": 1,
       "ai_tier": 1,
       "_source_config": {
@@ -486,182 +360,131 @@
         ],
         "max_items_per_day": 30
       },
-      "ai_design_relevance": 0.8,
-      "ai_quality_score": 8,
-      "ai_categories": [
-        "User Experience",
-        "AI Ethics",
-        "Search Interfaces",
-        "Technology Trends"
-      ],
-      "ai_target_audience": "UI/UX designers, product managers, and tech professionals tracking how AI integration affects user trust and engagement.",
-      "ai_key_insights": "Users are actively rejecting forced AI search features, leading to a 30% surge in DuckDuckGo installs. This signals a critical need for transparent, user-controlled AI implementation in design, where consent and privacy-preserving defaults shape adoption.",
-      "ai_recommendation": "用户转而远离被强加的AI搜索，推动隐私优先替代品增长，设计师需重视自主权与透明性，避免过度自动化侵蚀信任。",
-      "title_original": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
-      "title_en": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
-      "title_zh": "由于用户拒绝“强行灌输”谷歌人工智能搜索，DuckDuckGo 安装量增长了 30%",
-      "title_bilingual": "由于用户拒绝“强行灌输”谷歌人工智能搜索，DuckDuckGo 安装量增长了 30% / DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search"
-    },
-    {
-      "id": "4b6723850d73bdbaa5ab4f14cbdd310d7e883567",
-      "site_id": "aihot",
-      "site_name": "AI HOT",
-      "source": "The Verge：AI（RSS）",
-      "title": "Sundar Pichai 谈 AI、搜索的未来及网络的变化",
-      "url": "https://www.theverge.com/podcast/936445/sundar-pichai-ai-search-google-zero-youtube-web",
-      "published_at": "2026-05-26T14:00:00Z",
-      "first_seen_at": "2026-05-27T04:21:39.339833Z",
-      "last_seen_at": "2026-05-27T04:21:39.339833Z",
-      "_tier": 1,
-      "ai_tier": 1,
-      "_source_config": {
-        "id": "the_verge",
-        "name": "The Verge",
-        "patterns": [
-          "theverge.com",
-          "The Verge"
-        ],
-        "reason": "主流科技媒体，内容广泛，需AI筛选AI+设计相关",
-        "update_frequency": "hourly",
-        "expected_items_per_day": 50,
-        "language": "en",
-        "ai_filter_focus": [
-          "AI产品",
-          "设计工具",
-          "创意应用"
-        ],
-        "exclude_topics": [
-          "纯硬件评测",
-          "游戏",
-          "娱乐八卦"
-        ],
-        "max_items_per_day": 50
-      },
-      "ai_design_relevance": 0.8,
-      "ai_quality_score": 8,
-      "ai_categories": [
-        "人工智能",
-        "搜索引擎",
-        "UX设计趋势"
-      ],
-      "ai_target_audience": "UI/UX设计师、产品经理、对技术趋势感兴趣的设计策略师",
-      "ai_key_insights": "谷歌CEO阐述AI将如何从底层重塑搜索的交互范式，从链接列表转向直接答案与对话，进而影响网站流量、内容生态和用户心智模型，为设计师预示了信息架构和界面设计的根本变革。",
-      "ai_recommendation": "来自谷歌掌门人的第一手AI搜索愿景，帮助设计师提前把握交互范式的颠覆性转变。",
-      "title_original": "Sundar Pichai 谈 AI、搜索的未来及网络的变化",
-      "title_en": null,
-      "title_zh": "Sundar Pichai 谈 AI、搜索的未来及网络的变化",
-      "title_bilingual": "Sundar Pichai 谈 AI、搜索的未来及网络的变化"
-    },
-    {
-      "id": "eeaaf00c692aa4a4874e2a186a2fb1d01b2c1fe4",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "Wired",
-      "title": "Take This Mandatory AI Workplace Training Right Now—or Else",
-      "url": "https://www.wired.com/story/ai-or-die-trying",
-      "published_at": "2026-05-26T10:00:00Z",
-      "first_seen_at": "2026-05-27T04:21:39.339833Z",
-      "last_seen_at": "2026-05-27T04:21:39.339833Z",
-      "_tier": 1,
-      "ai_tier": 1,
-      "_source_config": {
-        "id": "wired",
-        "name": "Wired",
-        "patterns": [
-          "wired.com",
-          "Wired"
-        ],
-        "reason": "科技文化媒体，需筛选AI+设计深度报道",
-        "update_frequency": "daily",
-        "expected_items_per_day": 20,
-        "language": "en",
-        "ai_filter_focus": [
-          "AI应用",
-          "设计趋势",
-          "创意科技"
-        ],
-        "exclude_topics": [
-          "纯政治",
-          "安全政策",
-          "科学理论"
-        ],
-        "max_items_per_day": 20
-      },
-      "ai_design_relevance": 0.6,
+      "ai_design_relevance": 0.7,
       "ai_quality_score": 7,
       "ai_categories": [
-        "AI in the workplace",
-        "Corporate training design",
-        "Employee experience"
+        "Subscription Models",
+        "UI/UX Design",
+        "Social Media"
       ],
-      "ai_target_audience": "HR professionals, learning experience designers, managers implementing AI training, and UX designers involved in enterprise learning tools.",
-      "ai_key_insights": "The article likely highlights the pitfalls of top-down, mandatory AI training, emphasizing that poor usability and lack of engagement can backfire, and that designers must advocate for learner-centered, context-aware training experiences.",
-      "ai_recommendation": "强制培训的失败案例提醒设计师：企业学习工具必须兼顾动机、场景与可用性，避免形式化陷阱。",
-      "title_original": "Take This Mandatory AI Workplace Training Right Now—or Else",
-      "title_en": "Take This Mandatory AI Workplace Training Right Now—or Else",
-      "title_zh": "立即参加强制性人工智能工作场所培训，否则就参加",
-      "title_bilingual": "立即参加强制性人工智能工作场所培训，否则就参加 / Take This Mandatory AI Workplace Training Right Now—or Else"
+      "ai_target_audience": "Product managers, UX/UI designers, and tech strategists interested in monetization and platform evolution.",
+      "ai_key_insights": "Meta's subscription rollout introduces new payment flows, tiered experiences, and AI-driven personalization, directly impacting interface design for onboarding, upsells, and feature gating.",
+      "ai_recommendation": "深入解析订阅制如何重塑社交产品界面，为设计师提供支付流、分层体验与AI整合的实战参考，助你把握变现设计趋势。",
+      "title_original": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
+      "title_en": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
+      "title_zh": "Meta 推出 Instagram、Facebook 和 WhatsApp 订阅服务，并将推出更多服务，包括人工智能计划",
+      "title_bilingual": "Meta 推出 Instagram、Facebook 和 WhatsApp 订阅服务，并将推出更多服务，包括人工智能计划 / Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans"
     },
     {
-      "id": "981e96529619b2e3184e5ae60aaa5cc5625ef2d0",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "Wired",
-      "title": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
-      "url": "https://www.wired.com/story/fact-checking-ai",
-      "published_at": "2026-05-26T10:00:00Z",
-      "first_seen_at": "2026-05-27T04:21:39.339833Z",
-      "last_seen_at": "2026-05-27T04:21:39.339833Z",
+      "id": "ded79d216880bf5cde8b7021708d68a60b096288",
+      "site_id": "buzzing",
+      "site_name": "Buzzing",
+      "source": "techcrunch.com",
+      "title": "科技公司CEO们显然正饱受人工智能妄想症的困扰",
+      "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis",
+      "published_at": "2026-05-27T17:17:49.317000Z",
+      "first_seen_at": "2026-05-28T04:11:31.260237Z",
+      "last_seen_at": "2026-05-28T04:11:31.260237Z",
       "_tier": 1,
       "ai_tier": 1,
       "_source_config": {
-        "id": "wired",
-        "name": "Wired",
+        "id": "techcrunch",
+        "name": "TechCrunch",
         "patterns": [
-          "wired.com",
-          "Wired"
+          "techcrunch.com",
+          "TechCrunch"
         ],
-        "reason": "科技文化媒体，需筛选AI+设计深度报道",
-        "update_frequency": "daily",
-        "expected_items_per_day": 20,
+        "reason": "创投科技媒体，需筛选AI创业、产品相关",
+        "update_frequency": "hourly",
+        "expected_items_per_day": 30,
         "language": "en",
         "ai_filter_focus": [
-          "AI应用",
-          "设计趋势",
-          "创意科技"
+          "AI创业",
+          "新产品发布",
+          "设计工具融资"
         ],
         "exclude_topics": [
-          "纯政治",
-          "安全政策",
-          "科学理论"
+          "纯金融",
+          "加密货币",
+          "政策法规"
         ],
-        "max_items_per_day": 20
+        "max_items_per_day": 30
       },
       "ai_design_relevance": 0.7,
       "ai_quality_score": 6,
       "ai_categories": [
-        "AI Ethics",
-        "Information Design",
-        "Design Tools"
+        "人工智能",
+        "科技商业",
+        "设计思维"
       ],
-      "ai_target_audience": "UI/UX designers and product creators who integrate AI-generated content, interfaces, or workflows into their design process and need to understand trust, verification, and error states.",
-      "ai_key_insights": "AI models, even advanced ones, frequently produce factual errors that can mislead users if unchecked. Designers must embed verification layers, transparent disclaimers, and graceful error handling to maintain product credibility and user trust.",
-      "ai_recommendation": "本文揭示了AI生成内容的高度不确定性，为设计师提供关键警示：任何依赖AI输出的界面都需内置事实核查与容错机制。",
-      "title_original": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
-      "title_en": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
-      "title_zh": "我是一名专业的事实核查员。人工智能出错的次数比你想象的要多",
-      "title_bilingual": "我是一名专业的事实核查员。人工智能出错的次数比你想象的要多 / I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think"
+      "ai_target_audience": "关注AI技术趋势及其对产品设计影响的UI/UX设计师、产品经理和科技行业观察者",
+      "ai_key_insights": "揭露科技公司高层对AI能力存在不切实际的扩张预期，可能导致资源错配并忽视用户体验的真实需求；呼吁以更务实的态度将AI融入设计流程。",
+      "ai_recommendation": "帮助设计师看清AI炒作背后的盲点，避免被管理层妄想带偏设计方向。",
+      "title_original": "科技公司CEO们显然正饱受人工智能妄想症的困扰",
+      "title_en": null,
+      "title_zh": "科技公司CEO们显然正饱受人工智能妄想症的困扰",
+      "title_bilingual": "科技公司CEO们显然正饱受人工智能妄想症的困扰"
     },
     {
-      "id": "a2b638f4415f9f60d44eb708d44b6bf07d7d8701",
+      "id": "c8d925552a19e3ffb2bce3d6884524e0a5c921c9",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Engadget",
+      "title": "How to get wired internet without running ethernet cables",
+      "url": "https://www.engadget.com/2182061/how-to-get-wired-internet-without-ethernet-cable-in-walls",
+      "published_at": "2026-05-27T15:30:00Z",
+      "first_seen_at": "2026-05-28T04:11:31.260237Z",
+      "last_seen_at": "2026-05-28T04:11:31.260237Z",
+      "_tier": 1,
+      "ai_tier": 1,
+      "_source_config": {
+        "id": "wired",
+        "name": "Wired",
+        "patterns": [
+          "wired.com",
+          "Wired"
+        ],
+        "reason": "科技文化媒体，需筛选AI+设计深度报道",
+        "update_frequency": "daily",
+        "expected_items_per_day": 20,
+        "language": "en",
+        "ai_filter_focus": [
+          "AI应用",
+          "设计趋势",
+          "创意科技"
+        ],
+        "exclude_topics": [
+          "纯政治",
+          "安全政策",
+          "科学理论"
+        ],
+        "max_items_per_day": 20
+      },
+      "ai_design_relevance": 0.2,
+      "ai_quality_score": 7,
+      "ai_categories": [
+        "home networking",
+        "technology how-to",
+        "DIY"
+      ],
+      "ai_target_audience": "homeowners, renters, and tech-savvy consumers seeking stable wired internet without extensive cabling",
+      "ai_key_insights": "Explains alternatives like MoCA (coaxial), powerline adapters, and mesh systems with Ethernet backhaul; practical setup tips and pros/cons for each method.",
+      "ai_recommendation": "对需要优化家庭网络但不想布线普通用户实用，对UI/UX设计师直接帮助有限，除非涉及智能家居或远程办公环境搭建。",
+      "title_original": "How to get wired internet without running ethernet cables",
+      "title_en": "How to get wired internet without running ethernet cables",
+      "title_zh": "如何在不运行以太网电缆的情况下获得有线互联网",
+      "title_bilingual": "如何在不运行以太网电缆的情况下获得有线互联网 / How to get wired internet without running ethernet cables"
+    },
+    {
+      "id": "b5605b197b1e900d17945e32eeca2c70951a743b",
       "site_id": "techurls",
       "site_name": "TechURLs",
       "source": "Wired",
-      "title": "AI Is Taking Over the Most Cursed Job in the World",
-      "url": "https://www.wired.com/story/ai-takes-over-debt-collection",
-      "published_at": "2026-05-26T10:00:00Z",
-      "first_seen_at": "2026-05-27T04:21:39.339833Z",
-      "last_seen_at": "2026-05-27T04:21:39.339833Z",
+      "title": "Xreal’s New $299 ‘xbx’ Smart Glasses Channel Xbox Vibes",
+      "url": "https://www.wired.com/story/xreal-expands-xbx-its-extra-light-smart-specs",
+      "published_at": "2026-05-27T13:54:48Z",
+      "first_seen_at": "2026-05-28T04:11:31.260237Z",
+      "last_seen_at": "2026-05-28T04:11:31.260237Z",
       "_tier": 1,
       "ai_tier": 1,
       "_source_config": {
@@ -688,20 +511,35 @@
         "max_items_per_day": 20
       },
       "ai_design_relevance": 0.7,
-      "ai_quality_score": 8,
+      "ai_quality_score": 7,
       "ai_categories": [
-        "AI Ethics",
-        "Content Moderation",
-        "Human-Computer Interaction",
-        "Trust & Safety Design"
+        "Wearable Technology",
+        "Gaming UX",
+        "Product Design"
       ],
-      "ai_target_audience": "Product designers, UX researchers, platform safety leads, and tech professionals building or moderating user-generated content systems",
-      "ai_key_insights": "AI is being deployed to automate psychologically harmful jobs like content moderation, reducing human exposure to trauma. This shift necessitates careful design of human-AI hybrid workflows, transparency in automated decisions, and ethical considerations around mental health, oversight, and bias.",
-      "ai_recommendation": "推荐阅读以理解AI如何接手内容审核等高风险工作，为设计安全、人性化的审核工具及交互界面提供关键伦理与实践视角。",
-      "title_original": "AI Is Taking Over the Most Cursed Job in the World",
-      "title_en": "AI Is Taking Over the Most Cursed Job in the World",
-      "title_zh": "人工智能正在接管世界上最受诅咒的工作",
-      "title_bilingual": "人工智能正在接管世界上最受诅咒的工作 / AI Is Taking Over the Most Cursed Job in the World"
+      "ai_target_audience": "Tech-savvy designers and product developers interested in the intersection of gaming, wearable displays, and affordable augmented reality experiences.",
+      "ai_key_insights": "Xreal's xbx glasses at $299 emphasize gaming culture with Xbox-inspired styling, lightweight display for media/gaming, and hint at future AR interface design directions for mass-market wearables.",
+      "ai_recommendation": "这款299美元的智能眼镜以Xbox风格切入大众游戏市场，为设计师提供了可穿戴界面在娱乐场景中的轻量化、亲民化设计参考。",
+      "title_original": "Xreal’s New $299 ‘xbx’ Smart Glasses Channel Xbox Vibes",
+      "title_en": "Xreal’s New $299 ‘xbx’ Smart Glasses Channel Xbox Vibes",
+      "title_zh": "Xreal 售价 299 美元的新款“xbx”智能眼镜频道 Xbox Vibes",
+      "title_bilingual": "Xreal 售价 299 美元的新款“xbx”智能眼镜频道 Xbox Vibes / Xreal’s New $299 ‘xbx’ Smart Glasses Channel Xbox Vibes"
+    },
+    {
+      "id": "83835d862be5bee787b7b6436067c0c0b3e704c9",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "优设网 · 每日热文榜单",
+      "title": "掌握7条Claude Design设计规范，提升AI+UI界面产出质量！",
+      "url": "https://www.uisdc.com/claude-design-2",
+      "published_at": null,
+      "first_seen_at": "2026-05-27T04:21:39.339833Z",
+      "last_seen_at": "2026-05-28T04:11:31.260237Z",
+      "ai_filtered": true,
+      "title_original": "掌握7条Claude Design设计规范，提升AI+UI界面产出质量！",
+      "title_en": null,
+      "title_zh": "掌握7条Claude Design设计规范，提升AI+UI界面产出质量！",
+      "title_bilingual": "掌握7条Claude Design设计规范，提升AI+UI界面产出质量！"
     }
   ],
   "all_mode_data_url": "data/latest-24h-all.json"
