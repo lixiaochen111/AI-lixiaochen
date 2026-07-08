@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-07T03:58:06.669252Z",
+  "generated_at": "2026-07-08T03:24:30.956001Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
-      "item_count": 180,
-      "duration_ms": 3659,
+      "item_count": 187,
+      "duration_ms": 2504,
       "error": null
     },
     {
@@ -14,15 +14,15 @@
       "site_name": "AI Breakfast",
       "ok": true,
       "item_count": 7,
-      "duration_ms": 361,
+      "duration_ms": 249,
       "error": null
     },
     {
       "site_id": "followbuilders",
       "site_name": "Follow Builders",
       "ok": true,
-      "item_count": 26,
-      "duration_ms": 90,
+      "item_count": 36,
+      "duration_ms": 51,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 443,
+      "duration_ms": 522,
       "error": null
     },
     {
@@ -38,15 +38,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 380,
+      "duration_ms": 370,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 397,
-      "duration_ms": 13729,
+      "item_count": 396,
+      "duration_ms": 16038,
       "error": null
     },
     {
@@ -54,23 +54,23 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 1145,
+      "duration_ms": 2619,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 2999,
-      "duration_ms": 1597,
+      "item_count": 3015,
+      "duration_ms": 1877,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 80,
-      "duration_ms": 524,
+      "item_count": 71,
+      "duration_ms": 603,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 298,
+      "duration_ms": 397,
       "error": null
     },
     {
@@ -86,7 +86,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 3702,
+      "duration_ms": 908,
       "error": null
     },
     {
@@ -94,16 +94,16 @@
       "site_name": "AI HOT",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 121514,
+      "duration_ms": 739,
       "error": null
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 1425,
-      "error": "'ascii' codec can't decode byte 0xc2 in position 76534: ordinal not in range(128)"
+      "ok": true,
+      "item_count": 123,
+      "duration_ms": 722,
+      "error": null
     },
     {
       "site_id": "opmlrss",
@@ -111,7 +111,7 @@
       "ok": false,
       "partial_failures": 1,
       "item_count": 0,
-      "duration_ms": 245,
+      "duration_ms": 248,
       "error": "1 feeds failed",
       "feed_count": 1,
       "effective_feed_count": 1,
@@ -121,14 +121,13 @@
       "replaced_feed_count": 0
     }
   ],
-  "successful_sites": 12,
+  "successful_sites": 13,
   "failed_sites": [
-    "newsnow",
     "opmlrss"
   ],
   "zero_item_sites": [],
-  "fetched_raw_items": 3991,
-  "items_before_topic_filter": 3110,
+  "fetched_raw_items": 4126,
+  "items_before_topic_filter": 3205,
   "items_in_24h": 0,
   "rss_opml": {
     "enabled": true,
@@ -151,7 +150,7 @@
         "effective_feed_url": "https://rsshub.pseudoyu.com/twitter/user/ryolu",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 245,
+        "duration_ms": 248,
         "error": "503 Server Error: Service Unavailable for url: https://rsshub.pseudoyu.com/twitter/user/ryolu",
         "skipped": false,
         "skip_reason": null,
@@ -180,6 +179,6 @@
     "effective_result_cap": 20,
     "estimated_max_cost_usd_per_run": 0.1,
     "run_utc_hour": 0,
-    "generated_date_utc": "2026-07-07"
+    "generated_date_utc": "2026-07-08"
   }
 }
