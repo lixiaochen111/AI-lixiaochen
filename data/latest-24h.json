@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-16T03:15:28.102936Z",
+  "generated_at": "2026-07-17T03:18:24.876439Z",
   "window_hours": 24,
   "total_items": 0,
   "total_items_ai_raw": 0,
-  "total_items_raw": 2188,
-  "total_items_all_mode": 2054,
+  "total_items_raw": 2278,
+  "total_items_all_mode": 2131,
   "topic_filter": "ai_relevance_scoring_v0_4",
   "ai_relevance_threshold": 0.65,
   "ai_filter_stats": {
@@ -13,11 +13,11 @@
     "tier_1": 0,
     "tier_2": 0,
     "blacklisted": 0,
-    "items_before_filter": 2188,
+    "items_before_filter": 2278,
     "items_after_filter": 0,
     "filter_pass_rate": "0.0%"
   },
-  "archive_total": 49455,
+  "archive_total": 49430,
   "site_count": 14,
   "source_count": 0,
   "site_stats": [
@@ -31,7 +31,7 @@
       "site_id": "tophub",
       "site_name": "TopHub",
       "count": 0,
-      "raw_count": 987
+      "raw_count": 1019
     },
     {
       "site_id": "aibase",
@@ -49,37 +49,37 @@
       "site_id": "iris",
       "site_name": "Info Flow",
       "count": 0,
-      "raw_count": 291
+      "raw_count": 310
     },
     {
       "site_id": "buzzing",
       "site_name": "Buzzing",
       "count": 0,
-      "raw_count": 526
+      "raw_count": 551
     },
     {
       "site_id": "techurls",
       "site_name": "TechURLs",
       "count": 0,
-      "raw_count": 212
-    },
-    {
-      "site_id": "aihot",
-      "site_name": "AI HOT",
-      "count": 0,
-      "raw_count": 17
-    },
-    {
-      "site_id": "official_ai",
-      "site_name": "Official AI Updates",
-      "count": 0,
-      "raw_count": 6
+      "raw_count": 220
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "count": 0,
-      "raw_count": 50
+      "raw_count": 49
+    },
+    {
+      "site_id": "aihot",
+      "site_name": "AI HOT",
+      "count": 0,
+      "raw_count": 20
+    },
+    {
+      "site_id": "official_ai",
+      "site_name": "Official AI Updates",
+      "count": 0,
+      "raw_count": 10
     },
     {
       "site_id": "followbuilders",
