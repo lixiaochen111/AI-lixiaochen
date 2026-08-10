@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-09T02:07:30.886898Z",
+  "generated_at": "2026-08-10T02:12:25.311432Z",
   "window_hours": 24,
   "total_items": 0,
   "total_items_ai_raw": 0,
-  "total_items_raw": 1787,
-  "total_items_all_mode": 1678,
+  "total_items_raw": 1813,
+  "total_items_all_mode": 1694,
   "topic_filter": "ai_relevance_scoring_v0_4",
   "ai_relevance_threshold": 0.65,
   "ai_filter_stats": {
@@ -13,11 +13,11 @@
     "tier_1": 0,
     "tier_2": 0,
     "blacklisted": 0,
-    "items_before_filter": 1787,
+    "items_before_filter": 1813,
     "items_after_filter": 0,
     "filter_pass_rate": "0.0%"
   },
-  "archive_total": 47240,
+  "archive_total": 47189,
   "site_count": 14,
   "source_count": 0,
   "site_stats": [
@@ -25,43 +25,49 @@
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 0,
-      "raw_count": 84
+      "raw_count": 72
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "count": 0,
-      "raw_count": 899
+      "raw_count": 891
+    },
+    {
+      "site_id": "aibase",
+      "site_name": "AIbase",
+      "count": 0,
+      "raw_count": 11
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "count": 0,
-      "raw_count": 207
+      "raw_count": 223
     },
     {
       "site_id": "buzzing",
       "site_name": "Buzzing",
       "count": 0,
-      "raw_count": 409
+      "raw_count": 432
     },
     {
       "site_id": "techurls",
       "site_name": "TechURLs",
       "count": 0,
-      "raw_count": 138
+      "raw_count": 123
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "count": 0,
-      "raw_count": 42
+      "raw_count": 50
     },
     {
       "site_id": "aihot",
       "site_name": "AI HOT",
       "count": 0,
-      "raw_count": 6
+      "raw_count": 9
     },
     {
       "site_id": "followbuilders",
@@ -90,12 +96,6 @@
     {
       "site_id": "aihubtoday",
       "site_name": "AI HubToday",
-      "count": 0,
-      "raw_count": 0
-    },
-    {
-      "site_id": "aibase",
-      "site_name": "AIbase",
       "count": 0,
       "raw_count": 0
     },
