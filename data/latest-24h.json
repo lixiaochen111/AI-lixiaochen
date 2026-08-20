@@ -1,61 +1,61 @@
 {
-  "generated_at": "2026-08-19T01:38:04.924586Z",
+  "generated_at": "2026-08-20T01:36:38.776524Z",
   "window_hours": 24,
-  "total_items": 0,
-  "total_items_ai_raw": 0,
-  "total_items_raw": 1914,
-  "total_items_all_mode": 1829,
+  "total_items": 1,
+  "total_items_ai_raw": 1,
+  "total_items_raw": 2921,
+  "total_items_all_mode": 2777,
   "topic_filter": "ai_relevance_scoring_v0_4",
   "ai_relevance_threshold": 0.65,
   "ai_filter_stats": {
-    "total": 0,
-    "tier_0": 0,
+    "total": 1,
+    "tier_0": 1,
     "tier_1": 0,
     "tier_2": 0,
     "blacklisted": 0,
-    "items_before_filter": 1914,
-    "items_after_filter": 0,
-    "filter_pass_rate": "0.0%"
+    "items_before_filter": 1909,
+    "items_after_filter": 1,
+    "filter_pass_rate": "0.1%"
   },
-  "archive_total": 46726,
+  "archive_total": 46410,
   "site_count": 14,
-  "source_count": 0,
+  "source_count": 1,
   "site_stats": [
-    {
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "count": 0,
-      "raw_count": 67
-    },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
-      "count": 0,
-      "raw_count": 974
+      "count": 1,
+      "raw_count": 1933
     },
     {
       "site_id": "aibase",
       "site_name": "AIbase",
       "count": 0,
-      "raw_count": 20
+      "raw_count": 26
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "count": 0,
-      "raw_count": 242
+      "raw_count": 246
     },
     {
       "site_id": "buzzing",
       "site_name": "Buzzing",
       "count": 0,
-      "raw_count": 536
+      "raw_count": 552
+    },
+    {
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "count": 0,
+      "raw_count": 94
     },
     {
       "site_id": "aihot",
       "site_name": "AI HOT",
       "count": 0,
-      "raw_count": 9
+      "raw_count": 5
     },
     {
       "site_id": "zeli",
@@ -67,7 +67,7 @@
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "count": 0,
-      "raw_count": 8
+      "raw_count": 7
     },
     {
       "site_id": "followbuilders",
@@ -106,7 +106,69 @@
       "raw_count": 0
     }
   ],
-  "items": [],
-  "items_ai": [],
+  "items": [
+    {
+      "id": "9ce510344ead6dfd71e051f5490a574db95cf256",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "Product Hunt · 今日新产品",
+      "title": "Sider 6.0",
+      "url": "https://www.producthunt.com/products/chatgpt-sidebar-chrome-extension",
+      "published_at": null,
+      "first_seen_at": "2026-08-20T01:36:38.776524Z",
+      "last_seen_at": "2026-08-20T01:36:38.776524Z",
+      "_tier": 0,
+      "_source_config": {
+        "id": "sidebar",
+        "name": "Sidebar",
+        "patterns": [
+          "sidebar.io",
+          "Sidebar"
+        ],
+        "reason": "每日5个最佳设计链接，人工筛选",
+        "update_frequency": "daily",
+        "expected_items_per_day": 1,
+        "language": "en"
+      },
+      "ai_tier": 0,
+      "ai_must_publish": true,
+      "title_original": "Sider 6.0",
+      "title_en": null,
+      "title_zh": null,
+      "title_bilingual": "Sider 6.0"
+    }
+  ],
+  "items_ai": [
+    {
+      "id": "9ce510344ead6dfd71e051f5490a574db95cf256",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "Product Hunt · 今日新产品",
+      "title": "Sider 6.0",
+      "url": "https://www.producthunt.com/products/chatgpt-sidebar-chrome-extension",
+      "published_at": null,
+      "first_seen_at": "2026-08-20T01:36:38.776524Z",
+      "last_seen_at": "2026-08-20T01:36:38.776524Z",
+      "_tier": 0,
+      "_source_config": {
+        "id": "sidebar",
+        "name": "Sidebar",
+        "patterns": [
+          "sidebar.io",
+          "Sidebar"
+        ],
+        "reason": "每日5个最佳设计链接，人工筛选",
+        "update_frequency": "daily",
+        "expected_items_per_day": 1,
+        "language": "en"
+      },
+      "ai_tier": 0,
+      "ai_must_publish": true,
+      "title_original": "Sider 6.0",
+      "title_en": null,
+      "title_zh": null,
+      "title_bilingual": "Sider 6.0"
+    }
+  ],
   "all_mode_data_url": "data/latest-24h-all.json"
 }
