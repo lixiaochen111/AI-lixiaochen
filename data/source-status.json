@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-31T04:55:51.143363Z",
+  "generated_at": "2026-09-01T04:35:01.015401Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
       "item_count": 178,
-      "duration_ms": 2981,
+      "duration_ms": 2518,
       "error": null
     },
     {
@@ -14,15 +14,15 @@
       "site_name": "AI Breakfast",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 162,
+      "duration_ms": 113,
       "error": "403 Client Error: Forbidden for url: https://r.jina.ai/https://aibreakfast.beehiiv.com/"
     },
     {
       "site_id": "followbuilders",
       "site_name": "Follow Builders",
       "ok": true,
-      "item_count": 19,
-      "duration_ms": 153,
+      "item_count": 23,
+      "duration_ms": 831,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 456,
+      "duration_ms": 351,
       "error": null
     },
     {
@@ -38,39 +38,39 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 431,
+      "duration_ms": 572,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
-      "ok": true,
-      "item_count": 374,
-      "duration_ms": 17084,
-      "error": null
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 180570,
+      "error": "HTTPSConnectionPool(host='iris.findtruman.io', port=443): Max retries exceeded with url: /web/info_flow (Caused by ResponseError('too many 502 error responses'))"
     },
     {
       "site_id": "bestblogs",
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 860,
+      "duration_ms": 1381,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 3046,
-      "duration_ms": 1635,
+      "item_count": 3039,
+      "duration_ms": 821,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 67,
-      "duration_ms": 583,
+      "item_count": 78,
+      "duration_ms": 810,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "AI HubToday",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 5035,
+      "duration_ms": 4983,
       "error": "HTTPSConnectionPool(host='ai.hubtoday.app', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='ai.hubtoday.app', port=443): Failed to resolve 'ai.hubtoday.app' ([Errno -2] Name or service not known)\"))"
     },
     {
@@ -86,7 +86,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 836,
+      "duration_ms": 1025,
       "error": null
     },
     {
@@ -94,15 +94,15 @@
       "site_name": "AI HOT",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1389,
+      "duration_ms": 951,
       "error": null
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "ok": true,
-      "item_count": 129,
-      "duration_ms": 1222,
+      "item_count": 126,
+      "duration_ms": 2053,
       "error": null
     },
     {
@@ -111,7 +111,7 @@
       "ok": false,
       "partial_failures": 1,
       "item_count": 0,
-      "duration_ms": 12169,
+      "duration_ms": 12171,
       "error": "1 feeds failed",
       "feed_count": 1,
       "effective_feed_count": 1,
@@ -121,15 +121,16 @@
       "replaced_feed_count": 0
     }
   ],
-  "successful_sites": 11,
+  "successful_sites": 10,
   "failed_sites": [
     "aibreakfast",
+    "iris",
     "aihubtoday",
     "opmlrss"
   ],
   "zero_item_sites": [],
-  "fetched_raw_items": 4090,
-  "items_before_topic_filter": 1910,
+  "fetched_raw_items": 3724,
+  "items_before_topic_filter": 2935,
   "items_in_24h": 0,
   "rss_opml": {
     "enabled": true,
@@ -152,7 +153,7 @@
         "effective_feed_url": "https://rsshub.pseudoyu.com/twitter/user/ryolu",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 12169,
+        "duration_ms": 12171,
         "error": "HTTPSConnectionPool(host='rsshub.pseudoyu.com', port=443): Read timed out. (read timeout=12)",
         "skipped": false,
         "skip_reason": null,
@@ -181,6 +182,6 @@
     "effective_result_cap": 20,
     "estimated_max_cost_usd_per_run": 0.1,
     "run_utc_hour": 0,
-    "generated_date_utc": "2026-08-31"
+    "generated_date_utc": "2026-09-01"
   }
 }
