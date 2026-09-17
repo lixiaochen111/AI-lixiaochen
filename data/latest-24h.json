@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-16T04:19:58.075659Z",
+  "generated_at": "2026-09-17T04:25:55.777048Z",
   "window_hours": 24,
   "total_items": 0,
   "total_items_ai_raw": 0,
-  "total_items_raw": 3210,
-  "total_items_all_mode": 3021,
+  "total_items_raw": 2220,
+  "total_items_all_mode": 2094,
   "topic_filter": "ai_relevance_scoring_v0_4",
   "ai_relevance_threshold": 0.65,
   "ai_filter_stats": {
@@ -13,11 +13,11 @@
     "tier_1": 0,
     "tier_2": 0,
     "blacklisted": 0,
-    "items_before_filter": 2196,
+    "items_before_filter": 2220,
     "items_after_filter": 0,
     "filter_pass_rate": "0.0%"
   },
-  "archive_total": 46008,
+  "archive_total": 48289,
   "site_count": 14,
   "source_count": 0,
   "site_stats": [
@@ -25,37 +25,37 @@
       "site_id": "tophub",
       "site_name": "TopHub",
       "count": 0,
-      "raw_count": 1981
+      "raw_count": 1000
     },
     {
       "site_id": "aibase",
       "site_name": "AIbase",
       "count": 0,
-      "raw_count": 36
+      "raw_count": 20
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "count": 0,
-      "raw_count": 261
-    },
-    {
-      "site_id": "buzzing",
-      "site_name": "Buzzing",
-      "count": 0,
-      "raw_count": 557
+      "raw_count": 262
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 0,
-      "raw_count": 77
+      "raw_count": 69
+    },
+    {
+      "site_id": "buzzing",
+      "site_name": "Buzzing",
+      "count": 0,
+      "raw_count": 569
     },
     {
       "site_id": "techurls",
       "site_name": "TechURLs",
       "count": 0,
-      "raw_count": 225
+      "raw_count": 232
     },
     {
       "site_id": "zeli",
@@ -64,26 +64,26 @@
       "raw_count": 50
     },
     {
-      "site_id": "aihot",
-      "site_name": "AI HOT",
-      "count": 0,
-      "raw_count": 11
-    },
-    {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "count": 0,
-      "raw_count": 9
+      "raw_count": 10
     },
     {
-      "site_id": "followbuilders",
-      "site_name": "Follow Builders",
+      "site_id": "aihot",
+      "site_name": "AI HOT",
       "count": 0,
-      "raw_count": 3
+      "raw_count": 8
     },
     {
       "site_id": "aibreakfast",
       "site_name": "AI Breakfast",
+      "count": 0,
+      "raw_count": 0
+    },
+    {
+      "site_id": "followbuilders",
+      "site_name": "Follow Builders",
       "count": 0,
       "raw_count": 0
     },
