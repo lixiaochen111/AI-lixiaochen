@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-10T06:51:00.996502Z",
+  "generated_at": "2026-11-11T05:39:46.110461Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
-      "item_count": 219,
-      "duration_ms": 2713,
+      "item_count": 234,
+      "duration_ms": 6531,
       "error": null
     },
     {
@@ -14,7 +14,7 @@
       "site_name": "AI Breakfast",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 444,
+      "duration_ms": 293,
       "error": null
     },
     {
@@ -22,7 +22,7 @@
       "site_name": "Follow Builders",
       "ok": true,
       "item_count": 30,
-      "duration_ms": 120,
+      "duration_ms": 159,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 370,
+      "duration_ms": 521,
       "error": null
     },
     {
@@ -38,15 +38,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 432,
+      "duration_ms": 387,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 368,
-      "duration_ms": 61696,
+      "item_count": 389,
+      "duration_ms": 32907,
       "error": null
     },
     {
@@ -54,23 +54,23 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 663,
+      "duration_ms": 1015,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 3052,
-      "duration_ms": 1386,
+      "item_count": 3043,
+      "duration_ms": 1258,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 77,
-      "duration_ms": 848,
+      "item_count": 75,
+      "duration_ms": 489,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "AI HubToday",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 5483,
+      "duration_ms": 5295,
       "error": "HTTPSConnectionPool(host='ai.hubtoday.app', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')))"
     },
     {
@@ -86,7 +86,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1128,
+      "duration_ms": 949,
       "error": null
     },
     {
@@ -94,15 +94,15 @@
       "site_name": "AI HOT",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 7666,
+      "duration_ms": 1686,
       "error": null
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "ok": true,
-      "item_count": 121,
-      "duration_ms": 1140,
+      "item_count": 122,
+      "duration_ms": 1345,
       "error": null
     },
     {
@@ -111,7 +111,7 @@
       "ok": false,
       "partial_failures": 1,
       "item_count": 0,
-      "duration_ms": 86,
+      "duration_ms": 23,
       "error": "1 feeds failed",
       "feed_count": 1,
       "effective_feed_count": 1,
@@ -127,8 +127,8 @@
     "opmlrss"
   ],
   "zero_item_sites": [],
-  "fetched_raw_items": 4087,
-  "items_before_topic_filter": 2169,
+  "fetched_raw_items": 4110,
+  "items_before_topic_filter": 3324,
   "items_in_24h": 0,
   "rss_opml": {
     "enabled": true,
@@ -151,7 +151,7 @@
         "effective_feed_url": "https://rsshub.pseudoyu.com/twitter/user/ryolu",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 86,
+        "duration_ms": 23,
         "error": "HTTPSConnectionPool(host='rsshub.pseudoyu.com', port=443): Max retries exceeded with url: /twitter/user/ryolu (Caused by NameResolutionError(\"HTTPSConnection(host='rsshub.pseudoyu.com', port=443): Failed to resolve 'rsshub.pseudoyu.com' ([Errno -5] No address associated with hostname)\"))",
         "skipped": false,
         "skip_reason": null,
@@ -180,6 +180,6 @@
     "effective_result_cap": 20,
     "estimated_max_cost_usd_per_run": 0.1,
     "run_utc_hour": 0,
-    "generated_date_utc": "2026-11-10"
+    "generated_date_utc": "2026-11-11"
   }
 }
