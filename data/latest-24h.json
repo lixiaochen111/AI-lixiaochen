@@ -1,89 +1,83 @@
 {
-  "generated_at": "2026-11-21T06:36:26.228396Z",
+  "generated_at": "2026-11-22T06:04:34.637136Z",
   "window_hours": 24,
-  "total_items": 4,
-  "total_items_ai_raw": 4,
-  "total_items_raw": 2882,
-  "total_items_all_mode": 2669,
+  "total_items": 0,
+  "total_items_ai_raw": 0,
+  "total_items_raw": 2544,
+  "total_items_all_mode": 2343,
   "topic_filter": "ai_relevance_scoring_v0_4",
   "ai_relevance_threshold": 0.65,
   "ai_filter_stats": {
-    "total": 4,
-    "tier_0": 4,
+    "total": 0,
+    "tier_0": 0,
     "tier_1": 0,
     "tier_2": 0,
     "blacklisted": 0,
-    "items_before_filter": 1993,
-    "items_after_filter": 4,
-    "filter_pass_rate": "0.2%"
+    "items_before_filter": 1582,
+    "items_after_filter": 0,
+    "filter_pass_rate": "0.0%"
   },
-  "archive_total": 45329,
+  "archive_total": 44963,
   "site_count": 14,
-  "source_count": 4,
+  "source_count": 0,
   "site_stats": [
-    {
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "count": 2,
-      "raw_count": 214
-    },
-    {
-      "site_id": "buzzing",
-      "site_name": "Buzzing",
-      "count": 1,
-      "raw_count": 475
-    },
-    {
-      "site_id": "iris",
-      "site_name": "Info Flow",
-      "count": 1,
-      "raw_count": 237
-    },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "count": 0,
-      "raw_count": 1740
+      "raw_count": 1698
+    },
+    {
+      "site_id": "iris",
+      "site_name": "Info Flow",
+      "count": 0,
+      "raw_count": 199
+    },
+    {
+      "site_id": "buzzing",
+      "site_name": "Buzzing",
+      "count": 0,
+      "raw_count": 354
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 0,
-      "raw_count": 92
-    },
-    {
-      "site_id": "followbuilders",
-      "site_name": "Follow Builders",
-      "count": 0,
-      "raw_count": 31
+      "raw_count": 105
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "count": 0,
-      "raw_count": 50
+      "raw_count": 36
+    },
+    {
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "count": 0,
+      "raw_count": 150
     },
     {
       "site_id": "aihot",
       "site_name": "AI HOT",
       "count": 0,
-      "raw_count": 8
+      "raw_count": 2
     },
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "count": 0,
-      "raw_count": 4
-    },
-    {
-      "site_id": "aibase",
-      "site_name": "AIbase",
-      "count": 0,
-      "raw_count": 31
+      "raw_count": 0
     },
     {
       "site_id": "aibreakfast",
       "site_name": "AI Breakfast",
+      "count": 0,
+      "raw_count": 0
+    },
+    {
+      "site_id": "followbuilders",
+      "site_name": "Follow Builders",
       "count": 0,
       "raw_count": 0
     },
@@ -100,255 +94,19 @@
       "raw_count": 0
     },
     {
+      "site_id": "aibase",
+      "site_name": "AIbase",
+      "count": 0,
+      "raw_count": 0
+    },
+    {
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
       "count": 0,
       "raw_count": 0
     }
   ],
-  "items": [
-    {
-      "id": "ac4c0fd7d95208cd5382c64221775178277684bd",
-      "site_id": "buzzing",
-      "site_name": "Buzzing",
-      "source": "arstechnica.com",
-      "title": "谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮",
-      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar",
-      "published_at": "2026-11-20T22:15:54.395000Z",
-      "first_seen_at": "2026-11-21T06:36:26.228396Z",
-      "last_seen_at": "2026-11-21T06:36:26.228396Z",
-      "_tier": 0,
-      "_source_config": {
-        "id": "sidebar",
-        "name": "Sidebar",
-        "patterns": [
-          "sidebar.io",
-          "Sidebar"
-        ],
-        "reason": "每日5个最佳设计链接，人工筛选",
-        "update_frequency": "daily",
-        "expected_items_per_day": 1,
-        "language": "en"
-      },
-      "ai_tier": 0,
-      "ai_must_publish": true,
-      "title_original": "谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮",
-      "title_en": null,
-      "title_zh": "谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮",
-      "title_bilingual": "谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮"
-    },
-    {
-      "id": "25cfdb8f1afb2581168495415b47525afde38694",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "Ars Technica",
-      "title": "Google's latest search page redesign drops the search button, adds AI sidebar",
-      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar",
-      "published_at": "2026-11-20T21:58:29Z",
-      "first_seen_at": "2026-11-21T06:36:26.228396Z",
-      "last_seen_at": "2026-11-21T06:36:26.228396Z",
-      "_tier": 0,
-      "_source_config": {
-        "id": "sidebar",
-        "name": "Sidebar",
-        "patterns": [
-          "sidebar.io",
-          "Sidebar"
-        ],
-        "reason": "每日5个最佳设计链接，人工筛选",
-        "update_frequency": "daily",
-        "expected_items_per_day": 1,
-        "language": "en"
-      },
-      "ai_tier": 0,
-      "ai_must_publish": true,
-      "title_original": "Google's latest search page redesign drops the search button, adds AI sidebar",
-      "title_en": "Google's latest search page redesign drops the search button, adds AI sidebar",
-      "title_zh": "谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮",
-      "title_bilingual": "谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮 / Google's latest search page redesign drops the search button, adds AI sidebar"
-    },
-    {
-      "id": "f11063f39c65d2f07040c2d7a1fc7aa422cb56c0",
-      "site_id": "iris",
-      "site_name": "Info Flow",
-      "source": "Ars Technica (科技媒体)",
-      "title": "Google rolls out new search homepage with AI chat history and no search button",
-      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar",
-      "published_at": "2026-11-20T21:58:29Z",
-      "first_seen_at": "2026-11-21T06:36:26.228396Z",
-      "last_seen_at": "2026-11-21T06:36:26.228396Z",
-      "_tier": 0,
-      "_source_config": {
-        "id": "sidebar",
-        "name": "Sidebar",
-        "patterns": [
-          "sidebar.io",
-          "Sidebar"
-        ],
-        "reason": "每日5个最佳设计链接，人工筛选",
-        "update_frequency": "daily",
-        "expected_items_per_day": 1,
-        "language": "en"
-      },
-      "ai_tier": 0,
-      "ai_must_publish": true,
-      "title_original": "Google rolls out new search homepage with AI chat history and no search button",
-      "title_en": "Google rolls out new search homepage with AI chat history and no search button",
-      "title_zh": "谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮",
-      "title_bilingual": "谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮 / Google rolls out new search homepage with AI chat history and no search button"
-    },
-    {
-      "id": "05c125b339c1c8e0d209ed1a0730f61a368ff4ea",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "The Next Web",
-      "title": "Meta brings Muse to a Chrome sidebar used by 200,000 people",
-      "url": "https://thenextweb.com/news/meta-muse-chrome-extension-charm-300-australia-instagram",
-      "published_at": "2026-11-20T16:24:37Z",
-      "first_seen_at": "2026-11-21T06:36:26.228396Z",
-      "last_seen_at": "2026-11-21T06:36:26.228396Z",
-      "_tier": 0,
-      "_source_config": {
-        "id": "sidebar",
-        "name": "Sidebar",
-        "patterns": [
-          "sidebar.io",
-          "Sidebar"
-        ],
-        "reason": "每日5个最佳设计链接，人工筛选",
-        "update_frequency": "daily",
-        "expected_items_per_day": 1,
-        "language": "en"
-      },
-      "ai_tier": 0,
-      "ai_must_publish": true,
-      "title_original": "Meta brings Muse to a Chrome sidebar used by 200,000 people",
-      "title_en": "Meta brings Muse to a Chrome sidebar used by 200,000 people",
-      "title_zh": "Meta 将 Muse 引入 Chrome 侧边栏，已有 20 万人使用",
-      "title_bilingual": "Meta 将 Muse 引入 Chrome 侧边栏，已有 20 万人使用 / Meta brings Muse to a Chrome sidebar used by 200,000 people"
-    }
-  ],
-  "items_ai": [
-    {
-      "id": "ac4c0fd7d95208cd5382c64221775178277684bd",
-      "site_id": "buzzing",
-      "site_name": "Buzzing",
-      "source": "arstechnica.com",
-      "title": "谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮",
-      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar",
-      "published_at": "2026-11-20T22:15:54.395000Z",
-      "first_seen_at": "2026-11-21T06:36:26.228396Z",
-      "last_seen_at": "2026-11-21T06:36:26.228396Z",
-      "_tier": 0,
-      "_source_config": {
-        "id": "sidebar",
-        "name": "Sidebar",
-        "patterns": [
-          "sidebar.io",
-          "Sidebar"
-        ],
-        "reason": "每日5个最佳设计链接，人工筛选",
-        "update_frequency": "daily",
-        "expected_items_per_day": 1,
-        "language": "en"
-      },
-      "ai_tier": 0,
-      "ai_must_publish": true,
-      "title_original": "谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮",
-      "title_en": null,
-      "title_zh": "谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮",
-      "title_bilingual": "谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮"
-    },
-    {
-      "id": "25cfdb8f1afb2581168495415b47525afde38694",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "Ars Technica",
-      "title": "Google's latest search page redesign drops the search button, adds AI sidebar",
-      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar",
-      "published_at": "2026-11-20T21:58:29Z",
-      "first_seen_at": "2026-11-21T06:36:26.228396Z",
-      "last_seen_at": "2026-11-21T06:36:26.228396Z",
-      "_tier": 0,
-      "_source_config": {
-        "id": "sidebar",
-        "name": "Sidebar",
-        "patterns": [
-          "sidebar.io",
-          "Sidebar"
-        ],
-        "reason": "每日5个最佳设计链接，人工筛选",
-        "update_frequency": "daily",
-        "expected_items_per_day": 1,
-        "language": "en"
-      },
-      "ai_tier": 0,
-      "ai_must_publish": true,
-      "title_original": "Google's latest search page redesign drops the search button, adds AI sidebar",
-      "title_en": "Google's latest search page redesign drops the search button, adds AI sidebar",
-      "title_zh": "谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮",
-      "title_bilingual": "谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮 / Google's latest search page redesign drops the search button, adds AI sidebar"
-    },
-    {
-      "id": "f11063f39c65d2f07040c2d7a1fc7aa422cb56c0",
-      "site_id": "iris",
-      "site_name": "Info Flow",
-      "source": "Ars Technica (科技媒体)",
-      "title": "Google rolls out new search homepage with AI chat history and no search button",
-      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar",
-      "published_at": "2026-11-20T21:58:29Z",
-      "first_seen_at": "2026-11-21T06:36:26.228396Z",
-      "last_seen_at": "2026-11-21T06:36:26.228396Z",
-      "_tier": 0,
-      "_source_config": {
-        "id": "sidebar",
-        "name": "Sidebar",
-        "patterns": [
-          "sidebar.io",
-          "Sidebar"
-        ],
-        "reason": "每日5个最佳设计链接，人工筛选",
-        "update_frequency": "daily",
-        "expected_items_per_day": 1,
-        "language": "en"
-      },
-      "ai_tier": 0,
-      "ai_must_publish": true,
-      "title_original": "Google rolls out new search homepage with AI chat history and no search button",
-      "title_en": "Google rolls out new search homepage with AI chat history and no search button",
-      "title_zh": "谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮",
-      "title_bilingual": "谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮 / Google rolls out new search homepage with AI chat history and no search button"
-    },
-    {
-      "id": "05c125b339c1c8e0d209ed1a0730f61a368ff4ea",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "The Next Web",
-      "title": "Meta brings Muse to a Chrome sidebar used by 200,000 people",
-      "url": "https://thenextweb.com/news/meta-muse-chrome-extension-charm-300-australia-instagram",
-      "published_at": "2026-11-20T16:24:37Z",
-      "first_seen_at": "2026-11-21T06:36:26.228396Z",
-      "last_seen_at": "2026-11-21T06:36:26.228396Z",
-      "_tier": 0,
-      "_source_config": {
-        "id": "sidebar",
-        "name": "Sidebar",
-        "patterns": [
-          "sidebar.io",
-          "Sidebar"
-        ],
-        "reason": "每日5个最佳设计链接，人工筛选",
-        "update_frequency": "daily",
-        "expected_items_per_day": 1,
-        "language": "en"
-      },
-      "ai_tier": 0,
-      "ai_must_publish": true,
-      "title_original": "Meta brings Muse to a Chrome sidebar used by 200,000 people",
-      "title_en": "Meta brings Muse to a Chrome sidebar used by 200,000 people",
-      "title_zh": "Meta 将 Muse 引入 Chrome 侧边栏，已有 20 万人使用",
-      "title_bilingual": "Meta 将 Muse 引入 Chrome 侧边栏，已有 20 万人使用 / Meta brings Muse to a Chrome sidebar used by 200,000 people"
-    }
-  ],
+  "items": [],
+  "items_ai": [],
   "all_mode_data_url": "data/latest-24h-all.json"
 }
